@@ -1,0 +1,135 @@
+-- data yang di pakai adalah superstore datasets yang sudah di import ke local DB
+-- The data being used is the Superstore dataset that has already been imported into the local database.
+
+
+
+SELECT *
+FROM Orders$
+
+
+-- DETECT DATA NULL 
+-- iya satu satu kak :)
+
+SELECT * 
+FROM Orders$ 
+WHERE Row_ID IS NULL OR Order_ID IS NULL OR Order_Date IS NULL OR Ship_Date IS NULL
+OR State IS NULL OR Postal_Code IS NULL OR REGION IS NULL OR Product_ID IS NULL OR Category IS NULL OR
+Sub_Category IS NULL OR Product_Name IS NULL OR Product_ID IS NULL OR Sales IS NULL OR Quantity IS NULL OR
+Discount IS NULL OR Profit IS NULL
+
+-- ada data null di kolom segment, state, dan postal code
+-- data state yang kosong akan saya isi dengan informasi dari google tentang sate di US
+-- Update STATE to 'California' for rows where City is 'Los Angeles'
+UPDATE Orders$
+SET STATE = 'California'
+WHERE City = 'Los Angeles';
+
+-- Update STATE to 'Pennsylvania' for rows where City is 'Philadelphia'
+UPDATE Orders$
+SET STATE = 'Pennsylvania'
+WHERE City = 'Philadelphia';
+
+-- mengisi data kolom segment yang kosong dengan pengetahuan yang ada pada table
+UPDATE Orders$
+SET Segment = 'Consumer'
+WHERE Customer_Name = 'Brosina Hoffman'
+
+-- mengisi postal code vermont yang null (pada excel postal code vermont di detect menjadi string bukan number)
+UPDATE Orders$
+SET Postal_Code = '05408'
+WHERE State = 'Vermont';
+
+UPDATE Orders$
+SET Postal_Code = CAST(Postal_Code AS int)
+WHERE State = 'Vermont';
+
+
+----------------- data null selesai --------------
+
+-- berikutnya adalah mendetect apakah double space pada semua kolom dan baris yang ada pada data superstore
+-- menurut spreadsheet ada bbrp data yang mempunyai double space pada kolom Product_Name
+
+SELECT *
+FROM Orders$
+WHERE Product_Name LIKE '%  %'
+Order by Row_ID
+
+-- berikut adalah cara memperbaikinya
+-- disini saya menggunakan fungsi pada sql yaitu CHARINDEX untuk mencari data yang double space
+-- lalu mengreplace data double space tsb menjadi single space
+
+UPDATE Orders$
+SET Product_Name = REPLACE(Product_Name, '  ', ' ')
+WHERE CHARINDEX('  ', Product_Name) > 0;
+-- disini bisa di lihat lagi bahwa sudah tidak ada data yang mempunyai double space
+SELECT *
+FROM Orders$
+WHERE Product_Name LIKE '%  %'
+Order by Row_ID
+
+------------ Double Space Selesai --------------
+
+------------ invalid pada kolom region --------------
+
+-- mendetect data invalid pada kolom region
+SELECT *
+FROM Orders$
+WHERE Region LIKE '%[0-9]%';
+
+-- mengupdate nama region yang invalid (bernomor) bukan kata kata.
+-- saya akan mengupdate data region menurut kolom state
+-- membenarkan region kentucky
+update Orders$
+SET Region = 'South'
+Where State = 'Kentucky'
+
+-- memperbaiki region florida
+update Orders$
+SET Region = 'South'
+Where State = 'Florida'
+
+
+-- memperbaiki region California
+update Orders$
+SET Region = 'West'
+Where State = 'California'
+
+-- selesai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
