@@ -1,6 +1,6 @@
 -- data yang di pakai adalah superstore datasets yang sudah di import ke local DB
 -- The data being used is the Superstore dataset that has already been imported into the local database.
-
+-- in this project i do data cleansing on some coloumn that has a invalid data, null value, and white space.
 
 
 SELECT *
