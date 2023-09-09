@@ -1,0 +1,91 @@
+-- data yang di pakai adalah superstore datasets yang sudah di import ke local DB
+-- the data that is used in this project is superstore datasets that already imported into the local DB.
+
+-- saya mendapat data ini dari mitra studi independen
+-- i got this data from the independency study partners.
+
+
+USE belajar;
+
+-- Temukan total penjualan per negara
+-- Tugas ini memerlukan penggabungan tabel customers dan orders. 
+-- Fungsi SUM digunakan untuk menghitung total penjualan per negara.
+SELECT 
+	A.country AS Negara,
+    SUM(C.quantityOrdered * C.priceEach) AS TotalPenjualan
+FROM belajar.customers A
+LEFT JOIN belajar.orders B
+	ON A.customerNumber = B.customerNumber
+LEFT JOIN belajar.orderdetails C
+ON B.orderNumber = C.orderNumber
+GROUP BY A.country;
+
+-- Temukan 10 produk terlaris
+-- Tugas ini memerlukan penggabungan tabel products dan detail orders.
+-- Fungsi SUM digunakan untuk menghitung total kuantitas terjual untuk setiap produk, dan klausa ORDER BY dan LIMIT digunakan untuk mendapatkan 10 produk teratas.
+SELECT 
+	A.productCode,
+    A.ProductName,
+    SUM(B.quantityOrdered * B.priceEach) AS TotalPenjualan
+FROM belajar.products A
+JOIN belajar.orderdetails B
+	ON A.productCode = B.productCode
+GROUP BY A.productName 
+ORDER BY TotalPenjualan DESC
+LIMIT 10 ;
+
+
+-- Temukan total pendapatan per sales representative 
+-- Tugas ini memerlukan penggabungan tabel employees, customers, dan orders. 
+-- Fungsi SUM digunakan untuk menghitung total pendapatan setiap perwakilan penjualan.
+SELECT 
+	CONCAT(employees.firstName, ' ', employees.lastName) AS SalesRep, 
+	SUM(orderdetails.quantityOrdered * orderdetails.priceEach) AS TotalRevenue
+FROM belajar.employees
+JOIN belajar.customers 
+	ON employees.employeeNumber = customers.salesRepEmployeeNumber
+JOIN belajar.orders 
+	ON customers.customerNumber = orders.customerNumber
+JOIN belajar.orderdetails 
+ON orders.orderNumber = orderdetails.orderNumber
+GROUP BY SalesRep;
+
+
+-- Temukan kredit limit rata-rata per negara
+-- Tugas ini memerlukan pemilihan data dari tabel customers. 
+-- Fungsi AVG digunakan untuk menghitung rata-rata batas kredit setiap negara.
+SELECT 
+	country,
+	AVG(creditLimit)  AS AverageCreditLimit
+FROM belajar.customers
+GROUP BY country;
+
+
+-- Temukan jumlah pelanggan per kantor
+-- Tugas ini memerlukan penggabungan tabel customers dan employees, lalu menggabungkan hasilnya dengan tabel offices. 
+-- Fungsi COUNT digunakan untuk menghitung jumlah pelanggan setiap kantor.
+SELECT offices.city, COUNT(customers.customerNumber) AS NumberOfCustomers
+FROM offices
+LEFT JOIN employees 
+	ON offices.officeCode = employees.officeCode
+LEFT JOIN customers 
+	ON employees.employeeNumber = customers.salesRepEmployeeNumber
+GROUP BY offices.city;
+
+
+SELECT offices.city, COUNT(customers.customerNumber) AS NumberOfCustomers
+FROM offices
+JOIN employees 
+	ON offices.officeCode = employees.officeCode
+JOIN customers 
+	ON employees.employeeNumber = customers.salesRepEmployeeNumber
+GROUP BY offices.city;
+
+
+
+
+
+    
+
+	
+
