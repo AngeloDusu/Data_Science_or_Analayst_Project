@@ -1,0 +1,2002 @@
+lokasi,kota,harga,K_tidur,K_mandi,luas_tanah_m2,luas_bangunan_m2,taman,AC,jalur_telepon,kolam_renang,CCTV
+Joglo,Jakarta Barat,2000000000,3.0,2.0,72,90,yes,no,yes,no,no
+Cempaka Putih,Jakarta Pusat,1130000000,2.0,2.0,30,58,no,no,yes,no,no
+Kelapa Gading,Jakarta Utara,1040000000,2.0,2.0,55,54,no,no,yes,no,no
+Daan Mogot,Jakarta Barat,3950000000,4.0,2.0,120,135,no,no,yes,no,no
+Jagakarsa,Jakarta Selatan,2500000000,5.0,6.0,83,200,yes,no,no,no,no
+Meruya,Jakarta Barat,2250000000,3.0,2.0,125,150,yes,no,no,no,yes
+Cilandak,Jakarta Selatan,4700000000,3.0,3.0,144,165,yes,no,no,no,no
+Pondok Labu,Jakarta Selatan,958000000,2.0,2.0,39,72,yes,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,4200000000,3.0,3.0,120,144,no,no,no,yes,no
+Pulo Gadung,Jakarta Timur,1000000000,3.0,3.0,44,68,no,no,no,no,yes
+Jagakarsa,Jakarta Selatan,1700000000,3.0,3.0,114,130,yes,no,no,no,no
+Jagakarsa,Jakarta Selatan,1850000000,4.0,4.0,126,150,yes,no,no,no,no
+Cengkareng,Jakarta Barat,2300000000,3.0,3.0,119,120,no,no,no,no,no
+Cengkareng,Jakarta Barat,2300000000,3.0,3.0,119,120,no,no,no,no,no
+Cengkareng,Jakarta Barat,3550000000,3.0,2.0,108,195,yes,no,no,no,no
+Taman Kencana,Jakarta Barat,2700000000,4.0,3.0,120,180,no,no,yes,no,no
+Pantai Indah Kapuk,Jakarta Utara,4150000000,3.0,3.0,120,125,yes,no,yes,no,no
+Cibubur,Jakarta Timur,950000000,3.0,2.0,105,78,no,no,no,no,no
+Green Lake City,Jakarta Barat,2950000000,3.0,3.0,144,147,no,no,yes,no,no
+Cempaka Putih,Jakarta Pusat,2370000000,3.0,3.0,53,94,no,no,yes,no,yes
+Pulo Gadung,Jakarta Timur,1000000000,2.0,3.0,44,68,no,no,no,no,yes
+Pantai Indah Kapuk,Jakarta Utara,1600000000,2.0,1.0,60,79,yes,no,no,no,yes
+Cakung,Jakarta Timur,1000000000,3.0,3.0,73,73,yes,no,no,no,yes
+Pantai Indah Kapuk,Jakarta Utara,5200000000,4.0,3.0,120,163,yes,no,no,no,no
+Jatinegara,Jakarta Timur,735000000,2.0,2.0,32,62,no,no,no,no,yes
+Pantai Indah Kapuk,Jakarta Utara,4000000000,3.0,3.0,120,130,no,no,no,no,yes
+Pantai Indah Kapuk,Jakarta Utara,3100000000,3.0,3.0,90,120,no,no,no,yes,no
+Pantai Indah Kapuk,Jakarta Utara,2350000000,3.0,3.0,75,100,no,no,no,no,yes
+Kayu Putih,Jakarta Timur,2400000000,3.0,3.0,53,94,yes,no,no,no,yes
+Taman Palem,Jakarta Barat,3000000000,3.0,3.0,120,180,no,no,no,no,no
+Cempaka Putih,Jakarta Pusat,1740000000,3.0,3.0,86,86,no,no,no,no,yes
+Roxy,Jakarta Pusat,3800000000,3.0,1.0,144,110,yes,no,no,no,no
+Tanjung Duren,Jakarta Barat,2550000000,3.0,3.0,60,185,no,no,no,no,no
+Pondok Labu,Jakarta Selatan,870000000,2.0,2.0,35,68,no,no,no,no,no
+Duri Kepa,Jakarta Barat,1890000000,3.0,3.0,63,180,no,no,yes,no,no
+Cengkareng,Jakarta Barat,2200000000,4.0,4.0,157,168,no,no,no,no,no
+Green Lake City,Jakarta Barat,1450000000,2.0,2.0,60,90,no,no,yes,no,no
+Green Lake City,Jakarta Barat,2100000000,3.0,3.0,90,100,no,yes,yes,no,no
+Cilangkap,Jakarta Timur,765000000,3.0,2.0,53,65,no,no,yes,no,yes
+Matraman,Jakarta Timur,828000000,3.0,3.0,30,58,no,no,no,no,yes
+Jagakarsa,Jakarta Selatan,2100000000,3.0,2.0,179,160,yes,no,no,no,no
+Jagakarsa,Jakarta Selatan,2100000000,3.0,2.0,179,160,yes,no,no,no,no
+Green Lake City,Jakarta Barat,3000000000,3.0,3.0,144,150,yes,no,no,no,no
+Cipinang,Jakarta Timur,2350000000,2.0,2.0,76,90,no,no,no,no,yes
+Cempaka Putih,Jakarta Pusat,1360000000,2.0,2.0,39,58,no,no,no,no,yes
+Rawamangun,Jakarta Timur,1320000000,3.0,3.0,48,67,no,no,yes,no,yes
+Pantai Indah Kapuk,Jakarta Utara,4100000000,3.0,3.0,120,142,no,no,yes,no,no
+Jagakarsa,Jakarta Selatan,2300000000,3.0,4.0,125,176,no,no,no,no,yes
+Cipinang,Jakarta Timur,710000000,2.0,2.0,35,68,yes,no,no,no,no
+Cibubur,Jakarta Timur,1400000000,3.0,3.0,75,78,yes,no,no,no,no
+Rawamangun,Jakarta Timur,2600000000,3.0,3.0,90,135,no,no,yes,no,yes
+Duri Kepa,Jakarta Barat,1190000000,3.0,2.0,45,100,no,no,yes,no,no
+Duri Kepa,Jakarta Barat,1190000000,3.0,2.0,45,100,no,no,yes,no,no
+Duri Kosambi,Jakarta Barat,1540000000,3.0,2.0,90,100,no,no,yes,no,no
+Jagakarsa,Jakarta Selatan,1350000000,3.0,3.0,61,100,yes,no,yes,no,no
+Pantai Indah Kapuk,Jakarta Utara,2270000000,3.0,2.0,80,100,no,no,no,no,no
+Cakung,Jakarta Timur,1000000000,2.0,3.0,44,68,no,no,yes,no,no
+Pantai Indah Kapuk,Jakarta Utara,2700000000,3.0,3.0,90,150,no,no,yes,no,no
+Puri Mansion,Jakarta Barat,3750000000,3.0,3.0,120,180,no,no,yes,no,no
+Duren Sawit,Jakarta Timur,718000000,2.0,2.0,31,61,no,no,no,no,yes
+Cempaka Putih,Jakarta Pusat,1300000000,3.0,3.0,39,58,yes,no,no,no,yes
+Cempaka Putih,Jakarta Pusat,2400000000,4.0,3.0,53,94,yes,no,no,no,no
+Bambu Apus,Jakarta Timur,925000000,3.0,2.0,65,100,yes,no,no,no,no
+Bambu Apus,Jakarta Timur,925000000,3.0,2.0,65,100,yes,no,no,no,no
+Permata Buana,Jakarta Barat,5000000000,3.0,3.0,144,136,yes,no,no,no,no
+Jagakarsa,Jakarta Selatan,2500000000,4.0,3.0,125,137,no,no,no,no,no
+Cakung,Jakarta Timur,1750000000,3.0,2.0,102,75,no,no,yes,no,no
+Cengkareng,Jakarta Barat,3550000000,3.0,2.0,108,190,no,no,no,no,no
+Pantai Indah Kapuk 2,Jakarta Utara,1750000000,2.0,2.0,60,79,no,no,yes,no,no
+Pantai Indah Kapuk,Jakarta Utara,4600000000,2.0,2.0,90,145,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,4600000000,2.0,2.0,90,145,no,no,no,no,no
+Meruya,Jakarta Barat,1550000000,3.0,3.0,78,110,yes,no,yes,no,no
+Tanjung Duren,Jakarta Barat,2250000000,3.0,3.0,56,110,yes,no,yes,no,no
+Cipinang,Jakarta Timur,720000000,2.0,3.0,31,61,yes,no,no,no,yes
+Permata Buana,Jakarta Barat,4790000000,4.0,2.0,200,180,no,no,no,no,no
+Kemayoran,Jakarta Pusat,490000000,2.0,2.0,22,42,no,no,no,no,yes
+Pulo Gadung,Jakarta Timur,1020000000,2.0,3.0,46,73,no,no,no,no,yes
+Green Lake City,Jakarta Barat,2300000000,4.0,3.0,90,150,no,no,no,no,yes
+Pantai Indah Kapuk,Jakarta Utara,1650000000,3.0,3.0,45,80,no,no,yes,no,yes
+Jagakarsa,Jakarta Selatan,1800000000,3.0,3.0,120,168,yes,no,yes,no,no
+Cempaka Putih,Jakarta Pusat,2960000000,3.0,3.0,92,92,no,no,yes,no,no
+Green Lake City,Jakarta Barat,2450000000,3.0,2.0,108,135,yes,no,yes,no,no
+Tamansari,Jakarta Barat,489000000,2.0,1.0,22,36,no,no,no,no,yes
+Pantai Indah Kapuk,Jakarta Utara,4200000000,3.0,3.0,120,150,no,no,yes,no,yes
+Pejaten,Jakarta Selatan,2800000000,3.0,2.0,103,150,yes,yes,no,no,no
+Asemka,Jakarta Barat,475000000,2.0,1.0,22,36,no,no,no,no,no
+Green Lake City,Jakarta Barat,2090000000,3.0,2.0,90,100,yes,no,no,no,no
+Green Lake City,Jakarta Barat,2070000000,3.0,3.0,90,120,yes,no,no,no,no
+Graha Bintaro,Jakarta Selatan,1500000000,3.0,1.0,105,75,yes,no,no,no,no
+Cibubur,Jakarta Timur,695000000,3.0,2.0,54,60,no,no,no,no,no
+Green Lake City,Jakarta Barat,3250000000,3.0,3.0,120,150,yes,no,no,no,no
+Cibubur,Jakarta Timur,800000000,3.0,2.0,53,74,yes,no,no,no,no
+Ciracas,Jakarta Timur,2500000000,3.0,3.0,105,114,yes,no,no,no,no
+Cibubur,Jakarta Timur,3500000000,4.0,3.0,160,181,no,no,yes,no,no
+Cilandak,Jakarta Selatan,2650000000,3.0,3.0,62,140,no,no,no,no,yes
+Kota Wisata,Jakarta Timur,1230000000,3.0,2.0,120,88,yes,no,no,no,no
+Jatinegara,Jakarta Timur,1600000000,2.0,2.0,124,86,yes,no,yes,no,no
+Rawamangun,Jakarta Timur,910000000,2.0,2.0,30,54,no,no,no,no,yes
+Cakung,Jakarta Timur,1800000000,2.0,2.0,90,63,yes,no,yes,no,no
+Cakung,Jakarta Timur,2700000000,3.0,2.0,105,108,no,no,no,yes,no
+Pantai Indah Kapuk,Jakarta Utara,4500000000,2.0,3.0,137,160,yes,no,no,no,no
+Daan Mogot,Jakarta Barat,1700000000,3.0,3.0,200,180,yes,no,no,no,no
+Jagakarsa,Jakarta Selatan,1300000000,4.0,3.0,108,160,yes,no,no,no,no
+Green Lake City,Jakarta Barat,2550000000,4.0,3.0,96,130,yes,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,7500000000,3.0,3.0,195,200,no,no,yes,no,no
+Puri Mansion,Jakarta Barat,2700000000,3.0,3.0,90,110,no,no,yes,no,no
+Metland Puri,Jakarta Barat,3200000000,3.0,2.0,160,200,no,no,yes,no,no
+Teluk Gong,Jakarta Utara,2200000000,5.0,2.0,90,150,no,no,yes,no,no
+Citra Garden,Jakarta Barat,6400000000,3.0,3.0,190,192,yes,no,yes,no,no
+Pondok Labu,Jakarta Selatan,854000000,2.0,2.0,37,65,yes,no,no,no,yes
+Cempaka Putih,Jakarta Pusat,3550000000,3.0,2.0,80,111,yes,no,no,no,yes
+Pulo Gadung,Jakarta Timur,780000000,3.0,3.0,37,68,no,no,no,no,no
+Pulo Gadung,Jakarta Timur,780000000,3.0,3.0,37,68,no,no,no,no,no
+Gunung Sahari,Jakarta Pusat,430000000,2.0,2.0,19,36,no,no,no,no,no
+Kemayoran,Jakarta Pusat,490000000,2.0,2.0,19,36,no,no,yes,no,no
+Fatmawati,Jakarta Selatan,862000000,2.0,2.0,36,62,no,no,no,no,yes
+Cilandak,Jakarta Selatan,1040000000,3.0,3.0,41,79,yes,no,no,no,no
+Pondok Labu,Jakarta Selatan,854000000,3.0,3.0,41,69,no,no,yes,no,yes
+Jatinegara,Jakarta Timur,694000000,2.0,2.0,31,60,no,no,no,no,yes
+Cempaka Putih,Jakarta Pusat,2210000000,4.0,4.0,54,120,no,no,no,no,yes
+Green Lake City,Jakarta Barat,2330000000,2.0,3.0,90,127,no,no,no,yes,no
+Pantai Indah Kapuk,Jakarta Utara,3100000000,3.0,3.0,90,120,yes,no,no,yes,no
+Pondok Indah,Jakarta Selatan,4600000000,3.0,2.0,121,100,no,no,no,yes,no
+Cengkareng,Jakarta Barat,2600000000,3.0,3.0,90,180,yes,no,no,yes,no
+Cipinang,Jakarta Timur,1390000000,3.0,3.0,40,78,yes,no,no,no,no
+Muara Karang,Jakarta Utara,4600000000,3.0,4.0,120,200,yes,no,yes,no,no
+Tomang,Jakarta Barat,2490000000,4.0,4.0,48,120,no,no,no,no,yes
+Green Lake City,Jakarta Barat,3180000000,3.0,3.0,120,150,no,no,no,yes,no
+Permata Buana,Jakarta Barat,5500000000,3.0,3.0,144,200,yes,no,yes,no,no
+Tamansari,Jakarta Barat,629000000,2.0,2.0,18,33,yes,no,no,no,no
+Green Lake City,Jakarta Barat,2500000000,3.0,2.0,108,156,yes,no,no,no,no
+Green Lake City,Jakarta Barat,2590000000,3.0,2.0,90,130,yes,no,no,no,no
+Pondok Labu,Jakarta Selatan,960000000,3.0,2.0,49,90,yes,no,no,no,no
+Pondok Labu,Jakarta Selatan,960000000,3.0,2.0,49,90,yes,no,no,no,no
+Matraman,Jakarta Timur,818000000,2.0,2.0,30,59,no,no,no,no,yes
+Senen,Jakarta Pusat,1170000000,2.0,3.0,49,72,no,no,yes,no,no
+Cengkareng,Jakarta Barat,1180000000,3.0,2.0,75,85,yes,no,yes,no,no
+Puri Mansion,Jakarta Barat,2700000000,3.0,3.0,90,150,yes,no,yes,no,no
+Cakung,Jakarta Timur,1740000000,3.0,3.0,52,75,no,no,yes,no,no
+Jatinegara,Jakarta Timur,1000000000,3.0,3.0,44,68,no,no,yes,no,yes
+Jagakarsa,Jakarta Selatan,850000000,3.0,3.0,50,100,no,no,yes,no,no
+Meruya,Jakarta Barat,1700000000,3.0,3.0,75,105,yes,no,yes,no,no
+Meruya,Jakarta Barat,1950000000,3.0,3.0,87,85,no,no,yes,no,no
+Meruya,Jakarta Barat,1600000000,3.0,3.0,60,70,yes,no,yes,no,no
+Pejaten,Jakarta Selatan,3700000000,5.0,3.0,72,120,yes,no,no,no,no
+Meruya,Jakarta Barat,2650000000,3.0,3.0,125,150,yes,no,no,no,yes
+Daan Mogot,Jakarta Barat,2650000000,3.0,3.0,105,140,no,no,no,yes,no
+Green Lake City,Jakarta Barat,2120000000,3.0,2.0,90,100,yes,no,yes,no,no
+Kelapa Gading,Jakarta Utara,3300000000,3.0,3.0,108,180,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,5000000000,4.0,4.0,150,175,no,no,yes,no,no
+Kota Wisata,Bogor,1180000000,4.0,2.0,121,158,no,no,no,no,no
+Kota Wisata,Bogor,2040000000,5.0,2.0,150,150,yes,no,no,no,no
+Rancamaya,Bogor,730000000,2.0,1.0,72,50,yes,no,no,no,no
+Rancamaya,Bogor,730000000,2.0,1.0,72,50,yes,no,no,no,no
+Cibubur,Bogor,2160000000,5.0,2.0,150,150,no,no,no,no,no
+Sukaraja,Bogor,1350000000,3.0,3.0,147,126,yes,no,no,no,no
+Cileungsi,Bogor,175000000,2.0,1.0,60,36,no,no,no,no,no
+Tanah Sareal,Bogor,590000000,2.0,1.0,72,46,no,no,yes,no,no
+Cibinong,Bogor,490000000,2.0,1.0,60,60,yes,no,no,no,no
+Gunung Sindur,Bogor,1400000000,3.0,2.0,105,55,no,no,no,no,no
+Kota Wisata,Bogor,1880000000,5.0,2.0,120,200,no,no,no,no,no
+Rancamaya,Bogor,1450000000,2.0,2.0,141,110,no,no,no,no,no
+Dramaga,Bogor,930000000,3.0,3.0,61,60,yes,no,no,no,no
+Gunung Putri,Bogor,695000000,3.0,1.0,112,75,no,no,no,no,no
+Parung Panjang,Bogor,1200000000,4.0,4.0,70,101,yes,no,no,no,no
+Dramaga,Bogor,1800000000,9.0,9.0,61,136,no,no,yes,no,no
+Gunung Putri,Bogor,1880000000,5.0,2.0,120,200,no,no,yes,no,no
+Gunung Putri,Bogor,1500000000,4.0,3.0,105,122,no,no,yes,no,no
+Cibinong,Bogor,610000000,2.0,1.0,72,41,no,yes,yes,no,no
+Cibinong,Bogor,710000000,2.0,1.0,65,55,no,yes,yes,no,no
+Gunung Putri,Bogor,2040000000,5.0,3.0,150,150,no,no,yes,no,no
+Cileungsi,Bogor,1250000000,2.0,1.0,90,54,no,no,yes,no,no
+Balumbang Jaya,Bogor,820000000,3.0,2.0,105,66,yes,no,no,no,no
+Cibinong,Bogor,750000000,2.0,1.0,84,60,no,no,no,no,no
+Cibinong,Bogor,810000000,2.0,1.0,105,45,yes,no,no,no,no
+Cibinong,Bogor,1830000000,3.0,2.0,91,84,yes,no,no,no,no
+Kota Wisata,Bogor,2090000000,3.0,2.0,128,107,no,no,yes,no,no
+Cileungsi,Bogor,580000000,2.0,1.0,84,32,no,no,no,yes,no
+Cileungsi,Bogor,590000000,2.0,1.0,72,43,no,no,yes,no,no
+Cileungsi,Bogor,375000000,2.0,1.0,72,68,no,no,no,no,no
+Sukaraja,Bogor,2100000000,2.0,1.0,112,98,no,no,no,no,no
+Cibinong,Bogor,810000000,2.0,1.0,172,65,yes,no,no,no,no
+Cileungsi,Bogor,960000000,2.0,1.0,88,88,yes,no,no,no,no
+Cileungsi,Bogor,610000000,2.0,1.0,70,45,yes,no,no,no,no
+Gunung Putri,Bogor,2680000000,3.0,4.0,200,198,no,no,no,no,no
+Gunung Putri,Bogor,540000000,2.0,1.0,66,66,no,no,no,no,no
+Bogor Barat,Bogor,1450000000,3.0,3.0,70,85,yes,no,no,no,no
+Bogor Nirwana Residence,Bogor,1450000000,3.0,3.0,70,85,yes,no,no,no,no
+Tanah Sareal,Bogor,500000000,2.0,1.0,72,39,no,yes,yes,no,no
+Cibinong,Bogor,510000000,2.0,1.0,60,60,no,no,no,no,no
+Cibubur,Bogor,650000000,2.0,1.0,60,34,no,no,yes,no,no
+Tanah Sareal,Bogor,890000000,2.0,1.0,90,45,yes,yes,no,no,no
+Cibinong,Bogor,1400000000,3.0,3.0,160,200,no,yes,yes,no,no
+Gunung Putri,Bogor,1680000000,3.0,2.0,136,75,yes,no,no,no,no
+Tanah Sareal,Bogor,730000000,2.0,2.0,65,115,yes,no,no,no,no
+Tanah Sareal,Bogor,730000000,2.0,2.0,65,115,yes,no,no,no,no
+Cibinong,Bogor,910000000,3.0,2.0,100,100,no,no,no,no,no
+Cibinong,Bogor,650000000,3.0,2.0,72,90,yes,no,no,no,no
+Cibinong,Bogor,1180000000,3.0,2.0,144,144,yes,no,no,no,no
+Cileungsi,Bogor,1020000000,2.0,2.0,105,90,no,no,no,no,no
+Cileungsi,Bogor,720000000,2.0,1.0,72,50,no,no,no,no,no
+Cimahpar,Bogor,600000000,2.0,1.0,120,54,yes,no,yes,no,no
+Tanah Sareal,Bogor,535000000,2.0,1.0,87,45,yes,no,no,no,no
+Tanah Sareal,Bogor,1710000000,4.0,2.0,166,104,yes,no,no,no,no
+Tanah Sareal,Bogor,535000000,2.0,1.0,84,38,yes,no,no,no,no
+Bojong Gede,Bogor,970000000,4.0,2.0,60,120,yes,no,no,no,no
+Sentul City,Bogor,1050000000,3.0,2.0,84,89,yes,no,yes,no,no
+Cileungsi,Bogor,1900000000,3.0,4.0,128,105,no,no,yes,no,no
+Cibinong,Bogor,610000000,2.0,1.0,72,41,no,yes,yes,no,no
+Gunung Putri,Bogor,1050000000,4.0,3.0,90,140,no,no,yes,no,no
+Sentul City,Bogor,790000000,3.0,2.0,81,75,yes,no,yes,no,no
+Bondongan,Bogor,2000000000,2.0,1.0,100,80,no,no,yes,no,no
+Tanah Sareal,Bogor,750000000,2.0,1.0,104,36,no,no,yes,no,no
+Tanah Baru,Bogor,1700000000,5.0,3.0,114,100,no,no,yes,no,no
+Jonggol,Bogor,325000000,1.0,1.0,114,37,no,no,yes,no,no
+Gunung Sindur,Bogor,940000000,2.0,2.0,65,85,yes,no,no,no,no
+Gunung Sindur,Bogor,590000000,2.0,1.0,66,36,yes,no,no,no,no
+Curug,Bogor,1720000000,5.0,3.0,165,100,no,no,yes,no,no
+Kedungwaringin,Bogor,1500000000,5.0,2.0,104,180,yes,no,yes,no,no
+Kota Wisata,Bogor,2090000000,2.0,2.0,128,107,no,no,no,no,no
+Kota Wisata,Bogor,1250000000,2.0,1.0,90,54,no,no,no,no,no
+Parung Panjang,Bogor,540000000,2.0,1.0,72,36,yes,no,no,no,no
+Sentul City,Bogor,1400000000,3.0,2.0,96,102,yes,no,no,no,no
+Cibinong,Bogor,500000000,2.0,1.0,60,21,no,no,no,no,no
+Gunung Putri,Bogor,1930000000,3.0,3.0,160,108,yes,no,no,no,no
+Cibinong,Bogor,780000000,3.0,2.0,90,200,no,yes,yes,no,no
+Kota Wisata,Bogor,1880000000,4.0,3.0,120,200,no,no,yes,no,no
+Rancamaya,Bogor,1140000000,2.0,1.0,105,52,no,yes,yes,no,no
+Gunung Sindur,Bogor,1070000000,3.0,2.0,81,51,no,no,no,no,no
+Bojong Gede,Bogor,407000000,2.0,1.0,63,39,no,yes,yes,no,no
+Tanah Sareal,Bogor,1350000000,3.0,2.0,180,140,no,no,yes,no,no
+Gunung Sindur,Bogor,735000000,3.0,2.0,100,54,no,no,yes,no,no
+Tanah Sareal,Bogor,650000000,2.0,1.0,72,46,yes,no,no,no,no
+Sukaraja,Bogor,400000000,2.0,1.0,91,40,no,no,yes,no,no
+Gunung Putri,Bogor,400000000,2.0,1.0,78,55,no,no,yes,no,no
+Bojongsari,Bogor,571000000,2.0,1.0,60,36,yes,no,yes,no,no
+Dramaga,Bogor,1800000000,9.0,9.0,61,136,no,no,yes,no,no
+Parung Panjang,Bogor,1200000000,4.0,4.0,70,101,yes,no,no,no,no
+Gunung Putri,Bogor,695000000,3.0,1.0,112,75,no,no,no,no,no
+Dramaga,Bogor,930000000,3.0,3.0,61,60,yes,no,no,no,no
+Rancamaya,Bogor,1450000000,2.0,2.0,141,110,no,no,no,no,no
+Kota Wisata,Bogor,1880000000,5.0,2.0,120,200,no,no,no,no,no
+Gunung Sindur,Bogor,1400000000,3.0,2.0,105,55,no,no,no,no,no
+Cibinong,Bogor,490000000,2.0,1.0,60,60,yes,no,no,no,no
+Tanah Sareal,Bogor,590000000,2.0,1.0,72,46,no,no,yes,no,no
+Cileungsi,Bogor,175000000,2.0,1.0,60,36,no,no,no,no,no
+Sukaraja,Bogor,1350000000,3.0,3.0,147,126,yes,no,no,no,no
+Cibubur,Bogor,2160000000,5.0,2.0,150,150,no,no,no,no,no
+Rancamaya,Bogor,730000000,2.0,1.0,72,50,yes,no,no,no,no
+Kota Wisata,Bogor,2040000000,5.0,2.0,150,150,yes,no,no,no,no
+Kota Wisata,Bogor,1180000000,4.0,2.0,121,158,no,no,no,no,no
+Kota Wisata,Bogor,1400000000,3.0,2.0,72,144,no,no,no,no,no
+Kota Wisata,Bogor,650000000,2.0,1.0,90,72,no,no,no,no,no
+Cileungsi,Bogor,620000000,3.0,2.0,84,70,yes,no,no,no,no
+Jonggol,Bogor,400000000,2.0,1.0,120,42,no,no,no,no,no
+Cibinong,Bogor,1560000000,8.0,4.0,185,120,yes,no,no,no,no
+Cibinong,Bogor,1340000000,3.0,2.0,131,76,yes,no,no,no,no
+Cibinong,Bogor,1340000000,3.0,2.0,131,76,yes,no,no,no,no
+Cibinong,Bogor,590000000,2.0,1.0,64,64,yes,no,no,no,no
+Cibinong,Bogor,650000000,2.0,1.0,90,90,yes,no,no,no,no
+Cibinong,Bogor,1400000000,2.0,3.0,109,130,yes,no,no,no,no
+Parung Panjang,Bogor,425000000,2.0,1.0,72,39,no,no,no,no,no
+Tanah Sareal,Bogor,1500000000,4.0,3.0,150,167,yes,no,no,no,no
+Tanah Sareal,Bogor,730000000,2.0,2.0,65,115,yes,no,no,no,no
+Tanah Sareal,Bogor,2140000000,3.0,2.0,193,170,yes,no,no,no,no
+Tanah Sareal,Bogor,990000000,4.0,2.0,73,88,yes,no,no,no,no
+Sentul City,Bogor,890000000,3.0,3.0,84,120,yes,no,no,no,no
+Cileungsi,Bogor,590000000,2.0,1.0,77,52,yes,no,no,no,no
+Cileungsi,Bogor,909000000,4.0,3.0,157,140,yes,no,no,no,no
+Gunung Putri,Bogor,970000000,3.0,1.0,96,70,yes,no,no,no,no
+Gunung Putri,Bogor,1400000000,3.0,2.0,72,144,yes,no,no,no,no
+Parung Panjang,Bogor,649000000,2.0,1.0,72,39,yes,no,no,no,no
+Bogor Barat,Bogor,1290000000,3.0,2.0,90,105,yes,no,no,no,no
+Tanah Sareal,Bogor,860000000,2.0,1.0,72,54,no,no,no,no,no
+Tanah Sareal,Bogor,950000000,2.0,2.0,84,48,yes,no,no,no,no
+Gunung Putri,Bogor,1200000000,2.0,2.0,104,60,no,no,no,no,no
+Tanah Sareal,Bogor,850000000,2.0,1.0,88,52,yes,no,no,no,no
+Gunung Putri,Bogor,1400000000,3.0,2.0,72,144,no,no,yes,no,no
+Gunung Putri,Bogor,810000000,2.0,1.0,105,45,no,no,yes,no,no
+Kota Wisata,Bogor,2500000000,4.0,1.0,170,90,no,no,yes,no,no
+Kota Wisata,Bogor,1820000000,3.0,3.0,120,200,no,no,yes,no,no
+Sukaraja,Bogor,620000000,2.0,1.0,82,40,yes,no,no,no,no
+Bojong Gede,Bogor,590000000,3.0,2.0,84,70,no,yes,yes,no,no
+Tanah Sareal,Bogor,1020000000,3.0,1.0,78,94,yes,no,no,no,no
+Tanah Sareal,Bogor,780000000,2.0,2.0,108,90,yes,no,no,no,no
+Tanah Sareal,Bogor,750000000,1.0,1.0,105,80,yes,no,no,no,no
+Bojong Gede,Bogor,1040000000,3.0,1.0,66,75,no,yes,yes,no,no
+Bogor Barat,Bogor,1290000000,2.0,1.0,168,148,no,yes,yes,no,no
+Parung Panjang,Bogor,540000000,2.0,1.0,72,39,yes,no,no,no,no
+Tanah Sareal,Bogor,2140000000,3.0,2.0,193,170,yes,no,no,no,no
+Tanah Sareal,Bogor,860000000,4.0,3.0,93,143,yes,no,no,no,no
+Tanah Sareal,Bogor,1980000000,4.0,3.0,180,200,yes,no,no,no,no
+Gunung Sindur,Bogor,1290000000,3.0,4.0,120,144,yes,no,no,no,no
+Gunung Sindur,Bogor,1290000000,3.0,4.0,120,144,yes,no,no,no,no
+Gunung Sindur,Bogor,1290000000,3.0,4.0,120,144,yes,no,no,no,no
+Gunung Putri,Bogor,1240000000,3.0,1.0,150,91,yes,no,no,no,no
+Gunung Putri,Bogor,1400000000,2.0,2.0,119,100,yes,no,no,no,no
+Rancamaya,Bogor,1020000000,2.0,1.0,85,80,no,no,no,no,no
+Kota Wisata,Bogor,1020000000,2.0,2.0,105,90,no,no,no,no,no
+Gunung Sindur,Bogor,1180000000,3.0,3.0,120,98,yes,no,no,no,no
+Cileungsi,Bogor,2040000000,5.0,2.0,150,150,no,no,no,no,no
+Cileungsi,Bogor,1880000000,5.0,2.0,120,200,no,no,no,no,no
+Cibinong,Bogor,470000000,2.0,2.0,60,60,yes,no,no,no,no
+Kota Wisata,Bogor,1730000000,3.0,3.0,105,102,no,no,yes,no,no
+Gunung Putri,Bogor,1680000000,3.0,2.0,186,110,no,no,yes,no,no
+Cileungsi,Bogor,680000000,2.0,2.0,90,42,no,no,yes,no,no
+Gunung Putri,Bogor,710000000,2.0,1.0,84,40,no,no,yes,no,no
+Cileungsi,Bogor,870000000,4.0,2.0,90,130,yes,no,no,no,no
+Cileungsi,Bogor,1180000000,3.0,2.0,160,150,yes,no,no,no,no
+Cibinong,Bogor,1350000000,3.0,3.0,147,126,yes,no,no,no,no
+Sindang Barang,Bogor,1120000000,2.0,1.0,135,50,yes,no,no,no,no
+Legenda Wisata,Bogor,1980000000,4.0,3.0,136,105,yes,no,no,no,no
+Cibinong,Bogor,710000000,2.0,1.0,65,55,yes,no,no,no,no
+Bogor Barat,Bogor,1020000000,2.0,1.0,105,66,yes,no,no,no,no
+Bogor Barat,Bogor,1500000000,2.0,1.0,156,144,yes,no,no,no,no
+Bogor Barat,Bogor,2570000000,3.0,3.0,162,140,yes,no,no,no,no
+Bogor Barat,Bogor,800000000,2.0,1.0,105,37,yes,no,no,no,no
+Bogor Barat,Bogor,1100000000,2.0,1.0,138,105,yes,no,no,no,no
+Sukaraja,Bogor,1350000000,3.0,3.0,147,126,yes,no,no,no,no
+Sukaraja,Bogor,890000000,2.0,1.0,84,51,yes,no,no,no,no
+Rancamaya,Bogor,1450000000,3.0,2.0,108,69,no,no,yes,no,no
+Kedung Halang,Bogor,820000000,2.0,1.0,78,54,yes,no,no,no,no
+Cibinong,Bogor,624000000,2.0,1.0,115,45,no,no,no,no,no
+Gunung Sindur,Bogor,746000000,3.0,1.0,78,100,no,no,no,no,no
+Cibinong,Bogor,450000000,3.0,1.0,60,120,no,no,no,no,no
+Gunung Sindur,Bogor,300000000,2.0,1.0,80,45,no,no,no,no,no
+Cibinong,Bogor,750000000,3.0,1.0,84,84,no,no,no,no,no
+Cibinong,Bogor,650000000,3.0,2.0,80,160,no,no,no,no,no
+Cilendek Barat,Bogor,1000000000,4.0,3.0,187,200,yes,no,no,no,no
+Gunung Putri,Bogor,850000000,2.0,1.0,166,45,no,no,no,no,no
+Bogor Selatan,Bogor,287000000,2.0,1.0,111,45,yes,no,no,no,no
+Gunung Putri,Bogor,1500000000,5.0,3.0,105,136,yes,no,no,no,no
+Bogor Selatan,Bogor,1000000000,3.0,2.0,120,60,yes,no,no,no,no
+Bogor Selatan,Bogor,900000000,3.0,2.0,119,90,yes,no,no,no,no
+Bogor Selatan,Bogor,900000000,3.0,2.0,119,90,yes,no,no,no,no
+Ciomas,Bogor,300000000,2.0,1.0,84,38,yes,no,no,no,no
+Citeureup,Bogor,550000000,2.0,1.0,77,45,yes,no,yes,no,no
+Cileungsi,Bogor,750000000,5.0,2.0,115,115,yes,no,no,no,no
+Tanah Sareal,Bogor,275000000,2.0,1.0,72,50,no,no,yes,no,no
+Cibinong,Bogor,640000000,3.0,2.0,60,120,yes,no,no,no,no
+Cibinong,Bogor,1560000000,3.0,2.0,91,84,yes,no,no,no,no
+Ciseeng,Bogor,500000000,2.0,1.0,84,50,yes,no,yes,no,no
+Bojong Gede,Bogor,810000000,2.0,1.0,136,36,yes,no,no,no,no
+Sentul City,Bogor,860000000,2.0,1.0,72,54,yes,no,no,no,no
+Sentul City,Bogor,730000000,2.0,1.0,72,50,no,no,no,no,no
+Cilebut,Bogor,550000000,3.0,2.0,72,66,yes,no,no,no,no
+Gunung Sindur,Bogor,980000000,3.0,2.0,95,70,no,no,no,no,no
+Gunung Sindur,Bogor,970000000,2.0,3.0,98,60,yes,no,no,no,no
+Gunung Sindur,Bogor,970000000,2.0,3.0,98,60,yes,no,no,no,no
+Gunung Sindur,Bogor,1610000000,2.0,2.0,200,160,yes,no,no,no,no
+Rancamaya,Bogor,650000000,2.0,2.0,90,60,no,no,no,no,no
+Kota Wisata,Bogor,1930000000,3.0,3.0,160,108,no,no,no,no,no
+Kota Wisata,Bogor,670000000,2.0,2.0,84,50,no,no,no,no,no
+Kota Wisata,Bogor,810000000,2.0,1.0,105,45,no,no,no,no,no
+Gunung Sindur,Bogor,1020000000,4.0,2.0,144,64,yes,no,no,no,no
+Gunung Sindur,Bogor,2250000000,3.0,2.0,126,115,yes,no,no,no,no
+Cileungsi,Bogor,540000000,2.0,1.0,72,72,yes,no,no,no,no
+Cileungsi,Bogor,810000000,3.0,1.0,77,105,yes,no,no,no,no
+Cigombong,Bogor,425000000,2.0,1.0,72,60,no,no,yes,no,no
+Sentul City,Bogor,1020000000,4.0,2.0,90,45,no,no,no,no,no
+Sentul City,Bogor,650000000,3.0,2.0,72,90,no,no,no,no,no
+Sentul City,Bogor,1560000000,3.0,2.0,91,84,no,no,no,no,no
+Tajur,Bogor,1590000000,2.0,2.0,72,73,no,no,no,no,no
+Gunung Putri,Bogor,1270000000,2.0,1.0,170,70,no,no,no,no,no
+Kota Wisata,Bogor,1670000000,3.0,3.0,90,140,no,no,yes,no,no
+Kota Wisata,Bogor,830000000,2.0,1.0,105,90,no,no,no,no,no
+Sentul City,Bogor,2200000000,3.0,3.0,140,200,no,no,no,no,no
+Tenjo,Bogor,700000000,2.0,2.0,108,105,yes,no,no,no,no
+Tajur Halang,Bogor,750000000,2.0,1.0,75,45,yes,no,no,no,no
+Sukaraja,Bogor,750000000,2.0,1.0,91,47,yes,no,no,no,no
+Parung,Bogor,650000000,2.0,1.0,90,90,yes,no,no,no,no
+Katulampa,Bogor,970000000,2.0,1.0,75,42,yes,no,no,no,no
+Jonggol,Bogor,700000000,2.0,1.0,114,50,yes,no,no,no,no
+Sukaraja,Bogor,810000000,3.0,2.0,101,45,yes,no,no,no,no
+Sukaraja,Bogor,810000000,3.0,2.0,101,45,yes,no,no,no,no
+Sukaraja,Bogor,790000000,2.0,2.0,78,60,yes,no,no,no,no
+Bojong Gede,Bogor,910000000,2.0,2.0,90,130,yes,no,no,no,no
+Bojong Gede,Bogor,810000000,2.0,1.0,136,36,yes,no,no,no,no
+Bogor Barat,Bogor,820000000,2.0,1.0,78,54,yes,no,no,no,no
+Bogor Barat,Bogor,1180000000,3.0,2.0,141,100,no,no,no,no,no
+Bogor Barat,Bogor,1020000000,2.0,2.0,147,100,yes,no,no,no,no
+Tanah Sareal,Bogor,810000000,2.0,1.0,90,60,yes,no,no,no,no
+Tanah Sareal,Bogor,750000000,2.0,1.0,98,48,yes,no,no,no,no
+Sentul City,Bogor,950000000,2.0,1.0,90,100,no,no,yes,no,no
+Rancamaya,Bogor,1610000000,3.0,2.0,126,85,no,no,no,no,no
+Gunung Putri,Bogor,299000000,2.0,1.0,30,30,no,no,yes,no,no
+Pamoyanan,Bogor,1450000000,3.0,3.0,70,85,yes,no,no,no,no
+Sentul City,Bogor,1450000000,3.0,3.0,70,85,yes,no,no,no,no
+Cileungsi,Bogor,1340000000,3.0,2.0,105,69,no,no,no,no,no
+Gunung Sindur,Bogor,700000000,2.0,1.0,78,50,no,yes,yes,no,no
+Gunung Putri,Bogor,910000000,3.0,1.0,150,100,no,yes,yes,no,no
+Sentul City,Bogor,1220000000,3.0,2.0,90,110,yes,no,no,no,no
+Rancamaya,Bogor,540000000,3.0,1.0,72,45,no,no,no,no,no
+Bogor Barat,Bogor,1500000000,2.0,1.0,156,144,no,yes,yes,no,no
+Bojong Gede,Bogor,650000000,3.0,2.0,136,36,no,no,no,no,no
+Ciluar,Bogor,725000000,2.0,1.0,120,54,yes,no,no,no,no
+Cibinong,Bogor,700000000,2.0,1.0,78,48,yes,no,no,no,no
+Cibinong,Bogor,590000000,2.0,1.0,72,38,yes,no,no,no,no
+Cileungsi,Bogor,1070000000,2.0,1.0,105,70,yes,no,no,no,no
+Tanah Sareal,Bogor,820000000,2.0,1.0,78,54,no,yes,yes,no,no
+Cileungsi,Bogor,540000000,2.0,1.0,72,50,yes,no,no,no,no
+Gunung Sindur,Bogor,680000000,2.0,2.0,86,56,yes,no,no,no,no
+Gunung Sindur,Bogor,700000000,2.0,1.0,78,50,yes,no,no,no,no
+Kota Wisata,Bogor,2680000000,3.0,4.0,200,198,yes,no,no,no,no
+Kota Wisata,Bogor,1900000000,3.0,4.0,128,105,yes,no,no,no,no
+Parung Panjang,Bogor,540000000,2.0,1.0,72,39,yes,no,no,no,no
+Sentul City,Bogor,1450000000,3.0,3.0,70,85,yes,no,no,no,no
+Bojong Sari,Depok,1220000000,3.0,2.0,72,90,yes,no,no,no,no
+Sawangan,Depok,1190000000,3.0,3.0,72,140,no,no,no,no,no
+Pancoran Mas,Depok,583000000,3.0,2.0,40,60,no,no,no,no,no
+Cilodong,Depok,655000000,3.0,2.0,48,50,yes,no,no,no,no
+Citayam,Depok,490000000,2.0,1.0,62,40,yes,no,no,no,no
+Sawangan,Depok,210000000,3.0,1.0,60,30,no,no,yes,no,no
+Bojong Sari,Depok,600000000,2.0,1.0,82,39,yes,no,no,no,no
+Cilodong,Depok,581000000,2.0,2.0,43,42,yes,no,no,no,no
+Cilodong,Depok,765000000,3.0,2.0,72,66,yes,no,yes,no,no
+Cinere,Depok,1700000000,3.0,3.0,72,128,no,no,yes,no,no
+Sukmajaya,Depok,1340000000,2.0,1.0,120,100,yes,no,no,no,no
+Sawangan,Depok,1640000000,3.0,2.0,84,95,yes,no,no,no,no
+Sawangan,Depok,1610000000,3.0,2.0,105,80,yes,no,no,no,no
+Pancoran Mas,Depok,1500000000,5.0,3.0,135,150,yes,no,no,no,no
+Pancoran Mas,Depok,2890000000,5.0,3.0,123,170,yes,no,no,no,no
+Limo,Depok,700000000,3.0,2.0,96,80,no,no,no,no,no
+Limo,Depok,1820000000,6.0,5.0,150,180,no,no,no,no,no
+Citayam,Depok,730000000,2.0,1.0,93,45,no,no,no,no,no
+Citayam,Depok,1400000000,3.0,3.0,160,190,no,no,no,no,no
+Cinere,Depok,1610000000,3.0,2.0,112,70,no,no,no,no,no
+Cinere,Depok,750000000,4.0,2.0,91,70,no,no,no,no,no
+Cimanggis,Depok,1610000000,3.0,2.0,131,160,yes,no,no,no,no
+Cimanggis,Depok,1340000000,2.0,1.0,103,60,yes,no,no,no,no
+Cilodong,Depok,700000000,2.0,1.0,78,36,no,no,no,no,no
+Cilodong,Depok,1820000000,4.0,2.0,124,39,no,no,no,no,no
+Beji,Depok,1820000000,3.0,2.0,72,144,yes,no,no,no,no
+Beji,Depok,730000000,2.0,1.0,93,45,yes,no,no,no,no
+Sawangan,Depok,414000000,2.0,1.0,82,40,no,no,yes,no,no
+Cilodong,Depok,780000000,3.0,2.0,60,60,no,no,no,no,no
+Sawangan,Depok,500000000,2.0,1.0,81,45,yes,no,no,no,no
+Tapos,Depok,1290000000,3.0,2.0,105,80,no,no,yes,no,no
+Bojong Sari,Depok,1290000000,3.0,2.0,105,120,no,no,no,no,no
+Cilodong,Depok,780000000,2.0,1.0,91,60,no,no,no,no,no
+Cilodong,Depok,990000000,3.0,2.0,72,90,yes,no,no,no,no
+Cilodong,Depok,1490000000,4.0,3.0,90,100,no,no,no,no,no
+Sukmajaya,Depok,1780000000,3.0,3.0,106,150,no,no,yes,no,no
+Beji,Depok,1050000000,2.0,1.0,90,50,no,no,yes,no,no
+Cimanggis,Depok,1290000000,3.0,2.0,185,100,no,no,no,no,no
+Cilodong,Depok,1340000000,4.0,3.0,90,100,yes,no,no,no,no
+Cilodong,Depok,920000000,2.0,2.0,84,70,yes,no,no,no,no
+Citayam,Depok,649000000,3.0,2.0,60,120,no,no,yes,no,no
+Margonda,Depok,2610000000,3.0,4.0,194,120,yes,no,yes,no,no
+Cimanggis,Depok,1130000000,3.0,3.0,93,123,yes,no,yes,no,no
+Margonda,Depok,590000000,2.0,1.0,86,60,yes,no,no,no,no
+Sawangan,Depok,1070000000,2.0,3.0,133,100,yes,no,no,no,no
+Sawangan,Depok,1290000000,2.0,2.0,78,60,yes,no,no,no,no
+Sawangan,Depok,650000000,2.0,1.0,84,69,no,no,no,no,no
+Beji,Depok,830000000,2.0,1.0,78,45,yes,no,no,no,no
+Beji,Depok,1040000000,2.0,1.0,95,100,yes,no,no,no,no
+Beji,Depok,1180000000,3.0,3.0,76,70,yes,no,no,no,no
+Margonda,Depok,2040000000,3.0,3.0,150,115,yes,no,no,no,no
+Margonda,Depok,1140000000,4.0,2.0,90,168,yes,no,no,no,no
+Sukmajaya,Depok,3110000000,4.0,3.0,160,156,no,no,no,no,no
+Sukmajaya,Depok,2360000000,3.0,3.0,128,160,no,no,no,no,no
+Pancoran Mas,Depok,590000000,2.0,1.0,45,72,yes,no,no,no,no
+Sawangan,Depok,590000000,2.0,1.0,45,72,no,no,no,no,no
+Pancoran Mas,Depok,1070000000,2.0,3.0,133,100,yes,no,no,no,no
+Citayam,Depok,1880000000,3.0,3.0,160,150,no,no,no,no,no
+Citayam,Depok,910000000,3.0,3.0,78,69,no,no,no,no,no
+Citayam,Depok,910000000,3.0,3.0,78,69,no,no,no,no,no
+Beji,Depok,1040000000,2.0,1.0,95,100,no,no,no,no,no
+Cipayung,Depok,910000000,3.0,3.0,78,69,yes,no,no,no,no
+Mekarsari,Depok,1300000000,3.0,3.0,95,90,no,no,yes,no,no
+Cinere,Depok,1360000000,4.0,2.0,105,156,yes,no,no,no,no
+Cilodong,Depok,1080000000,3.0,2.0,72,90,no,no,yes,no,no
+Rangkapanjaya,Depok,895000000,3.0,3.0,50,90,no,no,no,no,no
+Sawangan,Depok,505000000,2.0,1.0,45,70,no,no,yes,no,no
+Tanah Baru,Depok,1280000000,3.0,2.0,90,125,yes,no,yes,no,no
+Cinere,Depok,1850000000,4.0,3.0,96,138,no,no,yes,no,no
+Pancoran Mas,Depok,850000000,2.0,2.0,125,100,no,no,yes,no,no
+Sawangan,Depok,850000000,3.0,2.0,76,65,yes,no,no,no,no
+Sawangan,Depok,1070000000,2.0,3.0,133,100,yes,no,no,no,no
+Sawangan,Depok,700000000,2.0,1.0,67,36,no,no,no,no,no
+Sawangan,Depok,1610000000,3.0,3.0,200,150,no,no,no,no,no
+Sawangan,Depok,550000000,2.0,1.0,66,45,yes,no,no,no,no
+Cinere,Depok,2400000000,3.0,4.0,90,130,no,no,no,no,no
+Sawangan,Depok,860000000,3.0,2.0,72,70,yes,no,no,no,no
+Cinere,Depok,1930000000,3.0,3.0,90,170,no,yes,yes,no,no
+Pancoran Mas,Depok,1290000000,3.0,2.0,105,120,yes,no,no,no,no
+Pancoran Mas,Depok,660000000,2.0,1.0,82,50,no,no,no,no,no
+Cinere,Depok,2300000000,4.0,3.0,100,110,yes,no,no,no,no
+Limo,Depok,995000000,3.0,3.0,100,66,yes,no,no,no,no
+Limo,Depok,590000000,2.0,1.0,75,50,yes,no,no,no,no
+Limo,Depok,650000000,2.0,10.0,75,45,yes,no,no,no,no
+Cinere,Depok,700000000,3.0,2.0,96,80,no,no,no,no,no
+Sawangan,Depok,2470000000,3.0,1.0,128,144,yes,no,no,no,no
+Sawangan,Depok,860000000,2.0,1.0,84,69,no,no,no,no,no
+Cinere,Depok,1720000000,2.0,3.0,90,140,yes,no,no,no,no
+Cinere,Depok,1920000000,3.0,3.0,117,120,yes,no,no,no,no
+Sawangan,Depok,650000000,3.0,1.0,115,81,no,no,yes,no,no
+Sukmajaya,Depok,1400000000,3.0,2.0,180,90,no,no,no,no,no
+Sukmajaya,Depok,1290000000,2.0,1.0,107,45,no,no,no,no,no
+Cimanggis,Depok,1500000000,3.0,3.0,102,107,no,no,no,no,no
+Sukmajaya,Depok,2560000000,3.0,3.0,135,91,no,no,no,no,no
+Sukmajaya,Depok,1290000000,3.0,2.0,100,185,no,no,no,no,no
+Beji,Depok,1780000000,5.0,4.0,101,140,no,no,yes,no,no
+Kelapa Dua,Depok,1770000000,3.0,3.0,87,90,no,no,yes,no,no
+Beji,Depok,1500000000,3.0,2.0,108,189,yes,no,no,no,no
+Sawangan,Depok,485000000,2.0,1.0,60,45,yes,yes,no,no,yes
+Pancoran Mas,Depok,1250000000,3.0,3.0,85,135,no,no,no,no,no
+Cinere,Depok,2000000000,3.0,3.0,72,96,yes,no,no,no,no
+Citayam,Depok,195000000,2.0,1.0,50,40,yes,yes,no,no,no
+Kelapa Dua,Depok,756000000,3.0,2.0,50,53,yes,no,no,no,no
+Cimanggis,Depok,1300000000,3.0,3.0,150,150,no,no,no,no,no
+Citayam,Depok,200000000,2.0,1.0,50,30,yes,no,yes,no,no
+Cinangka,Depok,850000000,3.0,2.0,96,70,no,no,no,no,no
+Cimanggis,Depok,1850000000,3.0,2.0,130,121,yes,no,no,no,no
+Cimanggis,Depok,1580000000,3.0,2.0,105,150,no,no,yes,no,no
+Cinere,Depok,1070000000,2.0,2.0,40,90,no,no,yes,no,no
+Citayam,Depok,1500000000,3.0,2.0,108,189,yes,no,no,no,no
+Cinere,Depok,1020000000,2.0,1.0,84,40,no,no,no,no,no
+Cimanggis,Depok,1070000000,3.0,2.0,74,55,yes,no,no,no,no
+Cilodong,Depok,610000000,2.0,1.0,72,41,yes,no,no,no,no
+Beji,Depok,4020000000,3.0,2.0,123,180,yes,no,no,no,no
+Pancoran Mas,Depok,2790000000,5.0,4.0,171,200,no,no,yes,no,no
+Cibubur,Depok,1700000000,3.0,3.0,83,105,no,no,yes,no,no
+Pancoran Mas,Depok,810000000,4.0,2.0,86,86,yes,no,no,no,no
+Citayam,Depok,590000000,2.0,1.0,84,36,yes,no,no,no,no
+Citayam,Depok,1400000000,3.0,2.0,105,55,yes,no,no,no,no
+Citayam,Depok,650000000,2.0,2.0,72,51,yes,no,no,no,no
+Citayam,Depok,535000000,2.0,1.0,68,36,yes,no,no,no,no
+Cimanggis,Depok,1610000000,3.0,4.0,170,120,yes,no,no,no,no
+Cimanggis,Depok,810000000,2.0,2.0,70,80,yes,no,no,no,no
+Cilodong,Depok,810000000,2.0,1.0,172,65,yes,no,no,no,no
+Cilodong,Depok,740000000,2.0,1.0,84,70,yes,no,no,no,no
+Beji,Depok,2950000000,5.0,4.0,135,200,yes,no,no,no,no
+Beji,Depok,540000000,2.0,1.0,75,36,yes,no,no,no,no
+Beji,Depok,1720000000,3.0,2.0,128,70,no,no,no,no,no
+Beji,Depok,1400000000,3.0,3.0,160,190,yes,no,no,no,no
+Beji,Depok,970000000,2.0,2.0,100,95,no,no,no,no,no
+Kelapa Dua,Depok,756000000,3.0,2.0,50,53,yes,yes,no,no,no
+Cimanggis,Depok,729000000,3.0,2.0,67,60,no,yes,yes,no,no
+Cimanggis,Depok,1550000000,3.0,3.0,199,130,no,no,no,no,no
+Sawangan,Depok,1400000000,3.0,2.0,105,55,yes,no,no,no,no
+Margonda,Depok,750000000,2.0,2.0,91,70,yes,no,no,no,no
+Tapos,Depok,700000000,2.0,1.0,78,36,yes,no,no,no,no
+Cimanggis,Depok,3110000000,4.0,3.0,160,156,no,no,yes,no,no
+Limo,Depok,1050000000,3.0,2.0,72,110,yes,no,no,no,no
+Sawangan,Depok,870000000,2.0,1.0,96,70,no,yes,no,no,no
+Sukmajaya,Depok,1250000000,4.0,3.0,75,90,yes,no,no,no,no
+Pancoran Mas,Depok,860000000,3.0,1.0,125,100,yes,no,no,no,no
+Pancoran Mas,Depok,750000000,4.0,2.0,91,70,no,no,no,no,no
+Limo,Depok,590000000,2.0,1.0,72,40,yes,no,no,no,no
+Sukmajaya,Depok,1400000000,2.0,1.0,123,53,yes,no,no,no,no
+Sawangan,Depok,2250000000,4.0,3.0,150,150,yes,no,no,no,no
+Sawangan,Depok,1020000000,2.0,2.0,60,72,yes,no,no,no,no
+Sawangan,Depok,650000000,2.0,1.0,86,41,no,no,no,no,no
+Citayam,Depok,1820000000,3.0,2.0,72,144,no,no,no,no,no
+Citayam,Depok,2140000000,4.0,2.0,130,196,no,no,no,no,no
+Sawangan,Depok,640000000,2.0,2.0,87,50,yes,no,no,no,no
+Cinere,Depok,650000000,2.0,1.0,77,36,no,no,no,no,no
+Cinere,Depok,4020000000,3.0,2.0,123,180,no,no,no,no,no
+Cimanggis,Depok,1720000000,5.0,2.0,104,126,yes,no,no,no,no
+Cimanggis,Depok,1930000000,4.0,1.0,128,165,yes,no,no,no,no
+Cilodong,Depok,950000000,3.0,3.0,75,80,no,no,yes,no,no
+Cimanggis,Depok,1930000000,3.0,2.0,96,180,yes,no,no,no,no
+Sukmajaya,Depok,990000000,3.0,2.0,85,66,yes,no,no,no,no
+Cilodong,Depok,700000000,2.0,1.0,72,36,no,no,no,no,no
+Cilodong,Depok,1400000000,3.0,3.0,160,190,no,no,no,no,no
+Beji,Depok,650000000,2.0,1.0,77,36,no,no,no,no,no
+Tapos,Depok,1110000000,3.0,2.0,135,90,no,no,yes,no,no
+Cimanggis,Depok,1300000000,4.0,2.0,137,130,no,no,yes,no,no
+Margonda,Depok,1050000000,2.0,1.0,90,38,no,no,yes,no,no
+Margonda,Depok,1360000000,3.0,3.0,84,88,no,no,no,no,no
+Tapos,Depok,898000000,3.0,2.0,66,74,yes,yes,no,no,no
+Beji,Depok,1630000000,3.0,2.0,90,62,no,no,yes,no,no
+Cilodong,Depok,627000000,2.0,1.0,61,40,no,no,yes,no,no
+Cimanggis,Depok,680000000,4.0,2.0,63,63,yes,no,no,no,no
+Cimanggis,Depok,1930000000,4.0,3.0,106,165,no,no,no,no,no
+Cilodong,Depok,1880000000,3.0,3.0,160,150,yes,no,no,no,no
+Tapos,Depok,830000000,2.0,1.0,90,30,yes,no,no,no,no
+Citayam,Depok,397000000,2.0,1.0,84,36,no,no,yes,no,no
+Beji,Depok,819000000,2.0,1.0,72,36,no,no,no,no,no
+Beji,Depok,1400000000,4.0,3.0,105,115,no,no,no,no,no
+Cilodong,Depok,643000000,2.0,2.0,45,48,no,yes,yes,no,no
+Cilodong,Depok,600000000,2.0,1.0,83,54,no,no,yes,no,no
+Cilodong,Depok,1160000000,2.0,1.0,98,45,yes,no,no,no,no
+Kelapa Dua,Depok,1100000000,3.0,2.0,70,74,yes,no,no,no,no
+Cinere,Depok,1950000000,3.0,2.0,90,105,no,no,yes,no,no
+Beji,Depok,900000000,2.0,1.0,60,75,no,no,yes,no,no
+Beji,Depok,1790000000,3.0,2.0,98,130,no,no,no,no,no
+Cinere,Depok,5000000000,1.0,1.0,175,171,no,no,no,no,no
+Cinere,Depok,4400000000,3.0,2.0,175,180,no,no,no,no,no
+Cinere,Depok,5100000000,4.0,3.0,175,171,yes,no,no,no,no
+Sawangan,Depok,950000000,2.0,1.0,105,84,yes,no,no,no,no
+Sawangan,Depok,500000000,3.0,2.0,90,150,no,no,no,no,no
+Sukmajaya,Depok,1740000000,3.0,2.0,172,170,yes,yes,no,no,no
+Tapos,Depok,575000000,4.0,1.0,119,150,no,no,no,no,no
+Bojong Sari,Depok,772000000,2.0,2.0,109,200,no,no,no,yes,no
+Limo,Depok,613000000,3.0,2.0,46,47,yes,no,yes,no,no
+Cilodong,Depok,800000000,3.0,2.0,65,78,yes,no,no,no,no
+Cilodong,Depok,600000000,2.0,1.0,60,38,yes,no,no,no,no
+Harjamukti,Depok,994000000,2.0,1.0,78,42,no,no,yes,no,no
+Kukusan,Depok,1150000000,4.0,2.0,80,138,no,no,yes,no,no
+Beji,Depok,400000000,2.0,1.0,60,40,yes,no,no,no,no
+Kelapa Dua,Depok,1300000000,3.0,3.0,52,103,yes,no,yes,no,no
+Cimanggis,Depok,550000000,2.0,1.0,61,36,yes,no,yes,no,no
+Cilodong,Depok,895000000,3.0,2.0,70,70,yes,no,yes,no,no
+Margonda,Depok,1340000000,3.0,2.0,105,150,yes,no,no,no,no
+Margonda,Depok,700000000,3.0,2.0,83,80,yes,no,no,no,no
+Cilodong,Depok,2560000000,3.0,3.0,135,91,yes,no,no,no,no
+Kelapa Dua,Depok,1430000000,3.0,2.0,52,103,yes,yes,no,no,no
+Cinere,Depok,1450000000,3.0,2.0,104,150,no,no,no,no,no
+Sawangan,Depok,210000000,2.0,1.0,50,36,yes,no,yes,no,no
+Cinere,Depok,810000000,4.0,2.0,86,86,no,no,no,no,no
+Citayam,Depok,750000000,2.0,1.0,75,45,yes,no,no,no,no
+Sawangan,Depok,1530000000,3.0,3.0,90,70,yes,no,no,no,no
+Cimanggis,Depok,2360000000,3.0,3.0,128,160,yes,no,no,no,no
+Cimanggis,Depok,1070000000,3.0,3.0,93,123,yes,no,no,no,no
+Rangkapanjaya,Depok,1300000000,3.0,2.0,83,154,yes,no,no,no,no
+Sawangan,Depok,880000000,2.0,2.0,172,150,no,no,yes,no,no
+Cilodong,Depok,1490000000,4.0,3.0,90,100,no,no,no,no,no
+Kelapa Dua,Depok,1430000000,3.0,2.0,87,107,yes,no,no,no,no
+Citayam,Depok,195000000,2.0,1.0,50,36,yes,no,no,no,yes
+Cilodong,Depok,1490000000,4.0,3.0,90,100,no,no,no,no,no
+Kelapa Dua,Depok,1430000000,3.0,2.0,87,107,yes,no,no,no,no
+Citayam,Depok,195000000,2.0,1.0,50,36,yes,no,no,no,yes
+Citayam,Depok,145000000,2.0,1.0,30,30,no,no,no,no,no
+Limo,Depok,780000000,4.0,1.0,90,160,no,no,no,no,no
+Beji,Depok,1820000000,3.0,2.0,124,114,yes,no,no,no,no
+Beji,Depok,860000000,3.0,1.0,125,100,yes,no,no,no,no
+Cilodong,Depok,880000000,2.0,2.0,138,84,yes,no,no,no,no
+Limo,Depok,1930000000,2.0,2.0,180,100,yes,no,no,no,no
+Sukmajaya,Depok,1930000000,4.0,3.0,106,165,no,no,no,no,no
+Limo,Depok,1040000000,2.0,1.0,95,100,yes,no,no,no,no
+Limo,Depok,107000000000,2.0,2.0,40,90,no,no,no,no,no
+Citayam,Depok,1230000000,3.0,2.0,150,75,yes,no,no,no,no
+Cimanggis,Depok,1160000000,2.0,1.0,98,45,yes,no,no,no,no
+Cimanggis,Depok,750000000,3.0,1.0,93,60,yes,no,no,no,no
+Cilodong,Depok,870000000,2.0,1.0,120,38,yes,no,no,no,no
+Beji,Depok,1500000000,5.0,3.0,135,150,yes,no,no,no,no
+Beji,Depok,2240000000,3.0,4.0,105,100,yes,no,no,no,no
+Beji,Depok,810000000,4.0,2.0,60,90,yes,no,no,no,no
+Citayam,Depok,200000000,2.0,1.0,50,40,no,no,yes,no,no
+Sawangan,Depok,860000000,2.0,2.0,85,50,no,no,no,no,no
+Sawangan,Depok,1290000000,3.0,2.0,96,85,no,no,no,no,no
+Sawangan,Depok,1290000000,3.0,2.0,80,96,no,no,no,no,no
+Pancoran Mas,Depok,860000000,3.0,2.0,78,120,yes,no,no,no,no
+Pancoran Mas,Depok,910000000,2.0,1.0,80,72,yes,no,no,no,no
+Cipayung,Depok,910000000,2.0,2.0,108,85,yes,no,no,no,no
+Cipayung,Depok,650000000,2.0,1.0,72,48,yes,no,no,no,no
+Limo,Depok,750000000,2.0,1.0,77,36,yes,no,no,no,no
+Cimanggis,Depok,910000000,2.0,1.0,90,54,yes,no,no,no,no
+Limo,Depok,1640000000,3.0,2.0,84,95,yes,no,no,no,no
+Cilodong,Depok,1070000000,3.0,2.0,140,100,yes,no,no,no,no
+Sawangan,Depok,1880000000,3.0,2.0,128,81,yes,no,no,no,no
+Tapos,Depok,1020000000,3.0,2.0,120,140,yes,no,no,no,no
+Tapos,Depok,880000000,2.0,1.0,90,42,no,no,no,no,no
+Cimanggis,Depok,1200000000,3.0,3.0,129,120,no,no,yes,no,no
+Sepatan,Tangerang,299000000,2.0,1.0,60,36,no,yes,yes,no,no
+Gading Serpong Samara Village,Tangerang,1600000000,2.0,2.0,72,114,no,no,no,yes,no
+BSD Vanya Park,Tangerang,1350000000,2.0,2.0,60,80,no,no,no,no,no
+BSD Sevilla,Tangerang,2900000000,4.0,1.0,144,200,no,yes,no,no,no
+Larangan,Tangerang,720000000,2.0,1.0,60,36,yes,no,no,no,no
+Gading Serpong,Tangerang,2850000000,3.0,3.0,108,120,no,no,no,no,no
+BSD Neo Catalonia,Tangerang,1500000000,2.0,1.0,98,70,no,no,no,no,no
+BSD The Green,Tangerang,2250000000,3.0,2.0,105,190,no,no,no,no,no
+Pasar Kemis,Tangerang,890000000,4.0,2.0,120,140,yes,no,no,no,no
+Sindang Jaya,Tangerang,1000000000,2.0,2.0,66,79,no,no,no,no,no
+BSD,Tangerang,2200000000,3.0,2.0,70,78,no,no,no,no,no
+Lippo Karawaci,Tangerang,1800000000,3.0,2.0,120,180,no,no,yes,no,no
+Cisauk,Tangerang,950000000,2.0,1.0,98,60,yes,no,no,no,no
+Cisauk,Tangerang,950000000,2.0,1.0,98,60,yes,no,no,no,no
+Curug,Tangerang,991000000,4.0,3.0,72,70,no,no,no,yes,no
+BSD City,Tangerang,1020000000,2.0,1.0,98,60,no,no,yes,no,no
+Gading Serpong,Tangerang,3500000000,3.0,2.0,79,91,no,no,no,no,no
+Curug,Tangerang,991000000,4.0,3.0,70,77,yes,no,no,no,no
+BSD Avani,Tangerang,3450000000,3.0,3.0,180,135,yes,no,no,no,no
+Karawaci,Tangerang,650000000,2.0,1.0,90,60,no,no,no,no,no
+BSD City,Tangerang,1440000000,3.0,2.0,100,70,no,no,no,no,no
+BSD,Tangerang,1020000000,2.0,1.0,98,60,no,no,no,no,no
+BSD City,Tangerang,1550000000,3.0,2.0,84,91,yes,no,no,no,no
+Poris,Tangerang,920000000,3.0,2.0,75,67,no,no,no,no,no
+Gading Serpong,Tangerang,1450000000,4.0,3.0,138,120,no,no,no,no,no
+Lippo Karawaci,Tangerang,2600000000,4.0,4.0,168,200,no,no,yes,no,no
+BSD City,Tangerang,1600000000,3.0,3.0,70,80,yes,no,no,no,no
+Pondok Cabe,Tangerang,900000000,3.0,3.0,70,78,yes,yes,no,no,yes
+BSD City,Tangerang,1130000000,2.0,2.0,84,45,no,no,yes,no,no
+BSD Anggrek Loka,Tangerang,2600000000,3.0,2.0,200,150,yes,no,no,no,no
+BSD Green Wich,Tangerang,990000000,2.0,1.0,40,45,no,no,yes,no,no
+Gading Serpong,Tangerang,3200000000,4.0,3.0,96,161,no,no,no,yes,no
+Gading Serpong,Tangerang,3000000000,3.0,3.0,110,130,yes,no,no,no,no
+Gading Serpong,Tangerang,2440000000,3.0,2.0,84,92,yes,no,no,no,no
+Gading Serpong,Tangerang,3200000000,4.0,3.0,144,176,yes,no,no,no,no
+Lippo Karawaci,Tangerang,1440000000,4.0,2.0,96,110,yes,no,no,no,no
+BSD City,Tangerang,1290000000,2.0,2.0,105,70,no,no,yes,no,no
+Gading Serpong,Tangerang,750000000,2.0,1.0,78,50,no,no,no,no,no
+Gading Serpong,Tangerang,1450000000,5.0,2.0,140,200,no,no,no,no,no
+BSD The Icon,Tangerang,1950000000,3.0,3.0,112,100,yes,no,no,no,no
+BSD City,Tangerang,720000000,2.0,1.0,50,32,yes,no,no,no,no
+BSD City,Tangerang,910000000,3.0,2.0,120,90,yes,no,no,no,no
+BSD,Tangerang,920000000,2.0,2.0,84,58,yes,no,no,no,no
+BSD,Tangerang,900000000,2.0,1.0,75,65,yes,no,no,no,no
+BSD,Tangerang,162000000,2.0,1.0,60,30,no,no,yes,no,no
+BSD,Tangerang,970000000,3.0,2.0,60,54,yes,no,no,no,no
+Gading Serpong Samara Village,Tangerang,1450000000,2.0,2.0,63,79,no,no,no,yes,no
+Graha Raya,Tangerang,1180000000,3.0,2.0,72,73,no,no,no,no,no
+Gading Serpong,Tangerang,4950000000,4.0,3.0,180,178,yes,no,no,no,no
+Legok,Tangerang,1750000000,3.0,3.0,189,100,no,no,yes,no,no
+Gading Serpong,Tangerang,2650000000,3.0,3.0,135,135,yes,no,no,no,no
+Legok,Tangerang,700000000,2.0,1.0,82,50,yes,no,no,no,no
+Cisauk,Tangerang,1140000000,2.0,1.0,72,46,yes,no,no,no,no
+Cikupa,Tangerang,1020000000,3.0,2.0,128,110,yes,no,no,no,no
+Cikokol,Tangerang,1820000000,4.0,3.0,82,85,yes,no,no,no,no
+Gading Serpong,Tangerang,1100000000,2.0,1.0,96,96,no,no,yes,no,no
+Gading Serpong,Tangerang,1020000000,2.0,1.0,120,80,yes,no,no,no,no
+Gading Serpong,Tangerang,4200000000,4.0,3.0,144,174,no,no,no,no,no
+Tangerang,Tangerang,2600000000,3.0,3.0,168,200,no,no,no,no,no
+Gading Serpong,Tangerang,2030000000,3.0,2.0,77,70,no,no,no,no,no
+Gading Serpong Pondok Hijau Golf,Tangerang,2250000000,3.0,3.0,126,140,no,no,yes,no,no
+Lippo Karawaci,Tangerang,800000000,2.0,1.0,72,36,no,no,yes,no,no
+Karawaci,Tangerang,1500000000,2.0,2.0,120,80,yes,no,no,no,no
+BSD,Tangerang,2010000000,2.0,2.0,112,66,yes,no,no,no,no
+BSD City,Tangerang,1220000000,2.0,3.0,72,70,no,no,yes,no,no
+BSD City,Tangerang,1220000000,2.0,3.0,72,70,no,no,yes,no,no
+Pinang,Tangerang,1600000000,3.0,2.0,144,180,yes,no,no,no,no
+BSD City,Tangerang,1120000000,2.0,2.0,85,45,no,no,no,no,no
+BSD City,Tangerang,1140000000,2.0,1.0,84,60,no,no,no,no,no
+BSD City,Tangerang,920000000,2.0,2.0,84,58,no,no,no,no,no
+BSD City,Tangerang,1030000000,2.0,2.0,75,99,no,no,no,no,no
+BSD,Tangerang,1030000000,2.0,2.0,75,99,no,no,no,no,no
+BSD Nusaloka,Tangerang,1750000000,2.0,1.0,105,76,yes,yes,no,no,no
+Pagedangan,Tangerang,2030000000,3.0,2.0,77,70,no,no,no,no,no
+BSD,Tangerang,710000000,2.0,1.0,72,36,no,no,yes,no,no
+BSD,Tangerang,650000000,2.0,2.0,60,73,no,no,no,no,no
+Karawaci,Tangerang,700000000,2.0,1.0,82,50,no,no,yes,no,no
+Cisauk,Tangerang,960000000,2.0,2.0,72,41,yes,no,yes,no,no
+Gading Serpong,Tangerang,1470000000,2.0,2.0,90,54,no,no,no,no,no
+BSD,Tangerang,2540000000,3.0,3.0,135,90,no,no,no,no,no
+Gading Serpong,Tangerang,2150000000,3.0,4.0,80,130,yes,no,no,no,no
+Gading Serpong,Tangerang,2150000000,3.0,4.0,80,130,yes,no,no,no,no
+Alam Sutera,Tangerang,3000000000,3.0,2.0,170,120,yes,no,yes,no,no
+BSD,Tangerang,2800000000,4.0,3.0,120,160,no,no,yes,no,no
+BSD Vanya Park,Tangerang,1890000000,3.0,2.0,116,70,no,no,no,no,no
+Cireundeu,Tangerang,2100000000,4.0,3.0,104,134,yes,no,yes,no,no
+Sindang Jaya,Tangerang,1250000000,5.0,4.0,108,84,yes,no,yes,no,no
+Larangan,Tangerang,900000000,2.0,2.0,54,68,yes,no,yes,no,no
+Curug,Tangerang,595000000,3.0,2.0,66,50,no,no,no,no,no
+Sindang Jaya,Tangerang,1250000000,5.0,4.0,108,84,yes,no,yes,no,no
+Gading Serpong,Tangerang,1650000000,4.0,3.0,63,121,yes,no,no,no,no
+BSD The Green,Tangerang,3250000000,3.0,2.0,180,180,no,no,no,no,no
+BSD City,Tangerang,1120000000,2.0,2.0,85,45,no,no,yes,no,no
+Cisauk,Tangerang,960000000,2.0,1.0,72,54,no,no,yes,no,no
+BSD Eminent,Tangerang,6000000000,4.0,5.0,120,195,no,no,no,no,no
+Sindang Jaya,Tangerang,1200000000,3.0,2.0,119,120,no,no,yes,no,no
+BSD Griya Loka,Tangerang,1980000000,4.0,3.0,90,130,yes,no,yes,no,no
+Alam Sutera,Tangerang,2800000000,3.0,3.0,112,170,no,no,yes,no,no
+Gading Serpong,Tangerang,3100000000,3.0,3.0,96,161,no,no,yes,no,no
+Gading Serpong,Tangerang,3500000000,4.0,3.0,144,155,no,no,yes,no,no
+BSD City,Tangerang,1290000000,2.0,1.0,72,50,yes,no,no,no,no
+BSD City,Tangerang,1440000000,3.0,2.0,100,70,yes,no,no,no,no
+BSD,Tangerang,1790000000,3.0,2.0,117,78,yes,no,no,no,no
+BSD,Tangerang,1420000000,2.0,1.0,84,50,yes,no,no,no,no
+BSD,Tangerang,1750000000,3.0,2.0,112,72,yes,no,no,no,no
+Gading Serpong,Tangerang,2350000000,3.0,2.0,72,100,yes,no,no,no,no
+BSD De Park,Tangerang,4150000000,3.0,3.0,180,200,no,no,no,no,no
+Gading Serpong,Tangerang,1870000000,4.0,2.0,90,120,no,no,no,yes,no
+BSD City,Tangerang,2550000000,3.0,2.0,160,92,no,no,yes,no,no
+BSD,Tangerang,1450000000,3.0,3.0,70,94,no,no,yes,no,no
+BSD,Tangerang,1870000000,1.0,3.0,105,70,no,no,no,no,no
+BSD Vanya Park,Tangerang,1750000000,2.0,2.0,60,53,no,no,yes,no,no
+Gading Serpong,Tangerang,1500000000,2.0,2.0,66,62,no,no,no,no,no
+Cisauk,Tangerang,1120000000,2.0,2.0,85,45,no,no,yes,no,no
+BSD,Tangerang,3050000000,4.0,3.0,162,175,yes,no,no,no,no
+BSD City,Tangerang,2250000000,3.0,2.0,126,115,yes,no,no,no,no
+BSD,Tangerang,670000000,2.0,1.0,60,33,yes,no,no,no,no
+Graha Raya,Tangerang,995000000,3.0,2.0,90,70,no,no,no,no,no
+BSD Green Wich,Tangerang,3950000000,3.0,3.0,160,130,no,no,no,yes,yes
+Poris,Tangerang,1350000000,3.0,3.0,60,130,no,no,no,no,no
+Daan Mogot,Tangerang,950000000,3.0,2.0,57,114,no,no,no,no,no
+Gading Serpong,Tangerang,4200000000,3.0,2.0,153,163,yes,no,no,no,no
+Alam Sutera,Tangerang,3800000000,4.0,4.0,102,120,no,no,yes,yes,no
+BSD The Green,Tangerang,2250000000,2.0,2.0,105,69,yes,no,no,no,no
+BSD City,Tangerang,1550000000,3.0,2.0,84,91,yes,no,no,no,no
+Alam Sutera,Tangerang,2640000000,3.0,3.0,102,150,no,no,no,no,no
+Cikupa,Tangerang,650000000,2.0,1.0,102,46,no,no,yes,no,no
+Cikupa Citra Raya,Tangerang,1040000000,3.0,3.0,120,120,no,yes,no,no,no
+BSD,Tangerang,4500000000,4.0,4.0,200,180,no,no,no,no,no
+Legok,Tangerang,445000000,3.0,2.0,90,65,yes,no,no,no,no
+Tangerang Kota,Tangerang,375000000,2.0,1.0,123,36,no,no,yes,no,no
+Gading Serpong,Tangerang,3500000000,4.0,3.0,144,155,no,no,yes,no,no
+Gading Serpong,Tangerang,3500000000,4.0,3.0,144,155,no,no,yes,no,no
+BSD,Tangerang,3500000000,3.0,3.0,170,120,no,no,no,no,no
+Karawaci,Tangerang,1020000000,3.0,2.0,128,110,no,no,yes,no,no
+Gading Serpong,Tangerang,1180000000,3.0,1.0,96,56,no,no,yes,no,no
+Karawaci,Tangerang,910000000,3.0,1.0,150,70,no,no,no,no,no
+Alam Sutera,Tangerang,5120000000,4.0,4.0,140,176,no,no,no,no,no
+Alam Sutera,Tangerang,4000000000,5.0,4.0,130,127,no,no,no,yes,no
+Gading Serpong,Tangerang,2950000000,4.0,4.0,153,163,no,no,no,no,no
+BSD City,Tangerang,960000000,2.0,2.0,72,41,no,no,no,no,no
+Gading Serpong,Tangerang,2200000000,3.0,2.0,84,144,no,no,yes,no,no
+Gading Serpong,Tangerang,3100000000,3.0,3.0,96,161,no,no,yes,no,no
+Sangiang Jaya,Tangerang,375000000,1.0,1.0,60,60,no,no,no,no,no
+Gading Serpong,Tangerang,3500000000,4.0,3.0,144,155,no,no,yes,no,no
+Gading Serpong,Tangerang,3500000000,4.0,3.0,144,155,no,no,yes,no,no
+BSD,Tangerang,3310000000,3.0,3.0,150,200,yes,no,no,no,no
+Poris,Tangerang,920000000,3.0,2.0,66,60,no,no,no,no,no
+BSD City,Tangerang,600000000,3.0,2.0,63,48,yes,yes,no,no,no
+Gading Serpong,Tangerang,4800000000,4.0,3.0,180,175,no,no,no,no,yes
+Curug,Tangerang,850000000,3.0,2.0,105,95,no,no,yes,no,no
+Gading Serpong,Tangerang,4400000000,3.0,2.0,153,163,no,no,no,no,no
+Gading Serpong,Tangerang,2100000000,3.0,2.0,77,73,no,no,yes,no,no
+Karawaci,Tangerang,991000000,4.0,2.0,70,77,no,no,no,no,no
+Cisauk,Tangerang,898000000,2.0,2.0,60,50,yes,no,yes,no,no
+Alam Sutera,Tangerang,3950000000,4.0,4.0,136,150,no,no,no,yes,no
+Alam Sutera,Tangerang,2900000000,3.0,2.0,170,120,yes,no,no,no,no
+Gading Serpong,Tangerang,850000000,2.0,1.0,72,65,yes,no,yes,no,no
+BSD,Tangerang,1270000000,2.0,1.0,56,45,no,no,no,no,no
+Cikupa,Tangerang,850000000,2.0,1.0,120,66,no,no,yes,no,no
+Cipondoh,Tangerang,1930000000,2.0,2.0,179,90,yes,no,no,no,no
+Cipondoh,Tangerang,970000000,2.0,2.0,77,77,yes,no,no,no,no
+Gading Serpong,Tangerang,860000000,4.0,2.0,174,165,yes,no,no,no,no
+Gading Serpong,Tangerang,2140000000,3.0,3.0,65,77,yes,no,no,no,no
+Cipondoh,Tangerang,3500000000,4.0,2.0,84,86,yes,no,yes,no,no
+Gading Serpong,Tangerang,1590000000,3.0,2.0,56,83,no,no,yes,no,no
+Gading Serpong,Tangerang,1740000000,3.0,3.0,84,105,no,no,yes,no,no
+Alam Sutera,Tangerang,3750000000,4.0,3.0,112,126,no,no,yes,no,no
+Cisauk,Tangerang,1990000000,3.0,3.0,120,104,no,no,yes,no,no
+Modernland,Tangerang,2900000000,3.0,2.0,171,154,no,no,no,no,no
+Alam Sutera,Tangerang,1970000000,3.0,2.0,90,120,no,no,yes,no,no
+BSD,Tangerang,540000000,2.0,1.0,72,36,no,no,no,no,no
+Gading Serpong,Tangerang,2950000000,4.0,4.0,153,163,no,no,yes,no,no
+Karawaci,Tangerang,1480000000,2.0,2.0,90,60,no,no,yes,no,no
+BSD City,Tangerang,650000000,2.0,1.0,81,42,no,no,yes,no,no
+Metro Permata,Tangerang,1420000000,3.0,2.0,116,100,yes,no,no,no,no
+Graha Raya,Tangerang,1470000000,2.0,1.0,90,60,yes,yes,no,no,no
+Karawaci,Tangerang,720000000,2.0,1.0,72,36,yes,no,no,no,no
+Karawaci,Tangerang,800000000,2.0,1.0,72,36,yes,no,no,no,no
+Gading Serpong,Tangerang,5500000000,4.0,3.0,180,200,no,no,no,yes,no
+Kelapa Dua,Tangerang,860000000,4.0,2.0,174,165,yes,no,no,no,no
+Sindang Jaya,Tangerang,3040000000,4.0,3.0,160,110,yes,no,no,no,no
+Curug,Tangerang,720000000,2.0,1.0,72,36,yes,no,no,no,no
+Gading Serpong,Tangerang,2040000000,3.0,3.0,65,77,no,no,yes,no,no
+BSD Eminent,Tangerang,3400000000,3.0,3.0,120,142,no,no,yes,no,no
+BSD Nusaloka,Tangerang,1250000000,2.0,1.0,78,60,no,no,yes,no,no
+BSD Vanya Park,Tangerang,1550000000,3.0,2.0,77,150,no,no,no,no,no
+BSD,Tangerang,1120000000,2.0,2.0,85,45,no,no,no,no,no
+Gading Serpong,Tangerang,1700000000,3.0,2.0,77,90,no,no,no,yes,no
+Gading Serpong,Tangerang,1800000000,3.0,1.0,120,87,no,no,no,no,no
+Gading Serpong,Tangerang,1930000000,2.0,2.0,120,60,no,no,no,no,no
+BSD City,Tangerang,970000000,3.0,2.0,60,54,yes,no,no,no,no
+BSD City,Tangerang,1140000000,2.0,1.0,72,46,yes,no,no,no,no
+Kelapa Dua,Tangerang,2950000000,4.0,4.0,153,163,yes,no,no,no,no
+BSD,Tangerang,960000000,2.0,1.0,72,54,yes,no,no,no,no
+BSD,Tangerang,1340000000,3.0,2.0,78,88,yes,no,no,no,no
+Karang Tengah,Tangerang,1000000000,2.0,1.0,112,80,no,no,no,no,no
+Gading Serpong,Tangerang,4200000000,4.0,3.0,144,174,no,no,yes,no,no
+Tangerang,Tangerang,1950000000,3.0,3.0,88,50,no,no,yes,no,no
+Tangerang,Tangerang,2460000000,3.0,3.0,108,75,no,no,yes,no,no
+Tangerang,Tangerang,2780000000,4.0,4.0,105,110,no,no,yes,no,no
+Tangerang,Tangerang,1950000000,3.0,3.0,88,50,no,no,yes,no,no
+Tangerang,Tangerang,2460000000,3.0,3.0,108,75,no,no,yes,no,no
+Tangerang,Tangerang,2780000000,4.0,4.0,105,110,no,no,yes,no,no
+Tangerang,Tangerang,1950000000,3.0,3.0,88,55,no,no,yes,no,no
+Tangerang,Tangerang,2460000000,3.0,3.0,108,75,no,no,yes,no,no
+Tangerang,Tangerang,2780000000,4.0,4.0,105,110,no,no,yes,no,no
+Gading Serpong,Tangerang,1450000000,2.0,2.0,66,62,no,no,yes,yes,no
+BSD,Tangerang,1170000000,2.0,1.0,122,75,yes,yes,no,no,no
+BSD City,Tangerang,1790000000,3.0,2.0,117,78,yes,no,no,no,no
+BSD City,Tangerang,1420000000,2.0,1.0,84,50,yes,no,no,no,no
+BSD,Tangerang,2140000000,3.0,3.0,105,170,yes,no,no,no,no
+BSD,Tangerang,1680000000,2.0,2.0,105,70,yes,no,no,no,no
+Gading Serpong,Tangerang,3200000000,4.0,4.0,198,170,no,no,yes,no,no
+Curug,Tangerang,2600000000,3.0,3.0,168,200,yes,no,no,no,no
+Pakujaya,Tangerang,2520000000,2.0,1.0,195,89,yes,no,no,no,no
+Gading Serpong,Tangerang,1720000000,3.0,3.0,84,105,yes,no,no,no,no
+Alam Sutera,Tangerang,3750000000,4.0,3.0,112,126,yes,no,yes,no,no
+Poris,Tangerang,1030000000,3.0,2.0,90,120,no,no,no,no,no
+Pagedangan,Tangerang,2030000000,3.0,2.0,77,70,yes,no,no,no,no
+Curug,Tangerang,740000000,2.0,1.0,72,39,yes,no,no,no,no
+Suradita,Tangerang,970000000,3.0,2.0,60,54,yes,no,no,no,no
+Cisauk,Tangerang,1140000000,2.0,1.0,84,60,yes,no,no,no,no
+Tangerang Kota,Tangerang,750000000,2.0,1.0,90,60,no,no,no,no,no
+Curug,Tangerang,955000000,1.0,1.0,113,144,no,no,no,no,no
+Tangerang Kota,Tangerang,1000000000,2.0,2.0,169,200,no,no,no,no,no
+Kunciran,Tangerang,1500000000,6.0,3.0,112,140,yes,no,no,no,no
+Pagedangan,Tangerang,1000000000,3.0,1.0,91,80,no,no,no,no,no
+Pasar Kemis,Tangerang,300000000,2.0,2.0,66,80,no,no,no,no,no
+Curug,Tangerang,1000000000,2.0,2.0,90,139,no,no,no,no,no
+Ciledug,Tangerang,2520000000,2.0,1.0,165,150,no,no,no,no,no
+Batu Ceper,Tangerang,1670000000,3.0,2.0,169,150,no,no,no,no,no
+Kelapa Dua,Tangerang,468000000,2.0,1.0,60,45,yes,no,yes,no,no
+Karang Tengah,Tangerang,1450000000,4.0,2.0,150,135,yes,no,no,no,no
+Cisauk,Tangerang,410000000,2.0,1.0,60,60,no,no,yes,no,no
+Gading Serpong,Tangerang,3650000000,4.0,4.0,136,147,no,yes,no,yes,no
+Pasar Kemis,Tangerang,1240000000,1.0,1.0,120,150,no,no,no,no,no
+Gading Serpong,Tangerang,3750000000,3.0,3.0,187,158,no,no,yes,no,no
+BSD City,Tangerang,1300000000,2.0,2.0,48,63,no,no,yes,no,no
+BSD Foresta,Tangerang,2500000000,4.0,3.0,144,120,no,no,no,no,no
+BSD City,Tangerang,3640000000,3.0,3.0,128,102,yes,no,no,no,no
+Gading Serpong,Tangerang,2090000000,4.0,2.0,128,120,no,no,no,no,no
+Gading Serpong,Tangerang,1020000000,2.0,1.0,120,80,yes,no,no,no,no
+Gading Serpong,Tangerang,2030000000,3.0,2.0,77,70,no,no,no,no,no
+Poris,Tangerang,1050000000,3.0,3.0,47,75,no,no,no,no,no
+Cikupa,Tangerang,488000000,3.0,2.0,84,82,no,yes,yes,no,no
+Lippo Karawaci,Tangerang,2950000000,4.0,4.0,153,163,yes,no,no,no,no
+Lippo Karawaci,Tangerang,740000000,2.0,1.0,72,39,yes,no,no,no,no
+Karawaci,Tangerang,990000000,2.0,2.0,108,90,yes,no,yes,no,no
+BSD City,Tangerang,2140000000,3.0,3.0,105,170,yes,no,no,no,no
+BSD,Tangerang,2470000000,3.0,2.0,116,139,yes,no,no,no,no
+Karawaci,Tangerang,1800000000,3.0,2.0,60,66,yes,no,no,no,no
+Gading Serpong,Tangerang,2850000000,3.0,2.0,136,160,no,no,yes,no,no
+Gading Serpong,Tangerang,3100000000,3.0,2.0,96,161,no,no,yes,no,no
+Cikupa Citra Raya,Tangerang,1160000000,4.0,3.0,120,120,no,no,no,no,no
+BSD The Green,Tangerang,3300000000,3.0,3.0,180,180,no,no,no,yes,no
+Gading Serpong,Tangerang,2300000000,3.0,3.0,128,190,yes,no,no,no,no
+Bekasi Kota,Bekasi,870000000,3.0,2.0,96,83,yes,no,no,no,no
+Mustikajaya,Bekasi,616000000,2.0,1.0,72,72,no,no,yes,no,no
+Harapan Indah,Bekasi,1750000000,2.0,2.0,149,101,no,no,yes,no,no
+Harapan Indah,Bekasi,1050000000,3.0,2.0,144,75,no,no,no,no,no
+Bekasi Kota,Bekasi,5100000000,3.0,2.0,600,300,no,no,yes,no,no
+Taman Galaxy,Bekasi,1400000000,3.0,3.0,84,120,yes,no,no,no,no
+Summarecon Bekasi,Bekasi,5500000000,5.0,5.0,180,297,yes,no,no,no,no
+Harapan Indah,Bekasi,1000000000,2.0,2.0,55,54,yes,no,no,no,no
+Jati Asih,Bekasi,1970000000,4.0,2.0,108,132,no,no,yes,no,no
+Harapan Indah,Bekasi,3400000000,3.0,4.0,278,183,no,no,yes,no,no
+Harapan Indah,Bekasi,3500000000,3.0,3.0,200,275,no,no,yes,no,no
+Babelan,Bekasi,470000000,2.0,1.0,72,48,no,no,no,no,no
+Bekasi Kota,Bekasi,970000000,3.0,2.0,90,175,yes,no,no,no,no
+Jatibening,Bekasi,1720000000,3.0,2.0,150,100,no,no,no,no,no
+Jatibening,Bekasi,810000000,2.0,1.0,120,90,no,no,no,no,no
+Jati Asih,Bekasi,1610000000,2.0,1.0,72,45,yes,no,no,no,no
+Jati Asih,Bekasi,1180000000,3.0,2.0,120,90,yes,no,no,no,no
+Harapan Indah,Bekasi,910000000,4.0,2.0,105,78,no,no,no,no,no
+Harapan Indah,Bekasi,1130000000,3.0,1.0,112,112,no,no,no,no,no
+Grand Wisata,Bekasi,940000000,2.0,1.0,84,39,no,no,no,no,no
+Grand Wisata,Bekasi,1610000000,2.0,2.0,144,130,no,no,no,no,no
+Galaxy,Bekasi,1180000000,2.0,1.0,90,60,yes,no,no,no,no
+Kebalen,Bekasi,950000000,3.0,1.0,102,66,no,no,no,no,no
+Galaxy,Bekasi,2360000000,3.0,3.0,213,200,yes,no,no,no,no
+Cikarang,Bekasi,750000000,2.0,2.0,78,102,no,no,no,no,no
+Cikarang,Bekasi,700000000,3.0,2.0,78,120,no,no,no,no,no
+Bekasi Utara,Bekasi,560000000,2.0,1.0,90,45,yes,no,no,no,no
+Bekasi Utara,Bekasi,810000000,3.0,1.0,60,100,yes,no,no,no,no
+Bekasi Timur,Bekasi,1100000000,2.0,2.0,60,50,yes,no,no,no,no
+Bekasi Timur,Bekasi,870000000,2.0,2.0,60,47,yes,no,no,no,no
+Babelan,Bekasi,580000000,2.0,1.0,72,50,yes,no,no,no,no
+Tarumajaya,Bekasi,1000000000,2.0,2.0,55,54,yes,no,no,no,no
+Summarecon Bekasi,Bekasi,2450000000,3.0,3.0,136,170,yes,no,no,no,no
+Jatibening,Bekasi,5500000000,5.0,5.0,720,609,no,no,no,no,yes
+Bekasi Timur,Bekasi,1820000000,4.0,3.0,270,100,no,no,yes,no,no
+Cikarang Utara,Bekasi,540000000,2.0,1.0,72,60,yes,no,no,no,no
+Babelan,Bekasi,490000000,2.0,1.0,60,55,yes,no,no,no,no
+Babelan,Bekasi,700000000,2.0,1.0,107,55,yes,no,no,no,no
+Babelan,Bekasi,650000000,2.0,1.0,101,57,yes,no,no,no,no
+Jatisampurna,Bekasi,1670000000,3.0,3.0,90,140,yes,no,no,no,no
+Mustikajaya,Bekasi,985000000,3.0,2.0,90,100,yes,no,yes,no,no
+Tambun Selatan,Bekasi,600000000,3.0,2.0,100,60,no,no,yes,no,no
+Grand Wisata,Bekasi,1610000000,2.0,2.0,126,110,yes,no,no,no,no
+Grand Wisata,Bekasi,650000000,2.0,1.0,72,42,yes,no,no,no,no
+Cikarang,Bekasi,540000000,2.0,1.0,36,72,yes,no,no,no,no
+Pondok Ungu,Bekasi,680000000,3.0,2.0,60,80,no,no,no,no,no
+Kaliabang,Bekasi,680000000,2.0,1.0,60,50,no,no,no,no,no
+Babelan,Bekasi,650000000,2.0,1.0,101,57,yes,no,no,no,no
+Bekasi Utara,Bekasi,540000000,2.0,1.0,72,54,no,no,no,no,no
+Bekasi Utara,Bekasi,1290000000,5.0,4.0,100,230,no,no,no,no,no
+Bekasi Utara,Bekasi,910000000,3.0,1.0,74,70,no,no,no,no,no
+Bekasi Utara,Bekasi,490000000,2.0,1.0,60,55,no,no,no,no,no
+Mustikajaya,Bekasi,860000000,3.0,2.0,128,95,no,no,yes,no,no
+Bekasi Timur,Bekasi,560000000,2.0,1.0,45,90,no,no,no,no,no
+Bekasi Timur,Bekasi,1610000000,3.0,2.0,144,130,no,no,no,no,no
+Bekasi Timur,Bekasi,750000000,2.0,1.0,54,84,no,no,no,no,no
+Bekasi Timur,Bekasi,700000000,2.0,1.0,92,37,no,no,no,no,no
+Summarecon Bekasi,Bekasi,700000000,2.0,1.0,107,55,no,no,no,no,no
+Summarecon Bekasi,Bekasi,650000000,2.0,1.0,101,57,yes,no,no,no,no
+Harapan Indah,Bekasi,1100000000,2.0,1.0,143,55,yes,no,no,no,no
+Pondokmelati,Bekasi,1290000000,2.0,2.0,144,140,no,no,no,no,no
+Jatibening,Bekasi,2680000000,5.0,3.0,128,240,no,no,no,no,no
+Jati Asih,Bekasi,2460000000,5.0,2.0,305,200,no,no,no,no,no
+Jati Asih,Bekasi,1100000000,2.0,2.0,60,50,yes,no,no,no,no
+Harapan Indah,Bekasi,560000000,2.0,2.0,60,100,no,no,no,no,no
+Harapan Indah,Bekasi,1180000000,3.0,1.0,108,90,yes,no,no,no,no
+Prima Harapan,Bekasi,1990000000,4.0,3.0,144,258,yes,no,no,no,no
+Galaxy,Bekasi,650000000,3.0,2.0,77,154,no,no,no,no,no
+Harapan Indah,Bekasi,1350000000,3.0,2.0,126,126,no,no,no,no,no
+Jatibening,Bekasi,12200000000,5.0,4.0,2448,800,no,no,no,yes,no
+Jaka Setia,Bekasi,15000000000,5.0,4.0,630,450,yes,no,no,no,no
+Jati Asih,Bekasi,800000000,3.0,2.0,75,77,yes,no,no,no,no
+Jati Asih,Bekasi,500000000,2.0,1.0,65,45,yes,no,no,no,yes
+Harapan Indah,Bekasi,2270000000,5.0,3.0,144,158,yes,no,no,yes,no
+Tambun Selatan,Bekasi,630000000,3.0,2.0,60,120,no,no,yes,no,no
+Tambun Selatan,Bekasi,1360000000,2.0,2.0,60,90,no,no,yes,no,no
+Mustikasari,Bekasi,775000000,2.0,1.0,72,55,yes,no,yes,no,no
+Rawalumbu,Bekasi,525000000,2.0,1.0,78,36,no,no,yes,no,no
+Harapan Indah,Bekasi,900000000,3.0,2.0,90,70,yes,no,yes,no,no
+Jati Asih,Bekasi,800000000,3.0,2.0,84,85,no,no,no,no,no
+Harapan Indah,Bekasi,1020000000,2.0,2.0,105,75,yes,no,no,no,no
+Harapan Indah,Bekasi,1720000000,3.0,3.0,108,160,yes,no,no,no,no
+Harapan Indah,Bekasi,1930000000,4.0,2.0,120,200,yes,no,no,no,no
+Tambun Selatan,Bekasi,2700000000,5.0,4.0,245,200,no,no,yes,no,no
+Pondokmelati,Bekasi,700000000,5.0,5.0,292,130,no,no,yes,no,no
+Jati Asih,Bekasi,1150000000,4.0,3.0,96,150,no,no,yes,no,no
+Bekasi,Bekasi,1620000000,3.0,3.0,90,75,yes,no,no,no,no
+Mustikajaya,Bekasi,545000000,2.0,1.0,72,38,yes,no,no,no,no
+Grand Wisata,Bekasi,702000000,3.0,2.0,80,60,yes,no,no,no,no
+Bekasi Timur,Bekasi,1470000000,3.0,3.0,90,75,yes,no,no,no,no
+Jatibening,Bekasi,790000000,2.0,2.0,85,60,no,no,no,no,no
+Harapan Indah,Bekasi,6000000000,6.0,3.0,300,450,no,no,no,yes,no
+Cibitung,Bekasi,850000000,2.0,1.0,72,54,yes,no,no,no,no
+Kemang Pratama,Bekasi,3900000000,3.0,3.0,201,300,no,no,no,no,no
+Summarecon Bekasi,Bekasi,4950000000,3.0,3.0,245,400,no,no,no,no,no
+Bekasi Kota,Bekasi,900000000,2.0,1.0,80,50,no,no,yes,no,no
+Jaka Setia,Bekasi,1600000000,4.0,1.0,162,180,no,no,yes,no,no
+Harapan Indah,Bekasi,1300000000,2.0,2.0,126,55,yes,no,no,no,no
+Kemang Pratama,Bekasi,11000000000,4.0,3.0,599,500,no,no,yes,no,no
+Kemang Pratama,Bekasi,11000000000,4.0,3.0,599,500,no,no,yes,no,no
+Kalimalang,Bekasi,1670000000,3.0,3.0,90,75,yes,no,no,no,yes
+Cikarang,Bekasi,1360000000,3.0,2.0,120,70,yes,no,no,no,no
+Jatibening,Bekasi,650000000,2.0,1.0,112,65,no,no,no,no,no
+Jati Asih,Bekasi,1070000000,4.0,3.0,100,200,yes,no,no,no,no
+Jatibening,Bekasi,1490000000,3.0,2.0,62,120,yes,no,no,no,no
+Harapan Indah,Bekasi,810000000,3.0,1.0,60,100,no,no,no,no,no
+Grand Wisata,Bekasi,590000000,2.0,1.0,66,66,no,no,no,no,no
+Galaxy,Bekasi,1720000000,3.0,2.0,150,100,yes,no,no,no,no
+Bekasi Utara,Bekasi,1490000000,3.0,3.0,79,105,yes,no,no,no,no
+Bekasi Timur,Bekasi,650000000,3.0,2.0,77,154,yes,no,no,no,no
+Babelan,Bekasi,1200000000,3.0,2.0,90,66,no,no,yes,yes,no
+Bekasi Utara,Bekasi,1200000000,3.0,2.0,90,100,yes,no,yes,no,no
+Jati Asih,Bekasi,910000000,4.0,2.0,89,160,yes,no,no,no,no
+Bekasi Utara,Bekasi,685000000,2.0,1.0,105,60,yes,no,yes,no,no
+Harapan Indah,Bekasi,1690000000,2.0,1.0,160,160,no,no,no,no,no
+Jatiwaringin,Bekasi,1100000000,3.0,3.0,85,97,no,no,no,no,no
+Jati Asih,Bekasi,615000000,2.0,1.0,81,55,no,yes,yes,no,no
+Serang Cibarusah,Bekasi,300000000,2.0,1.0,60,29,no,no,no,no,no
+Jatibening,Bekasi,1450000000,3.0,3.0,100,130,yes,no,no,no,no
+Jatibening,Bekasi,2140000000,4.0,2.0,90,88,yes,no,no,no,no
+Jatibening,Bekasi,1930000000,4.0,2.0,117,96,yes,no,no,no,no
+Jatibening,Bekasi,860000000,2.0,1.0,91,45,yes,no,no,no,no
+Jatibening,Bekasi,1930000000,3.0,2.0,170,170,no,no,no,no,no
+Jatibening,Bekasi,1610000000,4.0,3.0,84,120,no,no,no,no,no
+Jati Asih,Bekasi,550000000,2.0,1.0,70,45,yes,no,no,no,no
+Galaxy,Bekasi,1180000000,2.0,1.0,108,121,yes,no,no,no,no
+Galaxy,Bekasi,2680000000,4.0,2.0,150,250,yes,no,no,no,no
+Cikarang,Bekasi,2360000000,4.0,3.0,240,108,yes,no,no,no,no
+Bekasi Timur,Bekasi,1610000000,4.0,3.0,216,200,no,no,no,no,no
+Bekasi Timur,Bekasi,1070000000,2.0,1.0,124,60,yes,no,no,no,no
+Bekasi Timur,Bekasi,910000000,3.0,1.0,74,70,yes,no,no,no,no
+Tarumajaya,Bekasi,1400000000,3.0,2.0,71,54,no,no,yes,no,no
+Jati Asih,Bekasi,775000000,2.0,1.0,89,60,yes,no,no,no,no
+Jati Asih,Bekasi,540000000,2.0,1.0,63,68,yes,no,no,no,no
+Jati Asih,Bekasi,940000000,4.0,2.0,120,84,yes,no,no,no,no
+Tambun Utara,Bekasi,395000000,2.0,1.0,60,36,no,no,yes,no,no
+Jatimakmur,Bekasi,1700000000,4.0,5.0,135,124,yes,no,yes,no,no
+Harapan Indah,Bekasi,1040000000,3.0,2.0,55,93,no,no,no,no,no
+Bekasi Utara,Bekasi,540000000,2.0,1.0,72,40,yes,no,no,no,no
+Bekasi Utara,Bekasi,2890000000,4.0,3.0,238,180,yes,no,no,no,no
+Summarecon Bekasi,Bekasi,3500000000,2.0,3.0,136,260,no,no,yes,no,no
+Jati Asih,Bekasi,646000000,3.0,2.0,61,66,no,yes,no,no,no
+Jati Asih,Bekasi,25000000000,6.0,4.0,2500,1000,no,no,yes,no,no
+Bekasi Kota,Bekasi,860000000,3.0,2.0,128,95,no,no,no,no,no
+Bekasi Kota,Bekasi,720000000,2.0,1.0,60,65,no,no,no,no,no
+Bekasi Kota,Bekasi,940000000,3.0,2.0,72,90,no,no,no,no,no
+Bekasi Kota,Bekasi,860000000,2.0,1.0,101,70,no,no,no,no,no
+Bekasi Kota,Bekasi,590000000,2.0,1.0,60,51,no,no,no,no,no
+Harapan Indah,Bekasi,540000000,2.0,1.0,72,54,no,no,no,no,no
+Harapan Indah,Bekasi,700000000,2.0,1.0,107,55,no,no,no,no,no
+Bekasi Timur,Bekasi,716000000,3.0,2.0,80,110,no,no,yes,no,no
+Tarumajaya,Bekasi,1330000000,3.0,3.0,55,93,yes,no,no,no,no
+Medan Satria,Bekasi,920000000,4.0,2.0,93,140,yes,no,no,no,no
+Telukpucung,Bekasi,1300000000,3.0,2.0,66,88,no,no,no,no,no
+Cikarang,Bekasi,1500000000,15.0,15.0,135,250,no,no,no,no,no
+Bekasi Kota,Bekasi,1710000000,2.0,2.0,116,90,yes,no,no,no,no
+Bekasi Kota,Bekasi,680000000,2.0,2.0,90,42,yes,no,no,no,no
+Bekasi Barat,Bekasi,1660000000,4.0,4.0,108,156,no,no,no,no,no
+Setu,Bekasi,535000000,2.0,2.0,78,50,yes,no,no,no,no
+Cibubur,Bekasi,8000000000,6.0,5.0,400,700,no,no,no,yes,no
+Harapan Jaya,Bekasi,1390000000,2.0,2.0,224,75,no,no,no,no,no
+Jati Asih,Bekasi,1180000000,2.0,1.0,90,60,yes,no,no,no,no
+Harapan Indah,Bekasi,1560000000,3.0,3.0,90,150,yes,no,no,no,no
+Grand Wisata,Bekasi,700000000,2.0,1.0,90,38,yes,no,no,no,no
+Galaxy,Bekasi,1200000000,3.0,2.0,95,88,yes,no,no,no,no
+Galaxy,Bekasi,650000000,2.0,1.0,112,65,yes,no,no,no,no
+Summarecon Bekasi,Bekasi,1050000000,3.0,1.0,78,78,no,no,no,no,no
+Jatibening,Bekasi,1070000000,4.0,3.0,100,200,no,no,no,no,no
+Jatibening,Bekasi,1180000000,2.0,1.0,90,60,no,no,no,no,no
+Jati Asih,Bekasi,1720000000,3.0,2.0,150,100,yes,no,no,no,no
+Summarecon Bekasi,Bekasi,2100000000,4.0,2.0,119,115,no,no,no,no,no
+Cikarang,Bekasi,1020000000,4.0,3.0,72,150,no,no,no,no,no
+Jati Asih,Bekasi,900000000,3.0,2.0,77,83,yes,no,no,no,no
+Bekasi Timur,Bekasi,540000000,2.0,1.0,72,40,yes,no,no,no,no
+Bekasi Timur,Bekasi,650000000,3.0,2.0,60,120,yes,no,no,no,no
+Bekasi Utara,Bekasi,1600000000,3.0,3.0,105,130,yes,no,no,no,no
+Bekasi Utara,Bekasi,1490000000,3.0,3.0,90,122,yes,no,no,no,no
+Cikarang Utara,Bekasi,1000000000,4.0,3.0,77,84,no,no,yes,no,no
+Cikarang Utara,Bekasi,900000000,3.0,2.0,60,60,no,no,yes,no,no
+Cikarang Utara,Bekasi,1000000000,4.0,3.0,77,84,yes,no,no,no,no
+Cikarang Utara,Bekasi,900000000,3.0,2.0,60,60,no,no,yes,no,no
+Cikarang Utara,Bekasi,1000000000,4.0,3.0,77,84,no,no,yes,no,no
+Cikarang Utara,Bekasi,900000000,3.0,2.0,60,60,no,no,yes,no,no
+Cikarang Utara,Bekasi,1000000000,4.0,3.0,77,84,no,no,yes,no,no
+Cikarang Utara,Bekasi,900000000,3.0,2.0,60,60,no,no,yes,no,no
+Cikarang Utara,Bekasi,1000000000,4.0,3.0,77,84,no,no,yes,no,no
+Cikarang Utara,Bekasi,900000000,3.0,2.0,60,60,no,no,yes,no,no
+Cikarang,Bekasi,970000000,4.0,2.0,144,76,no,no,no,no,no
+Cikarang,Bekasi,540000000,2.0,1.0,72,60,no,no,no,no,no
+Bekasi Utara,Bekasi,910000000,2.0,1.0,124,60,no,no,no,no,no
+Bekasi Utara,Bekasi,540000000,2.0,1.0,60,40,no,no,no,no,no
+Bekasi Timur,Bekasi,1610000000,4.0,3.0,138,59,no,no,no,no,no
+Bekasi Timur,Bekasi,540000000,2.0,2.0,77,77,yes,no,no,no,no
+Pondokmelati,Bekasi,1580000000,3.0,4.0,90,155,yes,no,no,no,no
+Tambun Selatan,Bekasi,350000000,1.0,1.0,50,40,no,no,yes,no,no
+Jatibening,Bekasi,899000000,3.0,2.0,66,78,yes,no,no,no,no
+Mustikajaya,Bekasi,870000000,2.0,1.0,60,47,yes,no,no,no,no
+Bekasi Kota,Bekasi,1290000000,4.0,3.0,201,175,yes,no,no,no,no
+Bekasi Kota,Bekasi,810000000,2.0,1.0,120,90,yes,no,no,no,no
+Bekasi Kota,Bekasi,2360000000,3.0,3.0,213,200,yes,no,no,no,no
+Mustikajaya,Bekasi,940000000,3.0,2.0,72,90,yes,no,no,no,no
+Jatisampurna,Bekasi,1600000000,4.0,3.0,98,100,yes,no,no,no,no
+Harapan Indah,Bekasi,2120000000,3.0,3.0,108,69,no,no,yes,no,no
+Harapan Indah,Bekasi,957000000,3.0,2.0,72,108,no,no,no,no,no
+Bekasi,Bekasi,746000000,3.0,3.0,151,138,no,no,no,no,no
+Jatisampurna,Bekasi,2700000000,3.0,2.0,504,398,yes,no,no,no,no
+Tambun Utara,Bekasi,172000000,2.0,1.0,84,36,no,no,no,no,no
+Tambun Utara,Bekasi,172000000,2.0,1.0,84,36,no,no,no,no,no
+Cibubur,Bekasi,1100000000,1.0,1.0,161,41,no,no,no,no,no
+Bekasi Utara,Bekasi,800000000,2.0,2.0,130,70,no,no,no,no,no
+Pondokmelati,Bekasi,4340000000,4.0,2.0,475,626,no,no,no,no,no
+Bekasi,Bekasi,1550000000,6.0,3.0,152,315,no,no,no,no,no
+Bekasi,Bekasi,2000000000,1.0,1.0,229,220,yes,no,no,no,no
+Tarumajaya,Bekasi,1100000000,2.0,2.0,90,42,yes,no,no,no,no
+Bekasi Barat,Bekasi,900000000,3.0,2.0,198,100,no,no,no,no,no
+Harapan Indah,Bekasi,1020000000,3.0,2.0,90,69,yes,no,no,no,no
+Bekasi Barat,Bekasi,4750000000,5.0,3.0,188,300,no,no,yes,no,no
+Pondok Gede,Bekasi,757000000,2.0,1.0,103,80,no,no,no,no,no
+Cikarang,Bekasi,950000000,2.0,2.0,54,43,no,no,yes,no,no
+Cikarang,Bekasi,800000000,2.0,2.0,50,43,no,no,yes,no,no
+Harapan Indah,Bekasi,1290000000,5.0,4.0,100,230,no,no,no,no,no
+Summarecon Bekasi,Bekasi,540000000,2.0,1.0,72,40,yes,no,no,no,no
+Jatibening,Bekasi,2680000000,4.0,2.0,150,250,yes,no,no,no,no
+Jatibening,Bekasi,860000000,3.0,2.0,82,156,yes,no,no,no,no
+Cikarang,Bekasi,1400000000,3.0,3.0,105,87,yes,no,no,no,no
+Cikarang,Bekasi,750000000,2.0,1.0,84,84,yes,no,no,no,no
+Cikarang,Bekasi,1180000000,2.0,2.0,72,36,yes,no,no,no,no
+Cikarang,Bekasi,540000000,2.0,1.0,60,60,yes,no,no,no,no
+Bekasi Kota,Bekasi,1930000000,4.0,3.0,144,135,yes,no,no,no,no
+Bekasi Kota,Bekasi,1070000000,5.0,1.0,89,89,no,no,no,no,no
+Harapan Indah,Bekasi,1160000000,2.0,2.0,97,75,yes,no,no,no,no
+Harapan Indah,Bekasi,680000000,2.0,1.0,60,50,yes,no,no,no,no
+Summarecon Bekasi,Bekasi,560000000,2.0,1.0,90,45,yes,no,no,no,no
+Summarecon Bekasi,Bekasi,860000000,3.0,1.0,108,144,yes,no,no,no,no
+Kemang Pratama,Bekasi,1500000000,4.0,2.0,162,170,yes,no,no,no,no
+Rawalumbu,Bekasi,2900000000,4.0,4.0,526,110,yes,no,yes,no,no
+Jatibening,Bekasi,850000000,3.0,2.0,88,150,yes,no,no,no,no
+Bekasi,Bekasi,2300000000,4.0,3.0,270,330,no,no,no,no,no
+Jati Asih,Bekasi,1170000000,3.0,2.0,90,130,no,no,no,no,no
+Harapan Indah,Bekasi,1350000000,5.0,2.0,234,120,no,no,no,no,no
+Jati Asih,Bekasi,980000000,2.0,1.0,90,48,no,no,no,no,no
+Jatibening,Bekasi,2460000000,5.0,2.0,305,200,no,no,no,no,no
+Jatibening,Bekasi,1720000000,5.0,3.0,154,180,no,no,no,no,no
+Jatibening,Bekasi,1180000000,3.0,2.0,120,90,no,no,no,no,no
+Grand Wisata,Bekasi,540000000,2.0,2.0,77,77,yes,no,no,no,no
+Grand Wisata,Bekasi,910000000,3.0,1.0,120,120,yes,no,no,no,no
+Cikarang,Bekasi,420000000,3.0,1.0,90,90,no,no,no,no,no
+Cikarang,Bekasi,540000000,2.0,2.0,77,77,no,no,no,no,no
+Bekasi Utara,Bekasi,1930000000,4.0,2.0,120,200,yes,no,no,no,no
+Bekasi Utara,Bekasi,1560000000,3.0,3.0,90,150,yes,no,no,no,no
+Tarumajaya,Bekasi,3400000000,4.0,4.0,276,183,no,no,yes,no,no
+Bekasi Timur,Bekasi,810000000,2.0,1.0,38,86,no,no,no,no,no
+Bekasi Timur,Bekasi,590000000,2.0,1.0,90,55,no,no,no,no,no
+Summarecon Bekasi,Bekasi,1060000000,4.0,2.0,72,90,no,no,no,no,no
+Summarecon Bekasi,Bekasi,1820000000,4.0,1.0,270,100,no,no,no,no,no
+Cibitung,Bekasi,250000000,1.0,1.0,84,21,no,no,yes,no,no
+Pluit,Jakarta Utara,7500000000,5.0,5.0,330,635,yes,no,yes,no,no
+Jagakarsa,Jakarta Selatan,2500000000,3.0,3.0,80,150,yes,no,no,no,yes
+Sawah Besar,Jakarta Pusat,640000000,2.0,1.0,29,37,no,no,no,no,no
+Permata Buana,Jakarta Barat,8500000000,4.0,4.0,250,400,no,no,no,no,no
+Cideng,Jakarta Pusat,6500000000,3.0,2.0,250,260,no,no,no,no,no
+Sunter,Jakarta Utara,7500000000,6.0,5.0,292,360,no,no,no,no,no
+Jelambar,Jakarta Barat,3600000000,3.0,3.0,140,208,no,no,no,no,no
+Cipete,Jakarta Selatan,16000000000,5.0,3.0,526,400,no,no,yes,no,no
+Utan Kayu,Jakarta Timur,585000000,3.0,2.0,30,58,no,no,yes,no,no
+Cawang,Jakarta Timur,1500000000,3.0,2.0,55,98,no,no,yes,no,no
+Jelambar,Jakarta Barat,5900000000,6.0,6.0,114,338,no,no,no,no,no
+Pondok Indah,Jakarta Selatan,19000000000,4.0,4.0,400,500,no,no,yes,no,no
+Kebayoran Baru,Jakarta Selatan,14900000000,4.0,3.0,242,312,yes,no,no,no,no
+Kelapa Gading,Jakarta Utara,3900000000,3.0,3.0,160,160,no,no,yes,no,no
+Kalideres,Jakarta Barat,5850000000,5.0,4.0,232,310,no,no,yes,no,no
+Pondok Bambu,Jakarta Timur,7000000000,7.0,4.0,300,692,no,no,yes,no,no
+Kebon Jeruk,Jakarta Barat,4500000000,2.0,4.0,176,450,no,no,yes,no,no
+Pondok Labu,Jakarta Selatan,991000000,2.0,2.0,43,79,no,no,yes,no,no
+Tanjung Priok,Jakarta Utara,5000000000,2.0,2.0,274,324,no,no,yes,no,no
+Mangga Besar,Jakarta Barat,1200000000,8.0,5.0,66,253,no,no,yes,no,no
+Kramat Jati,Jakarta Timur,4000000000,3.0,3.0,140,304,yes,no,no,no,no
+Muara Karang,Jakarta Utara,6000000000,4.0,3.0,200,250,no,no,no,no,no
+Muara Karang,Jakarta Utara,4300000000,4.0,3.0,120,275,yes,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,15800000000,4.0,4.0,300,450,yes,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,3650000000,4.0,4.0,120,240,no,no,yes,no,no
+Pondok Indah,Jakarta Selatan,65000000000,8.0,5.0,825,1500,yes,no,no,yes,no
+Kebayoran Baru,Jakarta Selatan,40000000000,4.0,2.0,599,360,yes,no,no,no,no
+Pegangsaan,Jakarta Pusat,29000000000,3.0,2.0,599,350,no,no,yes,no,no
+Pantai Mutiara,Jakarta Utara,41900000000,4.0,4.0,609,1500,yes,no,no,yes,no
+Pantai Mutiara,Jakarta Utara,41900000000,4.0,4.0,609,1500,yes,no,no,yes,no
+Kebayoran Baru,Jakarta Selatan,149000000000,6.0,5.0,1280,2000,no,no,yes,yes,no
+Kebayoran Baru,Jakarta Selatan,25000000000,3.0,4.0,318,350,no,yes,no,yes,no
+Kebayoran Baru,Jakarta Selatan,7900000000,4.0,2.0,197,300,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,2400000000,2.0,1.0,60,79,no,no,yes,no,no
+Pluit,Jakarta Utara,7790000000,5.0,4.0,324,408,yes,no,yes,no,no
+Green Lake City,Jakarta Barat,3180000000,3.0,3.0,120,150,no,no,no,yes,no
+Muara Karang,Jakarta Utara,3950000000,5.0,5.0,105,200,no,no,no,no,no
+Tebet,Jakarta Selatan,3750000000,3.0,3.0,65,211,yes,no,no,no,yes
+Pesanggrahan,Jakarta Selatan,2500000000,4.0,3.0,169,300,no,yes,yes,no,no
+Jagakarsa,Jakarta Selatan,1970000000,5.0,5.0,125,160,no,no,yes,no,no
+Tomang,Jakarta Barat,2490000000,4.0,4.0,48,120,no,no,no,no,yes
+Ancol,Jakarta Utara,30000000000,8.0,8.0,600,1200,no,no,no,no,no
+Tebet,Jakarta Selatan,3600000000,4.0,4.0,120,200,yes,no,no,no,no
+Pluit,Jakarta Utara,10500000000,4.0,4.0,200,600,no,no,no,no,no
+Green Lake City,Jakarta Barat,3200000000,3.0,3.0,108,180,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,13400000000,5.0,4.0,144,300,yes,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,15900000000,4.0,4.0,192,350,no,no,yes,no,no
+Citra Garden,Jakarta Barat,1750000000,2.0,2.0,180,180,no,no,no,no,no
+Grogol,Jakarta Barat,3100000000,3.0,3.0,180,180,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,7300000000,4.0,4.0,243,280,yes,no,no,yes,no
+Pantai Indah Kapuk,Jakarta Utara,9100000000,4.0,4.0,200,600,no,no,yes,no,no
+Cakung,Jakarta Timur,3800000000,4.0,3.0,198,198,yes,no,no,no,no
+Muara Karang,Jakarta Utara,4500000000,3.0,4.0,120,200,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,3100000000,3.0,2.0,75,133,no,no,no,no,no
+Pantai Indah Kapuk 2,Jakarta Utara,1500000000,2.0,2.0,54,75,no,no,yes,no,no
+Pantai Indah Kapuk,Jakarta Utara,60000000000,4.0,9.0,600,1300,no,no,no,yes,no
+Kembangan,Jakarta Barat,3540000000,6.0,3.0,135,250,yes,no,no,no,no
+Cipete,Jakarta Selatan,16000000000,5.0,5.0,505,825,yes,no,no,no,no
+Green Lake City,Jakarta Barat,2500000000,3.0,3.0,90,120,no,yes,yes,no,no
+Ciracas,Jakarta Timur,1270000000,2.0,1.0,129,70,yes,no,no,no,no
+Kemang,Jakarta Selatan,6900000000,4.0,5.0,300,262,no,no,no,no,no
+Cilandak,Jakarta Selatan,6350000000,3.0,3.0,289,289,no,no,no,no,no
+Cipete,Jakarta Selatan,8250000000,3.0,3.0,159,378,no,no,no,no,no
+Cilandak,Jakarta Selatan,5900000000,4.0,4.0,262,520,no,no,no,no,no
+Sunter,Jakarta Utara,3500000000,3.0,2.0,105,120,no,no,yes,no,no
+Lebak Bulus,Jakarta Selatan,7000000000,3.0,3.0,275,225,no,no,no,no,no
+Kemang,Jakarta Selatan,8200000000,4.0,3.0,200,330,no,no,no,no,no
+Kemang,Jakarta Selatan,8200000000,4.0,3.0,200,330,no,no,no,no,no
+Pondok Labu,Jakarta Selatan,10000000000,3.0,3.0,600,387,no,no,no,no,no
+Kebayoran Baru,Jakarta Selatan,16500000000,3.0,3.0,292,305,yes,yes,no,no,no
+Kelapa Gading,Jakarta Utara,4780000000,4.0,3.0,162,215,yes,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,48000000000,5.0,3.0,1084,1000,no,no,no,no,no
+Kebayoran Baru,Jakarta Selatan,45000000000,4.0,2.0,458,500,yes,no,no,no,no
+Kota Wisata,Jakarta Timur,1560000000,2.0,2.0,119,100,no,no,no,no,no
+Cipinang,Jakarta Timur,1390000000,3.0,3.0,40,78,yes,no,no,no,yes
+Cengkareng,Jakarta Barat,2600000000,3.0,3.0,90,180,yes,no,no,yes,no
+Pantai Indah Kapuk,Jakarta Utara,5300000000,3.0,3.0,150,209,yes,no,no,no,no
+Jelambar,Jakarta Barat,5700000000,3.0,4.0,168,538,no,no,no,no,no
+Pantai Mutiara,Jakarta Utara,30000000000,1.0,1.0,600,600,yes,no,no,no,no
+Jelambar,Jakarta Barat,2100000000,2.0,4.0,97,268,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,12800000000,4.0,5.0,240,300,yes,no,yes,no,no
+Pantai Indah Kapuk,Jakarta Utara,36500000000,5.0,5.0,585,1400,no,no,yes,no,no
+Pondok Indah,Jakarta Selatan,4600000000,3.0,2.0,121,100,no,no,no,yes,no
+Pantai Indah Kapuk,Jakarta Utara,13500000000,4.0,4.0,250,350,no,no,yes,no,no
+Pantai Indah Kapuk,Jakarta Utara,19000000000,5.0,5.0,512,700,yes,no,yes,no,no
+Tebet,Jakarta Selatan,9000000000,6.0,5.0,391,500,yes,no,yes,no,no
+Cilincing,Jakarta Utara,800000000,3.0,3.0,195,190,no,no,no,no,no
+Kembangan,Jakarta Barat,2400000000,4.0,3.0,115,91,no,no,no,no,no
+Tanjung Priok,Jakarta Utara,1000000000,14.0,14.0,252,115,no,no,no,no,no
+Pasar Rebo,Jakarta Timur,3000000000,4.0,3.0,266,450,no,no,no,no,no
+Cakung,Jakarta Timur,1000000000,3.0,2.0,110,170,no,no,no,no,no
+Cakung,Jakarta Timur,1450000000,3.0,2.0,200,286,no,no,no,no,no
+Pasar Minggu,Jakarta Selatan,4400000000,5.0,4.0,262,208,no,no,no,no,no
+Cipayung,Jakarta Timur,4100000000,4.0,4.0,445,400,no,no,no,no,no
+Duren Sawit,Jakarta Timur,3200000000,3.0,2.0,201,190,no,no,no,no,no
+Cilandak,Jakarta Selatan,2490000000,7.0,2.0,315,350,no,no,no,no,no
+Cipayung,Jakarta Timur,1200000000,3.0,2.0,124,150,no,no,no,no,no
+Jagakarsa,Jakarta Selatan,2650000000,3.0,3.0,200,375,no,no,no,no,no
+Tanjung Barat,Jakarta Selatan,2000000000,2.0,2.0,157,250,no,no,no,no,no
+Jatinegara,Jakarta Timur,3000000000,4.0,2.0,273,200,no,no,no,no,no
+Pegadungan,Jakarta Barat,1800000000,3.0,2.0,225,150,no,no,no,no,no
+Pasar Rebo,Jakarta Timur,3580000000,4.0,2.0,266,360,no,no,no,no,no
+Pasar Rebo,Jakarta Timur,3580000000,4.0,2.0,266,360,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,3900000000,3.0,3.0,120,170,no,no,yes,no,no
+Pantai Indah Kapuk,Jakarta Utara,33000000000,4.0,4.0,525,900,no,no,yes,no,no
+Pantai Indah Kapuk 2,Jakarta Utara,4500000000,3.0,3.0,100,150,yes,no,yes,no,no
+Jelambar,Jakarta Barat,3600000000,3.0,3.0,140,203,no,no,yes,no,no
+Jelambar,Jakarta Barat,5700000000,3.0,4.0,168,532,no,no,yes,no,no
+Jelambar,Jakarta Barat,2100000000,2.0,3.0,56,126,no,no,yes,no,no
+Muara Karang,Jakarta Utara,5200000000,4.0,3.0,120,240,no,no,no,no,no
+Permata Buana,Jakarta Barat,4500000000,3.0,2.0,144,200,no,no,yes,no,no
+Permata Buana,Jakarta Barat,4500000000,4.0,3.0,144,200,yes,no,yes,no,no
+Pantai Indah Kapuk,Jakarta Utara,13000000000,4.0,4.0,360,828,yes,no,yes,no,no
+Duren Sawit,Jakarta Timur,1630000000,2.0,2.0,222,123,no,no,yes,no,no
+Kebayoran Lama,Jakarta Selatan,1800000000,3.0,1.0,117,100,no,yes,yes,no,no
+Duren Sawit,Jakarta Timur,3080000000,4.0,2.0,217,186,no,no,yes,no,no
+Pasar Minggu,Jakarta Selatan,4680000000,4.0,3.0,330,300,no,no,yes,no,no
+Jagakarsa,Jakarta Selatan,3700000000,4.0,3.0,210,200,no,no,yes,no,no
+Kramat Jati,Jakarta Timur,4500000000,4.0,2.0,500,400,no,no,yes,no,no
+Cakung,Jakarta Timur,2450000000,4.0,2.0,336,288,no,yes,yes,no,no
+Cakung,Jakarta Timur,3200000000,5.0,3.0,511,359,no,no,yes,no,no
+Cipayung,Jakarta Timur,1200000000,3.0,2.0,91,136,no,no,yes,no,no
+Cakung,Jakarta Timur,4500000000,4.0,3.0,450,340,no,no,yes,no,no
+Matraman,Jakarta Timur,3500000000,4.0,2.0,209,194,no,no,yes,no,no
+Pesanggrahan,Jakarta Selatan,3400000000,4.0,2.0,155,310,no,no,yes,no,no
+Intercon,Jakarta Barat,7500000000,5.0,2.0,240,275,yes,no,no,no,no
+Intercon,Jakarta Barat,27000000000,4.0,4.0,800,1500,yes,no,no,no,no
+Kramat Jati,Jakarta Timur,2000000000,3.0,2.0,281,156,no,no,yes,no,no
+Pantai Indah Kapuk,Jakarta Utara,11000000000,4.0,3.0,250,300,no,no,no,yes,no
+Kalideres,Jakarta Barat,1700000000,19.0,19.0,200,400,no,no,yes,no,no
+Kebayoran Lama,Jakarta Selatan,4240000000,3.0,2.0,225,394,no,no,no,no,no
+Kelapa Gading,Jakarta Utara,2700000000,7.0,4.0,128,260,no,no,yes,no,no
+Condet,Jakarta Timur,2500000000,9.0,4.0,262,450,no,no,no,no,no
+Cijantung,Jakarta Timur,15000000000,3.0,2.0,950,850,no,no,no,no,no
+Green Lake City,Jakarta Barat,2490000000,4.0,3.0,108,126,no,no,yes,no,no
+Cakung,Jakarta Timur,4290000000,4.0,3.0,144,195,no,no,yes,no,no
+Kebayoran Baru,Jakarta Selatan,17800000000,4.0,4.0,259,450,yes,no,no,no,no
+Pasar Minggu,Jakarta Selatan,6000000000,20.0,21.0,438,438,yes,no,yes,no,no
+Permata Hijau,Jakarta Selatan,20000000000,8.0,5.0,438,264,no,no,yes,no,no
+Cideng,Jakarta Pusat,7500000000,3.0,2.0,289,320,no,no,no,no,no
+Menteng,Jakarta Pusat,42000000000,5.0,4.0,518,600,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,9500000000,4.0,4.0,290,510,no,no,no,no,no
+Cipayung,Jakarta Timur,900000000,3.0,2.0,60,75,yes,no,no,no,yes
+Cempaka Putih,Jakarta Pusat,2400000000,3.0,3.0,53,94,no,no,no,no,no
+Pondok Indah,Jakarta Selatan,22000000000,5.0,4.0,410,500,yes,no,no,no,no
+Cempaka Putih,Jakarta Pusat,2400000000,3.0,3.0,53,94,no,no,no,no,no
+Senen,Jakarta Pusat,7000000000,8.0,6.0,295,150,no,no,yes,no,no
+Cilandak,Jakarta Selatan,8750000000,3.0,2.0,540,225,no,no,no,no,no
+Pondok Kelapa,Jakarta Timur,3200000000,4.0,4.0,200,199,no,no,yes,no,no
+Kebayoran Lama,Jakarta Selatan,8000000000,2.0,2.0,700,560,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,9500000000,3.0,2.0,136,136,no,no,no,no,no
+Pluit,Jakarta Utara,6600000000,4.0,3.0,200,300,yes,no,no,no,no
+Duri Kosambi,Jakarta Barat,4300000000,3.0,4.0,248,247,no,no,no,no,no
+Lebak Bulus,Jakarta Selatan,5800000000,3.0,2.0,400,500,yes,no,no,no,no
+Grogol,Jakarta Barat,1890000000,3.0,3.0,48,110,no,no,no,no,no
+Tebet,Jakarta Selatan,25000000000,4.0,3.0,620,450,no,no,no,no,no
+Cilandak,Jakarta Selatan,9000000000,3.0,2.0,405,600,no,no,no,no,no
+Menteng,Jakarta Pusat,75000000000,5.0,5.0,980,550,no,no,no,no,no
+TB Simatupang,Jakarta Selatan,70000000000,9.0,8.0,4600,2600,yes,no,yes,no,no
+Pondok Labu,Jakarta Selatan,39000000000,8.0,9.0,2475,900,no,no,yes,no,no
+Kebayoran Baru,Jakarta Selatan,81200000000,4.0,5.0,830,900,no,no,no,yes,no
+Puri Mansion,Jakarta Barat,2700000000,3.0,3.0,90,110,no,no,yes,no,no
+Puri Mansion,Jakarta Barat,2700000000,3.0,3.0,90,110,no,no,yes,no,no
+Pantai Indah Kapuk,Jakarta Utara,7500000000,3.0,3.0,195,200,no,no,yes,no,no
+Green Lake City,Jakarta Barat,2550000000,4.0,3.0,96,130,yes,no,no,no,no
+Green Lake City,Jakarta Barat,4600000000,4.0,3.0,180,300,yes,no,no,no,no
+Meruya,Jakarta Barat,2250000000,3.0,3.0,120,137,yes,no,no,no,no
+Green Lake City,Jakarta Barat,2150000000,3.0,2.0,90,100,yes,no,no,no,no
+Green Lake City,Jakarta Barat,3180000000,3.0,3.0,108,250,yes,no,no,no,no
+Jagakarsa,Jakarta Selatan,1300000000,4.0,3.0,108,160,yes,no,no,no,no
+Jagakarsa,Jakarta Selatan,1300000000,4.0,3.0,108,160,yes,no,no,no,no
+Pondok Kelapa,Jakarta Timur,6500000000,4.0,5.0,480,350,no,no,no,no,no
+Green Lake City,Jakarta Barat,5000000000,3.0,4.0,266,160,yes,no,no,no,no
+Green Lake City,Jakarta Barat,2500000000,3.0,2.0,90,108,yes,no,no,no,no
+Pondok Indah,Jakarta Selatan,55000000000,5.0,6.0,1075,1000,yes,no,no,yes,no
+Pondok Indah,Jakarta Selatan,22000000000,4.0,3.0,410,550,no,no,yes,no,no
+Cempaka Putih,Jakarta Pusat,1800000000,4.0,3.0,80,111,no,no,yes,no,no
+Kebayoran Lama,Jakarta Selatan,4900000000,4.0,4.0,257,300,no,no,yes,no,no
+Kemang,Jakarta Selatan,20000000000,4.0,4.0,887,900,yes,no,no,yes,no
+Muara Karang,Jakarta Utara,5500000000,3.0,3.0,140,250,no,no,yes,no,no
+Muara Karang,Jakarta Utara,5500000000,3.0,3.0,140,250,no,no,yes,no,no
+Duri Kepa,Jakarta Barat,2550000000,4.0,3.0,91,135,no,no,no,no,yes
+Kemang,Jakarta Selatan,29000000000,4.0,4.0,600,596,no,no,yes,no,no
+Pondok Indah,Jakarta Selatan,45000000000,4.0,4.0,768,850,yes,no,no,yes,no
+Pondok Indah,Jakarta Selatan,55000000000,6.0,6.0,759,1115,no,no,yes,no,no
+Pondok Indah,Jakarta Selatan,55000000000,6.0,6.0,759,1115,no,no,yes,no,no
+Pondok Indah,Jakarta Selatan,46000000000,8.0,6.0,1531,1250,no,no,yes,yes,no
+Rawamangun,Jakarta Timur,9000000000,6.0,4.0,500,400,no,no,no,no,no
+Jagakarsa,Jakarta Selatan,2120000000,3.0,3.0,94,135,no,no,yes,no,no
+Pantai Indah Kapuk,Jakarta Utara,14500000000,4.0,3.0,320,500,no,no,no,no,no
+Duri Kepa,Jakarta Barat,4500000000,3.0,4.0,176,436,yes,no,no,no,no
+Kelapa Gading,Jakarta Utara,2350000000,6.0,2.0,105,110,no,yes,no,no,no
+Duren Sawit,Jakarta Timur,1800000000,3.0,2.0,171,91,no,yes,no,no,no
+Tebet,Jakarta Selatan,7900000000,3.0,2.0,589,1000,no,no,no,no,no
+Green Lake City,Jakarta Barat,4600000000,4.0,3.0,180,211,no,no,yes,no,no
+Green Lake City,Jakarta Barat,4600000000,4.0,3.0,180,211,no,no,yes,no,no
+Citra Grand,Jakarta Timur,10500000000,5.0,4.0,609,551,yes,no,no,no,no
+SCBD,Jakarta Selatan,24000000000,4.0,3.0,403,300,no,yes,yes,no,no
+Jagakarsa,Jakarta Selatan,5100000000,5.0,4.0,156,400,no,no,yes,no,no
+Kebayoran Baru,Jakarta Selatan,28000000000,5.0,2.0,468,245,yes,no,no,no,no
+Pasar Minggu,Jakarta Selatan,2500000000,2.0,2.0,185,185,no,no,no,no,no
+Kemang,Jakarta Selatan,4700000000,3.0,3.0,368,160,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,5000000000,4.0,4.0,150,175,no,no,yes,no,no
+Pluit,Jakarta Utara,25000000000,4.0,5.0,525,800,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,15500000000,5.0,5.0,355,700,yes,no,yes,no,no
+Jagakarsa,Jakarta Selatan,1900000000,5.0,4.0,100,300,no,no,yes,no,no
+Kebayoran Baru,Jakarta Selatan,14900000000,4.0,4.0,242,312,yes,no,no,no,no
+Permata Hijau,Jakarta Selatan,27500000000,4.0,4.0,716,450,yes,no,no,yes,no
+Kebayoran Baru,Jakarta Selatan,14500000000,3.0,3.0,210,300,yes,no,no,no,no
+Kemang,Jakarta Selatan,60000000000,4.0,4.0,4040,1130,yes,no,no,yes,no
+Kebayoran Baru,Jakarta Selatan,22000000000,4.0,4.0,525,450,no,no,no,no,no
+Cilandak,Jakarta Selatan,16000000000,7.0,7.0,1050,1000,no,no,no,no,no
+Petukangan,Jakarta Selatan,685000000,3.0,2.0,32,40,no,no,no,no,no
+Petukangan,Jakarta Selatan,685000000,3.0,2.0,32,40,no,no,no,no,no
+Cempaka Putih,Jakarta Pusat,1130000000,2.0,2.0,32,62,yes,no,no,no,no
+Ragunan,Jakarta Selatan,22000000000,5.0,5.0,1050,750,no,no,no,no,yes
+Pantai Indah Kapuk,Jakarta Utara,7000000000,4.0,4.0,180,380,no,no,yes,yes,no
+Kelapa Gading,Jakarta Utara,3300000000,3.0,3.0,108,180,no,no,no,no,no
+Kemayoran,Jakarta Pusat,990000000,4.0,3.0,133,150,no,no,no,no,no
+Green Lake City,Jakarta Barat,2120000000,3.0,2.0,90,100,yes,no,yes,no,no
+Petukangan,Jakarta Selatan,685000000,2.0,2.0,32,40,yes,no,no,no,no
+Sunter,Jakarta Utara,9500000000,4.0,4.0,392,700,yes,no,no,no,no
+Kemang,Jakarta Selatan,39500000000,6.0,6.0,823,800,yes,yes,no,yes,no
+Kelapa Gading,Jakarta Utara,12000000000,7.0,6.0,300,725,no,no,no,no,no
+Matraman,Jakarta Timur,1030000000,3.0,3.0,30,88,no,no,no,no,yes
+Intercon,Jakarta Barat,7350000000,5.0,4.0,300,400,no,no,yes,no,no
+Kelapa Gading,Jakarta Utara,6900000000,4.0,3.0,200,450,no,no,yes,no,no
+Cilandak,Jakarta Selatan,5100000000,4.0,4.0,303,350,no,no,yes,no,no
+Meruya,Jakarta Barat,2650000000,3.0,3.0,125,150,yes,no,no,no,yes
+Permata Hijau,Jakarta Selatan,49000000000,3.0,2.0,1102,708,no,no,no,no,no
+Mangga Besar,Jakarta Barat,2000000000,11.0,2.0,156,120,no,no,no,no,no
+Tomang,Jakarta Barat,8700000000,7.0,4.0,231,400,no,no,yes,no,no
+Panglima Polim,Jakarta Selatan,32000000000,5.0,4.0,467,385,yes,no,no,no,no
+Tomang,Jakarta Barat,8700000000,6.0,3.0,231,400,no,no,yes,no,no
+Pondok Indah,Jakarta Selatan,34000000000,6.0,5.0,1285,800,no,no,no,no,no
+Daan Mogot,Jakarta Barat,2650000000,3.0,3.0,105,140,no,no,no,yes,no
+Kembangan,Jakarta Barat,13500000000,5.0,3.0,450,415,yes,no,yes,no,no
+Citra Garden,Jakarta Barat,2700000000,5.0,2.0,220,150,no,no,no,no,no
+Citra Garden,Jakarta Barat,3000000000,2.0,2.0,100,128,no,no,no,no,no
+Cilandak,Jakarta Selatan,12500000000,4.0,6.0,800,650,no,no,yes,no,no
+Petukangan,Jakarta Selatan,20000000000,4.0,5.0,1669,600,no,no,no,no,no
+Pondok Indah,Jakarta Selatan,22000000000,4.0,4.0,410,550,yes,no,yes,no,no
+Tomang,Jakarta Barat,8500000000,3.0,2.0,287,287,no,no,no,no,no
+Johar Baru,Jakarta Pusat,4000000000,3.0,2.0,220,400,no,no,yes,no,no
+Jelambar,Jakarta Barat,5900000000,6.0,6.0,114,338,no,no,no,no,no
+Pondok Indah,Jakarta Selatan,19000000000,4.0,4.0,400,500,no,no,yes,no,no
+Menteng Atas,Jakarta Pusat,41000000000,4.0,4.0,586,300,yes,no,no,no,no
+Kebayoran Baru,Jakarta Selatan,14900000000,4.0,3.0,242,312,yes,no,no,no,no
+Kalideres,Jakarta Barat,5850000000,5.0,4.0,232,310,no,no,yes,no,no
+Pondok Bambu,Jakarta Timur,7000000000,7.0,4.0,300,692,no,no,yes,no,no
+Kebon Jeruk,Jakarta Barat,4500000000,2.0,4.0,176,450,no,no,yes,no,no
+Tanjung Priok,Jakarta Utara,5000000000,2.0,2.0,274,324,no,no,yes,no,no
+Mangga Besar,Jakarta Barat,1200000000,8.0,5.0,66,253,no,no,yes,no,no
+Kebayoran Baru,Jakarta Selatan,37000000000,4.0,4.0,429,700,yes,no,yes,no,no
+Kebayoran Baru,Jakarta Selatan,18500000000,3.0,2.0,260,650,no,no,no,no,no
+Kelapa Gading,Jakarta Utara,2500000000,4.0,4.0,105,250,yes,no,no,no,no
+Pancoran,Jakarta Selatan,10000000000,5.0,4.0,825,600,no,no,no,no,no
+Mega Kuningan,Jakarta Selatan,53000000000,10.0,7.0,1039,1500,no,no,no,no,no
+Tebet,Jakarta Selatan,10300000000,6.0,5.0,457,600,no,no,no,no,no
+Intercon,Jakarta Barat,8000000000,4.0,3.0,360,360,no,no,yes,no,no
+Jembatan Tiga,Jakarta Utara,500000000,2.0,2.0,36,36,no,no,no,no,no
+Jembatan Tiga,Jakarta Utara,500000000,2.0,2.0,42,42,no,no,no,no,no
+Pantai Indah Kapuk,Jakarta Utara,27500000000,4.0,2.0,550,800,no,no,no,no,no
+Cilandak,Jakarta Selatan,6300000000,4.0,5.0,260,520,yes,no,no,no,no
+Kemang,Bogor,1950000000,3.0,3.0,374,75,no,no,yes,no,no
+Gunung Putri,Bogor,1980000000,4.0,3.0,136,105,yes,no,no,no,no
+Gunung Putri,Bogor,720000000,2.0,1.0,72,50,no,no,yes,no,no
+Bojong Gede,Bogor,1500000000,4.0,2.0,140,200,no,no,no,no,no
+Tanah Sareal,Bogor,620000000,2.0,1.0,82,40,no,no,no,no,no
+Kota Wisata,Bogor,1140000000,2.0,2.0,114,71,no,no,yes,no,no
+Cileungsi,Bogor,1340000000,3.0,2.0,105,69,no,no,yes,no,no
+Cibinong,Bogor,910000000,2.0,1.0,90,66,yes,no,no,no,no
+Cibinong,Bogor,1290000000,2.0,1.0,90,45,yes,no,no,no,no
+Cileungsi,Bogor,2470000000,3.0,1.0,128,160,yes,no,no,no,no
+Cileungsi,Bogor,650000000,2.0,2.0,96,50,yes,no,no,no,no
+Gunung Putri,Bogor,3120000000,3.0,2.0,261,150,yes,no,no,no,no
+Cibinong,Bogor,1190000000,3.0,2.0,98,144,yes,no,no,no,no
+Sentul City,Bogor,950000000,3.0,2.0,90,150,yes,no,no,no,no
+Gunung Sindur,Bogor,550000000,2.0,1.0,72,45,yes,no,no,no,no
+Gunung Sindur,Bogor,1720000000,2.0,1.0,60,56,no,no,no,no,no
+Kota Wisata,Bogor,1820000000,3.0,2.0,128,110,yes,no,no,no,no
+Kota Wisata,Bogor,1070000000,2.0,1.0,105,70,yes,no,no,no,no
+Parung Panjang,Bogor,540000000,2.0,1.0,70,39,yes,no,no,no,no
+Tanah Sareal,Bogor,909000000,3.0,2.0,72,100,yes,no,no,no,no
+Tanah Sareal,Bogor,730000000,2.0,1.0,100,63,yes,no,no,no,no
+Sentul City,Bogor,2950000000,3.0,3.0,400,125,no,no,yes,no,no
+Cibinong,Bogor,1080000000,3.0,2.0,84,84,no,no,yes,no,no
+Tanah Sareal,Bogor,1980000000,6.0,3.0,120,155,no,yes,yes,no,no
+Gunung Putri,Bogor,1700000000,3.0,3.0,120,120,yes,no,no,no,no
+Gunung Putri,Bogor,940000000,3.0,4.0,108,140,yes,no,no,no,no
+Gunung Putri,Bogor,1940000000,5.0,5.0,143,250,no,no,no,no,no
+Gunung Putri,Bogor,1350000000,3.0,2.0,90,110,no,no,no,no,no
+Cibinong,Bogor,430000000,2.0,2.0,72,60,yes,no,no,no,no
+Sentul City,Bogor,4500000000,4.0,5.0,303,350,yes,no,no,yes,no
+Parung Panjang,Bogor,540000000,2.0,1.0,70,39,yes,no,no,no,no
+Gunung Sindur,Bogor,550000000,2.0,1.0,72,45,no,no,no,no,no
+Tanah Sareal,Bogor,1500000000,4.0,3.0,150,167,yes,no,no,no,no
+Ciomas,Bogor,540000000,2.0,1.0,72,42,no,no,yes,no,no
+Gadog,Bogor,10000000000,8.0,6.0,2616,900,yes,no,no,no,no
+Sentul City,Bogor,12500000000,5.0,7.0,1610,500,no,no,yes,yes,no
+Rancamaya,Bogor,4900000000,4.0,4.0,542,179,yes,no,no,no,no
+Bogor Selatan,Bogor,5000000000,4.0,4.0,216,307,yes,no,no,no,no
+Gunung Sindur,Bogor,1130000000,3.0,2.0,120,55,yes,no,no,no,no
+Bogor Barat,Bogor,2470000000,2.0,1.0,225,61,no,yes,yes,no,no
+Cibinong,Bogor,1400000000,3.0,3.0,160,200,no,yes,yes,no,no
+Bogor Nirwana Residence,Bogor,7000000000,4.0,4.0,544,349,no,no,no,yes,no
+Cibubur,Bogor,1250000000,3.0,2.0,105,150,no,no,yes,no,no
+Tanah Sareal,Bogor,1020000000,3.0,1.0,78,94,yes,no,no,no,no
+Curug,Bogor,1440000000,4.0,3.0,126,180,no,no,no,no,no
+Bogor Barat,Bogor,1850000000,3.0,3.0,144,190,yes,no,yes,no,no
+Cibinong,Bogor,515000000,2.0,1.0,72,63,yes,no,no,no,no
+Bojong Gede,Bogor,1100000000,3.0,1.0,119,90,no,no,yes,no,no
+Gunung Sindur,Bogor,1650000000,2.0,2.0,60,65,no,yes,yes,no,no
+Rancamaya,Bogor,1290000000,2.0,2.0,76,53,no,no,no,no,no
+Cibubur,Bogor,1980000000,4.0,3.0,136,105,yes,no,no,no,no
+Pajajaran,Bogor,8000000000,3.0,2.0,813,211,yes,no,yes,no,no
+Cibinong,Bogor,954000000,2.0,3.0,78,60,yes,no,no,no,no
+Sukaraja,Bogor,1500000000,2.0,2.0,103,55,no,no,yes,no,no
+Sentul City,Bogor,730000000,2.0,1.0,72,50,yes,no,no,no,no
+Sentul City,Bogor,1160000000,3.0,2.0,151,81,yes,no,no,no,no
+Tajur Halang,Bogor,590000000,2.0,1.0,84,36,yes,no,no,no,no
+Cibinong,Bogor,1060000000,4.0,2.0,90,120,yes,no,no,no,no
+Gunung Putri,Bogor,450000000,3.0,3.0,80,80,no,no,no,no,no
+Sukaraja,Bogor,1500000000,2.0,2.0,103,55,no,no,yes,no,no
+Gunung Sindur,Bogor,1650000000,2.0,2.0,60,65,no,yes,yes,no,no
+Tanah Sareal,Bogor,1320000000,3.0,2.0,119,64,no,yes,yes,no,no
+Rancamaya,Bogor,1140000000,5.0,3.0,108,135,no,no,yes,no,no
+Cibinong,Bogor,948000000,2.0,1.0,79,45,no,no,yes,no,no
+Bogor Barat,Bogor,890000000,2.0,1.0,84,51,yes,no,no,no,no
+Cibinong,Bogor,1450000000,3.0,3.0,70,85,yes,no,no,no,no
+Tanah Sareal,Bogor,1450000000,3.0,3.0,70,85,yes,no,no,no,no
+Puncak,Bogor,1450000000,3.0,3.0,70,85,yes,no,no,no,no
+Bogor Selatan,Bogor,1450000000,3.0,3.0,70,85,yes,no,no,no,no
+Tanah Sareal,Bogor,780000000,2.0,1.0,127,65,yes,no,no,no,no
+Cibinong,Bogor,610000000,2.0,1.0,72,41,yes,yes,no,no,no
+Rancamaya,Bogor,1290000000,4.0,3.0,100,97,no,no,no,no,no
+Kota Wisata,Bogor,590000000,2.0,1.0,72,43,no,no,no,no,no
+Kota Wisata,Bogor,1340000000,3.0,2.0,105,69,no,no,no,no,no
+Gunung Sindur,Bogor,910000000,2.0,1.0,60,36,no,no,no,no,no
+Gunung Sindur,Bogor,1400000000,2.0,2.0,50,60,no,no,no,no,no
+Bogor Nirwana Residence,Bogor,1450000000,3.0,3.0,70,85,yes,no,no,no,no
+Bogor Barat,Bogor,1450000000,3.0,3.0,70,85,yes,no,no,no,no
+Gunung Putri,Bogor,540000000,2.0,1.0,66,66,no,no,no,no,no
+Gunung Putri,Bogor,2680000000,3.0,4.0,200,198,no,no,no,no,no
+Cileungsi,Bogor,610000000,2.0,1.0,70,45,yes,no,no,no,no
+Cileungsi,Bogor,960000000,2.0,1.0,88,88,yes,no,no,no,no
+Cibinong,Bogor,810000000,2.0,1.0,172,65,yes,no,no,no,no
+Cibinong,Bogor,1340000000,2.0,1.0,217,48,yes,no,no,no,no
+Sukaraja,Bogor,2100000000,2.0,1.0,112,98,no,no,no,no,no
+Sentul City,Bogor,4800000000,4.0,4.0,478,400,no,no,no,yes,no
+Cileungsi,Bogor,375000000,2.0,1.0,72,68,no,no,no,no,no
+Cileungsi,Bogor,590000000,2.0,1.0,72,43,no,no,yes,no,no
+Cileungsi,Bogor,580000000,2.0,1.0,84,32,no,no,no,yes,no
+Kota Wisata,Bogor,2090000000,3.0,2.0,128,107,no,no,yes,no,no
+Cibinong,Bogor,1830000000,3.0,2.0,91,84,yes,no,no,no,no
+Cibinong,Bogor,810000000,2.0,1.0,105,45,yes,no,no,no,no
+Cibinong,Bogor,750000000,2.0,1.0,84,60,no,no,no,no,no
+Balumbang Jaya,Bogor,820000000,3.0,2.0,105,66,yes,no,no,no,no
+Cileungsi,Bogor,1250000000,2.0,1.0,90,54,no,no,yes,no,no
+Gunung Putri,Bogor,2040000000,5.0,3.0,150,150,no,no,yes,no,no
+Cibinong,Bogor,710000000,2.0,1.0,65,55,no,yes,yes,no,no
+Cibinong,Bogor,610000000,2.0,1.0,72,41,no,yes,yes,no,no
+Babakan Madang,Bogor,3210000000,3.0,4.0,333,172,yes,no,no,no,no
+Cileungsi,Bogor,1900000000,3.0,4.0,128,105,no,no,yes,no,no
+Sentul City,Bogor,1050000000,3.0,2.0,84,89,yes,no,yes,no,no
+Cibinong,Bogor,1400000000,2.0,1.0,210,90,yes,no,no,no,no
+Bojong Gede,Bogor,970000000,4.0,2.0,60,120,yes,no,no,no,no
+Tanah Sareal,Bogor,535000000,2.0,1.0,84,38,yes,no,no,no,no
+Tanah Sareal,Bogor,1710000000,4.0,2.0,166,104,yes,no,no,no,no
+Tanah Sareal,Bogor,535000000,2.0,1.0,87,45,yes,no,no,no,no
+Cimahpar,Bogor,600000000,2.0,1.0,120,54,yes,no,yes,no,no
+Cileungsi,Bogor,720000000,2.0,1.0,72,50,no,no,no,no,no
+Cileungsi,Bogor,3120000000,3.0,2.0,261,150,yes,no,no,no,no
+Cileungsi,Bogor,1020000000,2.0,2.0,105,90,no,no,no,no,no
+Cibinong,Bogor,1180000000,3.0,2.0,144,144,yes,no,no,no,no
+Cibinong,Bogor,650000000,3.0,2.0,72,90,yes,no,no,no,no
+Cibinong,Bogor,910000000,3.0,2.0,100,100,no,no,no,no,no
+Tanah Sareal,Bogor,730000000,2.0,2.0,65,115,yes,no,no,no,no
+Gunung Putri,Bogor,1680000000,3.0,2.0,136,75,yes,no,no,no,no
+Cibinong,Bogor,1400000000,3.0,3.0,160,200,no,yes,yes,no,no
+Tanah Sareal,Bogor,890000000,2.0,1.0,90,45,yes,yes,no,no,no
+Cibubur,Bogor,650000000,2.0,1.0,60,34,no,no,yes,no,no
+Cibinong,Bogor,510000000,2.0,1.0,60,60,no,no,no,no,no
+Tanah Sareal,Bogor,500000000,2.0,1.0,72,39,no,yes,yes,no,no
+Gunung Sindur,Bogor,1070000000,3.0,2.0,81,51,no,no,no,no,no
+Rancamaya,Bogor,1140000000,2.0,1.0,105,52,no,yes,yes,no,no
+Kota Wisata,Bogor,1880000000,4.0,3.0,120,200,no,no,yes,no,no
+Cibinong,Bogor,780000000,3.0,2.0,90,200,no,yes,yes,no,no
+Gunung Putri,Bogor,1930000000,3.0,3.0,160,108,yes,no,no,no,no
+Cibinong,Bogor,500000000,2.0,1.0,60,21,no,no,no,no,no
+Sentul City,Bogor,1400000000,3.0,2.0,96,102,yes,no,no,no,no
+Sentul City,Bogor,1400000000,3.0,3.0,168,214,yes,no,no,no,no
+Parung Panjang,Bogor,540000000,2.0,1.0,72,36,yes,no,no,no,no
+Kota Wisata,Bogor,1250000000,2.0,1.0,90,54,no,no,no,no,no
+Kota Wisata,Bogor,2090000000,2.0,2.0,128,107,no,no,no,no,no
+Kedungwaringin,Bogor,1500000000,5.0,2.0,104,180,yes,no,yes,no,no
+Curug,Bogor,1720000000,5.0,3.0,165,100,no,no,yes,no,no
+Gunung Sindur,Bogor,590000000,2.0,1.0,66,36,yes,no,no,no,no
+Gunung Sindur,Bogor,940000000,2.0,2.0,65,85,yes,no,no,no,no
+Jonggol,Bogor,325000000,1.0,1.0,114,37,no,no,yes,no,no
+Tanah Baru,Bogor,1700000000,5.0,3.0,114,100,no,no,yes,no,no
+Tanah Sareal,Bogor,750000000,2.0,1.0,104,36,no,no,yes,no,no
+Cibinong,Bogor,2500000000,20.0,20.0,600,600,no,no,yes,no,no
+Bondongan,Bogor,2000000000,2.0,1.0,100,80,no,no,yes,no,no
+Cimanggis,Depok,2680000000,4.0,4.0,132,120,yes,no,no,no,no
+Cinere,Depok,1040000000,2.0,1.0,95,100,no,no,no,no,no
+Cinere,Depok,1720000000,3.0,2.0,128,70,no,no,no,no,no
+Cipayung,Depok,830000000,2.0,1.0,45,78,no,no,no,no,no
+Cipayung,Depok,1180000000,3.0,3.0,76,70,no,no,no,no,no
+Cinere,Depok,5200000000,4.0,4.0,300,400,no,no,no,no,no
+Cinere,Depok,3200000000,4.0,4.0,180,230,no,no,no,no,no
+Limo,Depok,970000000,2.0,1.0,83,83,yes,no,no,no,no
+Limo,Depok,1720000000,3.0,2.0,76,130,yes,no,no,no,no
+Pancoran Mas,Depok,1320000000,3.0,2.0,72,90,no,no,no,no,no
+Pancoran Mas,Depok,1590000000,3.0,3.0,106,150,no,no,no,no,no
+Sawangan,Depok,1290000000,3.0,3.0,160,150,yes,no,no,no,no
+Sukmajaya,Depok,1070000000,4.0,3.0,75,90,no,no,no,no,no
+Sukmajaya,Depok,1560000000,4.0,3.0,135,115,yes,no,no,no,no
+Limo,Depok,1660000000,3.0,2.0,105,89,no,yes,yes,no,no
+Sawangan,Depok,1180000000,4.0,3.0,105,140,yes,yes,no,no,no
+Depok II,Depok,1400000000,2.0,2.0,234,60,yes,no,no,no,no
+Cimanggis,Depok,730000000,2.0,1.0,40,60,yes,no,yes,no,no
+Cilodong,Depok,1040000000,2.0,1.0,98,45,no,no,yes,no,no
+Cimanggis,Depok,1620000000,4.0,2.0,105,130,yes,no,no,no,no
+Sawangan,Depok,560000000,2.0,1.0,85,50,no,no,yes,no,no
+Cilodong,Depok,1180000000,4.0,2.0,72,144,yes,no,no,no,no
+Cilodong,Depok,1580000000,3.0,2.0,105,150,yes,no,no,no,no
+Sawangan,Depok,1200000000,3.0,2.0,480,64,no,no,yes,no,no
+Cilodong,Depok,750000000,2.0,1.0,84,60,yes,no,no,no,no
+Cinere,Depok,1830000000,2.0,2.0,113,150,no,no,no,no,no
+Cinere,Depok,2090000000,2.0,2.0,120,83,yes,no,no,no,no
+Cinere,Depok,1660000000,3.0,2.0,105,89,yes,no,no,no,no
+Cinere,Depok,2630000000,4.0,3.0,160,170,no,no,no,no,no
+Cinere,Depok,1640000000,3.0,2.0,60,73,yes,no,no,no,no
+Cinere,Depok,950000000,3.0,3.0,78,120,yes,no,no,no,no
+Sawangan,Depok,2000000000,3.0,3.0,112,136,yes,no,no,no,no
+Pancoran Mas,Depok,1190000000,4.0,3.0,85,120,no,no,no,no,no
+Beji,Depok,1100000000,3.0,2.0,60,90,yes,no,yes,no,no
+Pancoran Mas,Depok,960000000,3.0,3.0,76,120,no,no,no,no,no
+Cinere,Depok,2500000000,4.0,2.0,237,190,no,yes,yes,no,no
+Sawangan,Depok,1340000000,3.0,3.0,164,104,no,no,yes,no,no
+Cimanggis,Depok,1260000000,3.0,3.0,93,123,yes,no,no,no,no
+Bojong Sari,Depok,1220000000,3.0,2.0,72,90,yes,no,no,no,no
+Sawangan,Depok,1190000000,3.0,3.0,72,140,no,no,no,no,no
+Citayam,Depok,490000000,2.0,1.0,62,40,yes,no,no,no,no
+Sawangan,Depok,210000000,3.0,1.0,60,30,no,no,yes,no,no
+Bojong Sari,Depok,600000000,2.0,1.0,82,39,yes,no,no,no,no
+Cilodong,Depok,581000000,2.0,2.0,43,42,yes,no,no,no,no
+Cinere,Depok,3390000000,6.0,5.0,480,360,no,no,yes,no,no
+Cilodong,Depok,765000000,3.0,2.0,72,66,yes,no,yes,no,no
+Cinere,Depok,1700000000,3.0,3.0,72,128,no,no,yes,no,no
+Sukmajaya,Depok,1340000000,2.0,1.0,120,100,yes,no,no,no,no
+Sawangan,Depok,1640000000,3.0,2.0,84,95,yes,no,no,no,no
+Sawangan,Depok,1610000000,3.0,2.0,105,80,yes,no,no,no,no
+Beji,Depok,3550000000,18.0,18.0,126,313,yes,no,no,no,no
+Pancoran Mas,Depok,1500000000,5.0,3.0,135,150,yes,no,no,no,no
+Pancoran Mas,Depok,2890000000,5.0,3.0,123,170,yes,no,no,no,no
+Limo,Depok,700000000,3.0,2.0,96,80,no,no,no,no,no
+Limo,Depok,1820000000,6.0,5.0,150,180,no,no,no,no,no
+Citayam,Depok,730000000,2.0,1.0,93,45,no,no,no,no,no
+Citayam,Depok,1400000000,3.0,3.0,160,190,no,no,no,no,no
+Cinere,Depok,1610000000,3.0,2.0,112,70,no,no,no,no,no
+Cimanggis,Depok,1610000000,3.0,2.0,131,160,yes,no,no,no,no
+Cimanggis,Depok,1340000000,2.0,1.0,103,60,yes,no,no,no,no
+Cilodong,Depok,700000000,2.0,1.0,78,36,no,no,no,no,no
+Cilodong,Depok,1820000000,4.0,2.0,124,39,no,no,no,no,no
+Beji,Depok,2290000000,10.0,10.0,82,210,yes,no,yes,no,no
+Beji,Depok,1820000000,3.0,2.0,72,144,yes,no,no,no,no
+Beji,Depok,730000000,2.0,1.0,93,45,yes,no,no,no,no
+Sawangan,Depok,414000000,2.0,1.0,82,40,no,no,yes,no,no
+Cilodong,Depok,780000000,3.0,2.0,60,60,no,no,no,no,no
+Sawangan,Depok,500000000,2.0,1.0,81,45,yes,no,no,no,no
+Tapos,Depok,1290000000,3.0,2.0,105,80,no,no,yes,no,no
+Bojong Sari,Depok,1290000000,3.0,2.0,105,120,no,no,no,no,no
+Cilodong,Depok,780000000,2.0,1.0,91,60,no,no,no,no,no
+Cilodong,Depok,990000000,3.0,2.0,72,90,yes,no,no,no,no
+Cilodong,Depok,1490000000,4.0,3.0,90,100,no,no,no,no,no
+Sukmajaya,Depok,1780000000,3.0,3.0,106,150,no,no,yes,no,no
+Beji,Depok,1050000000,2.0,1.0,90,50,no,no,yes,no,no
+Beji,Depok,2290000000,10.0,10.0,82,210,yes,no,no,no,no
+Cimanggis,Depok,2140000000,2.0,1.0,337,70,yes,no,no,no,no
+Cimanggis,Depok,1290000000,3.0,2.0,185,100,no,no,no,no,no
+Cilodong,Depok,1340000000,4.0,3.0,90,100,yes,no,no,no,no
+Cilodong,Depok,920000000,2.0,2.0,84,70,yes,no,no,no,no
+Citayam,Depok,649000000,3.0,2.0,60,120,no,no,yes,no,no
+Margonda,Depok,2610000000,3.0,4.0,194,120,yes,no,yes,no,no
+Cimanggis,Depok,1130000000,3.0,3.0,93,123,yes,no,yes,no,no
+Margonda,Depok,590000000,2.0,1.0,86,60,yes,no,no,no,no
+Sawangan,Depok,1070000000,2.0,3.0,133,100,yes,no,no,no,no
+Sawangan,Depok,1290000000,2.0,2.0,78,60,yes,no,no,no,no
+Sawangan,Depok,650000000,2.0,1.0,84,69,no,no,no,no,no
+Beji,Depok,830000000,2.0,1.0,78,45,yes,no,no,no,no
+Beji,Depok,1040000000,2.0,1.0,95,100,yes,no,no,no,no
+Beji,Depok,1180000000,3.0,3.0,76,70,yes,no,no,no,no
+Margonda,Depok,2040000000,3.0,3.0,150,115,yes,no,no,no,no
+Margonda,Depok,1140000000,4.0,2.0,90,168,yes,no,no,no,no
+Sukmajaya,Depok,3110000000,4.0,3.0,160,156,no,no,no,no,no
+Sukmajaya,Depok,2360000000,3.0,3.0,128,160,no,no,no,no,no
+Pancoran Mas,Depok,590000000,2.0,1.0,45,72,yes,no,no,no,no
+Sawangan,Depok,2680000000,4.0,3.0,340,200,yes,no,no,no,no
+Cilodong,Depok,610000000,2.0,1.0,72,41,yes,no,no,no,no
+Beji,Depok,4020000000,3.0,2.0,123,180,yes,no,no,no,no
+Pancoran Mas,Depok,2790000000,5.0,4.0,171,200,no,no,yes,no,no
+Beji,Depok,2600000000,12.0,4.0,312,420,no,no,no,no,no
+Cinere,Depok,2350000000,5.0,4.0,240,170,no,no,yes,no,no
+Cinere,Depok,4000000000,6.0,6.0,700,252,no,no,yes,no,no
+Limo,Depok,590000000,2.0,1.0,75,50,yes,no,no,no,no
+Limo,Depok,650000000,2.0,10.0,75,45,yes,no,no,no,no
+Cinere,Depok,700000000,3.0,2.0,96,80,no,no,no,no,no
+Sawangan,Depok,2470000000,3.0,1.0,128,144,yes,no,no,no,no
+Sawangan,Depok,860000000,2.0,1.0,84,69,no,no,no,no,no
+Cinere,Depok,1720000000,2.0,3.0,90,140,yes,no,no,no,no
+Cinere,Depok,1920000000,3.0,3.0,117,120,yes,no,no,no,no
+Sawangan,Depok,650000000,3.0,1.0,115,81,no,no,yes,no,no
+Sukmajaya,Depok,1400000000,3.0,2.0,180,90,no,no,no,no,no
+Sukmajaya,Depok,1290000000,2.0,1.0,107,45,no,no,no,no,no
+Cimanggis,Depok,1500000000,3.0,3.0,102,107,no,no,no,no,no
+Sukmajaya,Depok,2560000000,3.0,3.0,135,91,no,no,no,no,no
+Sukmajaya,Depok,1290000000,3.0,2.0,100,185,no,no,no,no,no
+Pancoran Mas,Depok,1290000000,3.0,2.0,105,120,yes,no,no,no,no
+Pancoran Mas,Depok,660000000,2.0,1.0,82,50,no,no,no,no,no
+Pancoran Mas,Depok,810000000,4.0,2.0,86,86,yes,no,no,no,no
+Citayam,Depok,590000000,2.0,1.0,84,36,yes,no,no,no,no
+Citayam,Depok,1400000000,3.0,2.0,105,55,yes,no,no,no,no
+Citayam,Depok,650000000,2.0,2.0,72,51,yes,no,no,no,no
+Citayam,Depok,535000000,2.0,1.0,68,36,yes,no,no,no,no
+Cimanggis,Depok,1610000000,3.0,4.0,170,120,yes,no,no,no,no
+Cimanggis,Depok,810000000,2.0,2.0,70,80,yes,no,no,no,no
+Cilodong,Depok,810000000,2.0,1.0,172,65,yes,no,no,no,no
+Cilodong,Depok,740000000,2.0,1.0,84,70,yes,no,no,no,no
+Beji,Depok,2950000000,5.0,4.0,135,200,yes,no,no,no,no
+Beji,Depok,540000000,2.0,1.0,75,36,yes,no,no,no,no
+Beji,Depok,1720000000,3.0,2.0,128,70,no,no,no,no,no
+Beji,Depok,1400000000,3.0,3.0,160,190,yes,no,no,no,no
+Beji,Depok,970000000,2.0,2.0,100,95,no,no,no,no,no
+Kelapa Dua,Depok,756000000,3.0,2.0,50,53,yes,yes,no,no,no
+Cimanggis,Depok,729000000,3.0,2.0,67,60,no,yes,yes,no,no
+Cimanggis,Depok,1550000000,3.0,3.0,199,130,no,no,no,no,no
+Sawangan,Depok,1400000000,3.0,2.0,105,55,yes,no,no,no,no
+BSD Foresta,Tangerang,9800000000,4.0,3.0,385,425,no,no,no,no,no
+BSD Delatinos,Tangerang,3800000000,4.0,2.0,200,265,no,no,no,no,no
+Sepatan,Tangerang,500000000,2.0,1.0,95,61,no,no,yes,no,no
+BSD,Tangerang,5700000000,3.0,3.0,190,112,no,no,yes,no,no
+BSD,Tangerang,3600000000,3.0,3.0,220,198,yes,no,yes,no,no
+BSD The Green,Tangerang,3300000000,3.0,3.0,180,180,no,no,no,yes,no
+BSD Virginia Lagoon,Tangerang,3600000000,3.0,3.0,220,198,yes,no,yes,no,no
+Gading Serpong,Tangerang,2300000000,3.0,3.0,128,190,yes,no,no,no,no
+Gading Serpong Pondok Hijau Golf,Tangerang,2400000000,3.0,3.0,128,121,no,no,yes,yes,no
+Alam Sutera,Tangerang,12500000000,5.0,5.0,555,750,yes,no,no,no,no
+Alam Sutera,Tangerang,5800000000,3.0,3.0,240,180,yes,no,no,no,no
+Cikupa,Tangerang,865000000,2.0,1.0,136,84,yes,no,no,no,no
+Cipondoh,Tangerang,780000000,2.0,1.0,55,45,yes,no,no,no,no
+BSD,Tangerang,2100000000,5.0,3.0,203,170,no,no,no,yes,no
+Poris,Tangerang,1050000000,3.0,2.0,48,90,no,no,no,no,no
+Cikupa,Tangerang,1070000000,4.0,3.0,100,120,no,no,yes,no,yes
+BSD,Tangerang,6300000000,5.0,6.0,136,235,no,no,yes,no,no
+Cipondoh,Tangerang,1320000000,5.0,2.0,72,130,yes,no,no,no,no
+Cipondoh,Tangerang,910000000,2.0,1.0,72,48,yes,no,no,no,no
+Alam Sutera,Tangerang,6300000000,4.0,4.0,160,500,yes,yes,no,no,no
+Alam Sutera,Tangerang,5800000000,5.0,4.0,240,200,yes,no,no,no,no
+Alam Sutera,Tangerang,3500000000,4.0,3.0,112,126,yes,no,no,no,no
+Poris,Tangerang,1050000000,3.0,2.0,55,100,no,no,no,no,no
+Karang Tengah,Tangerang,800000000,3.0,2.0,112,90,yes,no,no,no,no
+BSD The Green,Tangerang,8800000000,5.0,4.0,450,400,yes,no,no,no,no
+Cikupa,Tangerang,850000000,2.0,1.0,75,40,no,no,yes,no,no
+Modernland,Tangerang,4700000000,4.0,4.0,360,400,no,no,no,no,no
+Alam Sutera,Tangerang,6600000000,5.0,4.0,240,335,yes,no,no,no,no
+Lippo Karawaci,Tangerang,1880000000,4.0,4.0,108,110,no,no,yes,no,no
+Karawaci,Tangerang,1800000000,3.0,2.0,60,66,no,no,no,no,no
+BSD City,Tangerang,1400000000,2.0,1.0,112,60,no,no,yes,no,no
+Gading Serpong,Tangerang,2190000000,3.0,2.0,80,130,yes,no,no,yes,no
+Lippo Karawaci,Tangerang,960000000,2.0,1.0,90,65,no,no,yes,no,no
+Gading Serpong,Tangerang,1610000000,3.0,2.0,69,89,no,no,yes,no,no
+BSD Avani,Tangerang,2250000000,3.0,2.0,126,115,no,no,yes,no,no
+Gading Serpong,Tangerang,2470000000,6.0,3.0,143,185,no,no,yes,no,no
+Ciledug,Tangerang,700000000,2.0,1.0,68,45,yes,no,no,no,no
+Legok,Tangerang,590000000,2.0,1.0,60,49,yes,no,no,no,no
+Alam Sutera,Tangerang,6300000000,4.0,4.0,160,500,yes,no,no,no,no
+Alam Sutera,Tangerang,14300000000,4.0,5.0,312,398,no,no,yes,no,no
+Alam Sutera,Tangerang,5000000000,4.0,3.0,140,200,no,no,no,no,no
+Alam Sutera,Tangerang,25000000000,8.0,8.0,765,1500,no,yes,yes,no,no
+Alam Sutera,Tangerang,22000000000,6.0,7.0,1110,850,no,yes,yes,no,no
+Alam Sutera,Tangerang,7300000000,4.0,4.0,160,500,yes,no,no,no,no
+Alam Sutera,Tangerang,13800000000,4.0,5.0,480,750,no,no,no,no,no
+Alam Sutera,Tangerang,5800000000,4.0,3.0,240,269,yes,no,no,no,no
+Gading Serpong,Tangerang,810000000,2.0,1.0,72,50,yes,no,no,no,no
+Gading Serpong,Tangerang,740000000,2.0,1.0,72,39,yes,no,no,no,no
+BSD The Green,Tangerang,5500000000,3.0,3.0,200,250,yes,no,no,no,no
+Cisauk,Tangerang,1100000000,3.0,2.0,162,120,no,no,yes,no,no
+BSD City,Tangerang,900000000,2.0,1.0,75,65,yes,no,no,no,no
+BSD City,Tangerang,2030000000,3.0,2.0,77,70,yes,no,no,no,no
+BSD Kencana Loka,Tangerang,2150000000,3.0,2.0,98,135,no,no,yes,no,no
+BSD The Icon,Tangerang,4600000000,4.0,4.0,163,283,yes,no,no,no,no
+BSD Foresta,Tangerang,5900000000,5.0,4.0,264,290,yes,no,no,no,no
+BSD Delatinos,Tangerang,5500000000,4.0,5.0,280,370,no,no,no,no,no
+BSD De Park,Tangerang,8500000000,4.0,4.0,386,345,no,yes,yes,no,no
+BSD Vermont,Tangerang,14500000000,5.0,3.0,475,330,no,no,yes,no,no
+BSD Nusaloka,Tangerang,2100000000,5.0,3.0,203,218,yes,no,no,no,no
+Panongan,Tangerang,1880000000,4.0,4.0,157,260,yes,no,no,no,no
+Cisauk,Tangerang,670000000,2.0,1.0,60,33,no,no,no,no,no
+Kelapa Dua,Tangerang,970000000,4.0,3.0,105,165,yes,no,no,no,no
+Kelapa Dua,Tangerang,1130000000,2.0,2.0,110,100,yes,no,no,no,no
+Lippo Karawaci,Tangerang,800000000,2.0,1.0,72,36,no,no,no,no,no
+Lippo Karawaci,Tangerang,2520000000,2.0,1.0,195,89,no,no,no,no,no
+Karawaci,Tangerang,2040000000,5.0,3.0,120,180,yes,no,no,no,no
+Karawaci,Tangerang,1020000000,2.0,2.0,60,50,no,no,no,no,no
+BSD Kencana Loka,Tangerang,1350000000,2.0,1.0,85,50,yes,yes,no,no,no
+BSD Nusaloka,Tangerang,2800000000,5.0,3.0,120,145,yes,yes,no,no,no
+BSD,Tangerang,380000000,2.0,1.0,60,30,no,no,yes,no,no
+BSD Residence One,Tangerang,1600000000,3.0,2.0,90,96,yes,no,no,no,no
+Alam Sutera,Tangerang,7500000000,4.0,3.0,300,250,yes,no,no,no,no
+Alam Sutera,Tangerang,7000000000,4.0,4.0,264,300,yes,no,no,no,no
+Gading Serpong,Tangerang,5600000000,4.0,3.0,250,230,yes,no,no,no,no
+BSD Foresta,Tangerang,3900000000,3.0,1.0,200,225,no,no,no,no,no
+BSD Eminent,Tangerang,3100000000,3.0,3.0,162,125,no,no,no,no,no
+BSD De Park,Tangerang,11500000000,4.0,4.0,450,310,yes,no,no,no,no
+Modernland,Tangerang,6500000000,6.0,6.0,300,580,no,yes,no,no,no
+Gading Serpong Serenade Lake,Tangerang,9000000000,6.0,5.0,304,450,no,no,no,no,no
+Gading Serpong,Tangerang,2900000000,3.0,2.0,136,160,yes,yes,no,no,no
+BSD,Tangerang,1180000000,3.0,2.0,108,82,yes,no,no,no,no
+BSD,Tangerang,810000000,2.0,1.0,72,36,no,no,yes,no,no
+Gading Serpong Pondok Hijau Golf,Tangerang,5000000000,4.0,4.0,220,440,no,no,no,no,no
+Lippo Karawaci,Tangerang,1060000000,3.0,2.0,119,100,yes,no,no,no,no
+Cipondoh,Tangerang,3650000000,3.0,3.0,150,190,yes,no,no,no,no
+Lippo Karawaci,Tangerang,1680000000,3.0,2.0,76,67,no,no,no,no,no
+BSD,Tangerang,4900000000,4.0,4.0,143,195,yes,no,no,no,yes
+BSD,Tangerang,4800000000,4.0,4.0,135,350,yes,no,no,no,no
+Cisauk,Tangerang,181000000,2.0,1.0,30,66,yes,no,no,no,no
+Alam Sutera,Tangerang,1700000000,3.0,3.0,72,107,no,no,no,no,no
+Cisauk,Tangerang,1320000000,2.0,1.0,122,75,yes,no,no,no,no
+Gading Serpong,Tangerang,5690000000,4.0,3.0,250,230,no,no,yes,no,no
+Gading Serpong,Tangerang,4200000000,4.0,3.0,144,174,yes,no,no,no,no
+Alam Sutera,Tangerang,14300000000,5.0,6.0,312,398,no,no,no,no,no
+Cikupa Citra Raya,Tangerang,700000000,2.0,1.0,90,49,yes,no,no,no,no
+Alam Sutera,Tangerang,3100000000,3.0,2.0,160,112,no,no,yes,no,no
+Alam Sutera,Tangerang,6300000000,4.0,5.0,160,400,no,no,yes,no,no
+Cipondoh,Tangerang,800000000,3.0,2.0,119,80,no,no,yes,no,no
+Alam Sutera,Tangerang,23500000000,5.0,6.0,416,568,no,no,no,no,yes
+Karawaci,Tangerang,987000000,4.0,2.0,72,83,no,no,no,yes,no
+BSD City,Tangerang,31000000000,4.0,3.0,1485,838,yes,no,no,no,no
+Alam Sutera,Tangerang,2500000000,3.0,1.0,160,98,no,no,no,no,no
+BSD Eminent,Tangerang,3300000000,3.0,3.0,160,114,no,no,no,no,no
+BSD Residence One,Tangerang,3200000000,5.0,4.0,208,300,yes,no,yes,no,no
+Alam Sutera,Tangerang,3100000000,5.0,5.0,112,231,no,no,yes,no,no
+Gading Serpong,Tangerang,2900000000,3.0,2.0,136,180,yes,no,no,no,no
+BSD,Tangerang,2850000000,3.0,2.0,135,180,no,no,no,no,no
+BSD City,Tangerang,7490000000,4.0,4.0,180,242,yes,no,no,no,yes
+BSD,Tangerang,4250000000,3.0,3.0,180,200,yes,no,no,no,no
+Gading Serpong,Tangerang,4200000000,3.0,2.0,153,163,yes,no,no,no,no
+Gading Serpong,Tangerang,1700000000,2.0,2.0,72,69,yes,no,yes,no,no
+BSD,Tangerang,5000000000,4.0,3.0,235,186,no,no,yes,no,no
+Gading Serpong,Tangerang,3500000000,3.0,3.0,144,140,no,no,no,no,no
+Gading Serpong,Tangerang,3050000000,3.0,3.0,96,161,yes,no,yes,no,no
+Cikupa Citra Raya,Tangerang,550000000,3.0,2.0,85,65,no,no,no,no,no
+Modernland,Tangerang,8000000000,5.0,6.0,350,500,no,no,no,no,no
+BSD,Tangerang,1220000000,2.0,3.0,72,70,yes,no,no,no,no
+Gading Serpong,Tangerang,1390000000,3.0,2.0,72,72,no,no,yes,no,no
+BSD,Tangerang,2040000000,3.0,3.0,65,77,yes,no,no,no,no
+BSD,Tangerang,750000000,2.0,1.0,72,36,yes,no,no,no,no
+BSD,Tangerang,2390000000,3.0,3.0,162,222,no,no,no,no,no
+BSD,Tangerang,2470000000,4.0,3.0,120,200,yes,no,no,no,no
+BSD,Tangerang,2890000000,3.0,3.0,150,200,yes,no,no,no,no
+Gading Serpong,Tangerang,3100000000,3.0,3.0,96,161,no,no,yes,no,no
+Larangan,Tangerang,720000000,2.0,1.0,60,36,yes,no,no,no,no
+Sindang Jaya,Tangerang,1100000000,2.0,1.0,160,84,no,no,yes,no,no
+Sindang Jaya,Tangerang,1780000000,3.0,2.0,180,135,no,no,yes,no,no
+Cikupa,Tangerang,915000000,4.0,3.0,84,101,yes,no,no,no,no
+BSD,Tangerang,910000000,3.0,2.0,120,90,yes,no,no,no,no
+Alam Sutera,Tangerang,4400000000,3.0,3.0,200,400,no,no,yes,no,no
+Gading Serpong,Tangerang,2800000000,4.0,4.0,195,300,no,no,yes,no,no
+Gading Serpong,Tangerang,4650000000,3.0,3.0,181,300,no,no,yes,no,no
+BSD City,Tangerang,5000000000,5.0,5.0,200,228,no,no,yes,no,no
+BSD City,Tangerang,16500000000,7.0,7.0,708,968,no,no,yes,no,no
+Gading Serpong,Tangerang,15000000000,4.0,6.0,595,500,no,no,yes,no,no
+BSD The Green,Tangerang,4750000000,3.0,4.0,240,300,no,no,yes,no,no
+Gading Serpong,Tangerang,3700000000,3.0,2.0,216,125,no,no,yes,no,no
+Modernland,Tangerang,3250000000,4.0,3.0,180,220,no,no,yes,yes,yes
+Jatibening,Bekasi,1500000000,3.0,2.0,197,150,yes,no,no,no,no
+Jatibening,Bekasi,810000000,2.0,1.0,80,75,yes,no,no,no,no
+Jati Asih,Bekasi,810000000,4.0,2.0,72,96,yes,no,no,no,no
+Jatiwarna,Bekasi,1300000000,3.0,2.0,72,65,yes,no,no,no,no
+Cikarang,Bekasi,767000000,3.0,2.0,96,83,yes,no,no,no,no
+Pondokmelati,Bekasi,1470000000,4.0,2.0,182,193,no,no,yes,no,no
+Bekasi Barat,Bekasi,1200000000,3.0,1.0,103,102,no,no,yes,no,no
+Tambun Selatan,Bekasi,1400000000,4.0,3.0,91,102,no,no,yes,no,no
+Pondok Gede,Bekasi,1200000000,3.0,2.0,72,142,no,no,yes,no,no
+Bekasi Timur,Bekasi,600000000,2.0,1.0,66,50,yes,no,no,no,yes
+Pondokmelati,Bekasi,1820000000,3.0,2.0,105,160,yes,no,no,no,no
+Jati Asih,Bekasi,508000000,2.0,1.0,55,45,yes,no,no,no,no
+Grand Wisata,Bekasi,970000000,3.0,2.0,78,96,yes,no,no,no,no
+Galaxy,Bekasi,810000000,2.0,1.0,120,90,yes,no,no,no,no
+Cikarang,Bekasi,2680000000,4.0,3.0,90,126,yes,no,no,no,no
+Cikarang,Bekasi,1160000000,2.0,2.0,97,75,yes,no,no,no,no
+Bekasi Timur,Bekasi,2550000000,3.0,3.0,145,120,yes,no,no,no,no
+Bekasi Timur,Bekasi,700000000,2.0,1.0,65,65,yes,no,no,no,no
+Bekasi Utara,Bekasi,650000000,2.0,1.0,101,57,no,no,no,no,no
+Bekasi Utara,Bekasi,540000000,2.0,1.0,70,45,no,no,no,no,no
+Mustikajaya,Bekasi,757000000,3.0,2.0,128,95,yes,no,no,no,no
+Mustikajaya,Bekasi,757000000,3.0,2.0,128,95,yes,no,no,no,no
+Jatisampurna,Bekasi,2240000000,2.0,2.0,114,90,yes,no,no,no,no
+Jatisampurna,Bekasi,1230000000,3.0,2.0,90,140,yes,no,no,no,no
+Jatisampurna,Bekasi,2500000000,4.0,3.0,170,90,yes,no,no,no,no
+Jatisampurna,Bekasi,730000000,2.0,2.0,107,107,yes,no,no,no,no
+Padurenan,Bekasi,1100000000,2.0,2.0,60,50,yes,no,no,no,no
+Jati Asih,Bekasi,860000000,3.0,2.0,82,156,no,no,no,no,no
+Bekasi Utara,Bekasi,1160000000,2.0,2.0,97,75,no,no,no,no,no
+Tambun Selatan,Bekasi,525000000,4.0,3.0,120,250,no,no,no,no,no
+Harapan Indah,Bekasi,2600000000,3.0,2.0,88,130,yes,no,no,no,no
+Mustikajaya,Bekasi,700000000,2.0,1.0,97,55,no,no,yes,no,no
+Bekasi Utara,Bekasi,215000000,2.0,2.0,72,60,no,no,yes,no,no
+Pondok Gede,Bekasi,3700000000,4.0,3.0,314,400,no,no,yes,no,no
+Tarumajaya,Bekasi,500000000,2.0,1.0,148,42,no,no,yes,no,no
+Mustikajaya,Bekasi,370000000,4.0,3.0,180,240,no,no,yes,no,no
+Bekasi Timur,Bekasi,560000000,4.0,2.0,300,250,no,no,no,no,no
+Harapan Indah,Bekasi,1550000000,3.0,2.0,74,111,yes,no,yes,no,no
+Grand Wisata,Bekasi,1400000000,2.0,1.0,60,55,no,no,yes,no,no
+Harapan Mulya,Bekasi,680000000,2.0,1.0,90,52,no,yes,no,no,no
+Harapan Indah,Bekasi,5000000000,4.0,2.0,300,350,no,no,no,no,no
+Babelan,Bekasi,230000000,2.0,1.0,60,36,no,no,yes,no,no
+Jaka Mulya,Bekasi,1750000000,5.0,2.0,187,224,yes,no,yes,no,no
+Harapan Indah,Bekasi,1290000000,3.0,2.0,126,100,no,no,no,no,no
+Mustikajaya,Bekasi,940000000,3.0,2.0,72,90,no,no,yes,no,no
+Bekasi Utara,Bekasi,1010000000,3.0,2.0,60,110,yes,no,no,no,no
+Bekasi Utara,Bekasi,710000000,2.0,1.0,60,51,yes,no,no,no,no
+Tambun Utara,Bekasi,571000000,2.0,1.0,70,45,yes,no,no,no,no
+Bekasi Timur,Bekasi,767000000,3.0,2.0,96,83,yes,no,no,no,no
+Bekasi Timur,Bekasi,700000000,3.0,2.0,72,144,yes,no,no,no,no
+Harapan Indah,Bekasi,1250000000,2.0,2.0,108,69,no,no,no,no,no
+Harapan Indah,Bekasi,1500000000,3.0,3.0,90,150,yes,no,no,no,no
+Pekayon,Bekasi,550000000,3.0,1.0,154,100,no,no,no,no,no
+Jatibening,Bekasi,14000000000,6.0,6.0,1800,300,no,yes,no,no,no
+Pondokmelati,Bekasi,1400000000,4.0,2.0,162,100,yes,no,no,no,no
+Jatisampurna,Bekasi,2040000000,2.0,2.0,103,54,yes,no,no,no,no
+Jati Asih,Bekasi,1930000000,3.0,2.0,170,170,yes,no,no,no,no
+Jati Asih,Bekasi,910000000,3.0,2.0,120,72,yes,no,no,no,no
+Jati Asih,Bekasi,860000000,2.0,1.0,91,45,yes,no,no,no,no
+Grand Wisata,Bekasi,810000000,2.0,1.0,38,86,no,no,no,no,no
+Grand Wisata,Bekasi,970000000,3.0,1.0,114,90,no,no,no,no,no
+Grand Wisata,Bekasi,860000000,3.0,2.0,72,120,no,no,no,no,no
+Galaxy,Bekasi,1500000000,4.0,2.0,150,192,yes,no,no,no,no
+Galaxy,Bekasi,1130000000,2.0,1.0,90,80,yes,no,no,no,no
+Galaxy,Bekasi,1070000000,4.0,3.0,100,200,yes,no,no,no,no
+Jatibening,Bekasi,1250000000,3.0,2.0,74,70,yes,no,no,no,no
+Cikarang,Bekasi,2550000000,3.0,3.0,145,120,no,no,no,no,no
+Cikarang,Bekasi,650000000,3.0,2.0,60,120,no,no,no,no,no
+Cikarang,Bekasi,560000000,2.0,1.0,60,42,no,no,no,no,no
+Bekasi Utara,Bekasi,910000000,4.0,2.0,105,78,yes,no,no,no,no
+Bekasi Utara,Bekasi,560000000,2.0,2.0,60,100,yes,no,no,no,no
+Bekasi Utara,Bekasi,860000000,3.0,1.0,108,144,yes,no,no,no,no
+Bekasi Timur,Bekasi,2040000000,3.0,3.0,99,103,yes,no,no,no,no
+Bekasi Timur,Bekasi,1020000000,4.0,3.0,72,150,yes,no,no,no,no
+Bekasi Timur,Bekasi,970000000,3.0,2.0,90,175,yes,no,no,no,no
+Jatibening,Bekasi,2360000000,3.0,2.0,144,183,no,no,no,no,no
+Jatibening,Bekasi,1610000000,2.0,1.0,70,45,no,no,no,no,no
+Jatibening,Bekasi,1610000000,3.0,2.0,72,65,no,no,no,no,no
+Jatibening,Bekasi,1610000000,3.0,3.0,115,115,no,no,no,no,no
+Bekasi Kota,Bekasi,870000000,3.0,2.0,96,83,no,no,yes,no,no
+Harapan Indah,Bekasi,1610000000,5.0,3.0,160,100,no,no,no,no,no
+Harapan Indah,Bekasi,2310000000,3.0,4.0,110,120,no,no,no,no,no
+Harapan Indah,Bekasi,650000000,2.0,1.0,90,60,no,no,no,no,no
+Harapan Indah,Bekasi,1600000000,2.0,2.0,90,53,no,no,no,no,no
+Rawa Panjang,Bekasi,12000000000,6.0,6.0,1782,600,no,no,yes,no,yes
+Mustikajaya,Bekasi,1740000000,6.0,3.0,240,345,no,no,no,no,no
+Jatibening,Bekasi,1500000000,3.0,3.0,206,150,no,no,no,no,no
+Grand Wisata,Bekasi,4700000000,4.0,4.0,240,295,yes,no,no,no,no
+Jati Asih,Bekasi,1150000000,2.0,2.0,100,100,yes,no,no,no,no
+Jati Asih,Bekasi,790000000,2.0,1.0,88,55,no,no,yes,no,no
+Bekasi Timur,Bekasi,855000000,3.0,2.0,235,150,no,no,no,no,no
+Mustikajaya,Bekasi,810000000,3.0,2.0,72,55,no,no,no,no,no
+Bekasi Utara,Bekasi,630000000,2.0,1.0,66,58,no,no,no,no,no
+Bekasi Utara,Bekasi,1700000000,3.0,3.0,90,122,no,no,no,no,no
+Mustikajaya,Bekasi,870000000,3.0,2.0,96,83,no,no,no,no,no
+Bekasi Timur,Bekasi,1180000000,3.0,3.0,84,90,yes,no,no,no,no
+Bekasi Timur,Bekasi,860000000,3.0,1.0,108,144,yes,no,no,no,no
+Bekasi Utara,Bekasi,1050000000,3.0,1.0,78,78,no,no,no,no,no
+Bekasi Utara,Bekasi,750000000,2.0,1.0,84,54,no,no,no,no,no
+Cikarang,Bekasi,802000000,3.0,2.0,108,160,yes,no,no,no,no
+Summarecon Bekasi,Bekasi,2350000000,3.0,2.0,119,100,no,no,no,yes,no
+Karang Satria,Bekasi,1200000000,3.0,3.0,100,90,no,no,no,no,no
+Mustikajaya,Bekasi,870000000,2.0,2.0,60,47,no,no,no,no,no
+Summarecon Bekasi,Bekasi,4500000000,5.0,4.0,180,210,yes,no,no,no,no
+Summarecon Bekasi,Bekasi,4500000000,5.0,4.0,180,210,yes,no,no,no,no
+Galaxy,Bekasi,1930000000,4.0,3.0,144,135,no,no,no,no,no
+Galaxy,Bekasi,2460000000,5.0,2.0,305,200,no,no,no,no,no
+Babelan,Bekasi,350000000,2.0,1.0,60,45,no,no,no,no,no
+Grand Wisata,Bekasi,535000000,2.0,1.0,78,36,yes,no,no,no,no
+Grand Wisata,Bekasi,540000000,2.0,1.0,72,25,yes,no,no,no,no
+Harapan Indah,Bekasi,1130000000,2.0,1.0,90,80,yes,no,no,no,no
+Harapan Indah,Bekasi,2890000000,4.0,3.0,238,180,yes,no,no,no,no
+Jati Asih,Bekasi,2680000000,4.0,2.0,150,250,yes,no,no,no,no
+Jati Asih,Bekasi,860000000,3.0,2.0,82,156,yes,no,no,no,no
+Jatibening,Bekasi,910000000,2.0,1.0,144,60,no,no,no,no,no
+Jatibening,Bekasi,1070000000,5.0,1.0,89,89,yes,no,no,no,no
+Summarecon Bekasi,Bekasi,540000000,2.0,1.0,72,54,no,no,no,no,no
+Summarecon Bekasi,Bekasi,560000000,2.0,2.0,60,100,no,no,no,no,no
+Mustikajaya,Bekasi,940000000,3.0,2.0,72,90,yes,no,no,no,no
+Mustikajaya,Bekasi,1800000000,4.0,2.0,144,100,yes,no,no,no,no
+Harapan Indah,Bekasi,824000000,3.0,1.0,72,48,yes,no,no,no,no
+Jati Asih,Bekasi,508000000,2.0,1.0,65,45,no,no,no,no,no
+Bekasi Timur,Bekasi,470000000,2.0,1.0,65,38,no,no,no,no,no
+Tambun Selatan,Bekasi,900000000,3.0,1.0,375,105,yes,no,no,no,no
+Harapan Indah,Bekasi,1750000000,3.0,3.0,120,160,no,no,no,no,no
+Harapan Indah,Bekasi,1190000000,2.0,2.0,144,53,yes,no,no,no,no
+Jatiwarna,Bekasi,8500000000,4.0,4.0,956,250,no,no,yes,no,no
+Tambun Selatan,Bekasi,350000000,2.0,1.0,78,75,no,no,yes,no,no
+Kranji,Bekasi,1950000000,3.0,2.0,220,180,yes,no,no,no,no
+Harapan Indah,Bekasi,950000000,3.0,2.0,105,85,no,no,no,no,no
+Harapan Indah,Bekasi,1390000000,4.0,3.0,135,150,no,no,no,no,no
+Harapan Indah,Bekasi,1250000000,3.0,3.0,114,69,yes,no,no,no,no
+Rawalumbu,Bekasi,575000000,3.0,1.0,96,90,yes,no,no,no,no
+Summarecon Bekasi,Bekasi,2000000000,2.0,3.0,91,65,yes,no,no,no,no
+Cikarang Utara,Bekasi,500000000,2.0,1.0,60,60,no,no,yes,no,no
+Jati Mekar,Bekasi,1300000000,3.0,3.0,110,110,yes,no,no,no,no
+Bekasi Kota,Bekasi,870000000,3.0,2.0,96,83,yes,no,no,no,no
+Mustikajaya,Bekasi,616000000,2.0,1.0,72,72,no,no,yes,no,no
+Harapan Indah,Bekasi,1750000000,2.0,2.0,149,101,no,no,yes,no,no
+Harapan Indah,Bekasi,1050000000,3.0,2.0,144,75,no,no,no,no,no
+Bekasi Kota,Bekasi,5100000000,3.0,2.0,600,300,no,no,yes,no,no
+Taman Galaxy,Bekasi,1400000000,3.0,3.0,84,120,yes,no,no,no,no
+Summarecon Bekasi,Bekasi,5500000000,5.0,5.0,180,297,yes,no,no,no,no
+Harapan Indah,Bekasi,1000000000,2.0,2.0,55,54,yes,no,no,no,no
+Jati Asih,Bekasi,1970000000,4.0,2.0,108,132,no,no,yes,no,no
+Harapan Indah,Bekasi,3400000000,3.0,4.0,278,183,no,no,yes,no,no
+Harapan Indah,Bekasi,3500000000,3.0,3.0,200,275,no,no,yes,no,no
+Babelan,Bekasi,470000000,2.0,1.0,72,48,no,no,no,no,no
+Bekasi Kota,Bekasi,970000000,3.0,2.0,90,175,yes,no,no,no,no
+Jatibening,Bekasi,1720000000,3.0,2.0,150,100,no,no,no,no,no
+Jatibening,Bekasi,810000000,2.0,1.0,120,90,no,no,no,no,no
+Jati Asih,Bekasi,1610000000,2.0,1.0,72,45,yes,no,no,no,no
+Jati Asih,Bekasi,1180000000,3.0,2.0,120,90,yes,no,no,no,no
+Harapan Indah,Bekasi,910000000,4.0,2.0,105,78,no,no,no,no,no
+Harapan Indah,Bekasi,1130000000,3.0,1.0,112,112,no,no,no,no,no

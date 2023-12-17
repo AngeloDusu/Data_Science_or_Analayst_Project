@@ -1,0 +1,2002 @@
+,lokasi,kota,harga,K_tidur,K_mandi,luas_tanah_m2,luas_bangunan_m2,taman,AC,jalur_telepon,kolam_renang,CCTV
+0,Babelan,Bekasi,470000000,2,1,72,48,no,no,no,no,no
+1,Babelan,Bekasi,580000000,2,1,72,50,yes,no,no,no,no
+2,Babelan,Bekasi,490000000,2,1,60,55,yes,no,no,no,no
+3,Babelan,Bekasi,700000000,2,1,107,55,yes,no,no,no,no
+4,Babelan,Bekasi,650000000,2,1,101,57,yes,no,no,no,no
+5,Babelan,Bekasi,650000000,2,1,101,57,yes,no,no,no,no
+6,Babelan,Bekasi,1200000000,3,2,90,66,no,no,yes,yes,no
+7,Babelan,Bekasi,230000000,2,1,60,36,no,no,yes,no,no
+8,Babelan,Bekasi,350000000,2,1,60,45,no,no,no,no,no
+9,Babelan,Bekasi,470000000,2,1,72,48,no,no,no,no,no
+10,Babelan,Bekasi,950000000,3,1,102,66,no,no,no,no,no
+11,Bekasi Barat,Bekasi,1620000000,3,3,90,75,yes,no,no,no,no
+12,Bekasi Barat,Bekasi,746000000,3,3,151,138,no,no,no,no,no
+13,Bekasi Barat,Bekasi,1550000000,6,3,152,315,no,no,no,no,no
+14,Bekasi Barat,Bekasi,2000000000,1,1,229,220,yes,no,no,no,no
+15,Bekasi Barat,Bekasi,2300000000,4,3,270,330,no,no,no,no,no
+16,Bekasi Barat,Bekasi,1660000000,4,4,108,156,no,no,no,no,no
+17,Bekasi Barat,Bekasi,900000000,3,2,198,100,no,no,no,no,no
+18,Bekasi Barat,Bekasi,4750000000,5,3,188,300,no,no,yes,no,no
+19,Bekasi Barat,Bekasi,1200000000,3,1,103,102,no,no,yes,no,no
+20,Bekasi Barat,Bekasi,870000000,3,2,96,83,yes,no,no,no,no
+21,Bekasi Barat,Bekasi,5100000000,3,2,600,300,no,no,yes,no,no
+22,Bekasi Barat,Bekasi,970000000,3,2,90,175,yes,no,no,no,no
+23,Bekasi Barat,Bekasi,900000000,2,1,80,50,no,no,yes,no,no
+24,Bekasi Barat,Bekasi,1750000000,2,2,149,101,no,no,yes,no,no
+25,Bekasi Barat,Bekasi,1050000000,3,2,144,75,no,no,no,no,no
+26,Bekasi Barat,Bekasi,1000000000,2,2,55,54,yes,no,no,no,no
+27,Bekasi Barat,Bekasi,3400000000,3,4,278,183,no,no,yes,no,no
+28,Bekasi Barat,Bekasi,3500000000,3,3,200,275,no,no,yes,no,no
+29,Bekasi Barat,Bekasi,910000000,4,2,105,78,no,no,no,no,no
+30,Bekasi Barat,Bekasi,1130000000,3,1,112,112,no,no,no,no,no
+31,Bekasi Barat,Bekasi,1100000000,2,1,143,55,yes,no,no,no,no
+32,Bekasi Barat,Bekasi,560000000,2,2,60,100,no,no,no,no,no
+33,Bekasi Barat,Bekasi,1180000000,3,1,108,90,yes,no,no,no,no
+34,Bekasi Barat,Bekasi,1350000000,3,2,126,126,no,no,no,no,no
+35,Bekasi Barat,Bekasi,2270000000,5,3,144,158,yes,no,no,yes,no
+36,Bekasi Barat,Bekasi,900000000,3,2,90,70,yes,no,yes,no,no
+37,Bekasi Barat,Bekasi,1020000000,2,2,105,75,yes,no,no,no,no
+38,Bekasi Barat,Bekasi,1720000000,3,3,108,160,yes,no,no,no,no
+39,Bekasi Barat,Bekasi,1930000000,4,2,120,200,yes,no,no,no,no
+40,Bekasi Barat,Bekasi,6000000000,6,3,300,450,no,no,no,yes,no
+41,Bekasi Barat,Bekasi,1300000000,2,2,126,55,yes,no,no,no,no
+42,Bekasi Barat,Bekasi,810000000,3,1,60,100,no,no,no,no,no
+43,Bekasi Barat,Bekasi,1690000000,2,1,160,160,no,no,no,no,no
+44,Bekasi Barat,Bekasi,1040000000,3,2,55,93,no,no,no,no,no
+45,Bekasi Barat,Bekasi,540000000,2,1,72,54,no,no,no,no,no
+46,Bekasi Barat,Bekasi,700000000,2,1,107,55,no,no,no,no,no
+47,Bekasi Barat,Bekasi,1560000000,3,3,90,150,yes,no,no,no,no
+48,Bekasi Barat,Bekasi,2120000000,3,3,108,69,no,no,yes,no,no
+49,Bekasi Barat,Bekasi,957000000,3,2,72,108,no,no,no,no,no
+50,Bekasi Barat,Bekasi,1020000000,3,2,90,69,yes,no,no,no,no
+51,Bekasi Barat,Bekasi,1290000000,5,4,100,230,no,no,no,no,no
+52,Bekasi Barat,Bekasi,1160000000,2,2,97,75,yes,no,no,no,no
+53,Bekasi Barat,Bekasi,680000000,2,1,60,50,yes,no,no,no,no
+54,Bekasi Barat,Bekasi,1350000000,5,2,234,120,no,no,no,no,no
+55,Bekasi Barat,Bekasi,2600000000,3,2,88,130,yes,no,no,no,no
+56,Bekasi Barat,Bekasi,1550000000,3,2,74,111,yes,no,yes,no,no
+57,Bekasi Barat,Bekasi,5000000000,4,2,300,350,no,no,no,no,no
+58,Bekasi Barat,Bekasi,1290000000,3,2,126,100,no,no,no,no,no
+59,Bekasi Barat,Bekasi,1250000000,2,2,108,69,no,no,no,no,no
+60,Bekasi Barat,Bekasi,1500000000,3,3,90,150,yes,no,no,no,no
+61,Bekasi Barat,Bekasi,1610000000,5,3,160,100,no,no,no,no,no
+62,Bekasi Barat,Bekasi,2310000000,3,4,110,120,no,no,no,no,no
+63,Bekasi Barat,Bekasi,650000000,2,1,90,60,no,no,no,no,no
+64,Bekasi Barat,Bekasi,1600000000,2,2,90,53,no,no,no,no,no
+65,Bekasi Barat,Bekasi,1130000000,2,1,90,80,yes,no,no,no,no
+66,Bekasi Barat,Bekasi,2890000000,4,3,238,180,yes,no,no,no,no
+67,Bekasi Barat,Bekasi,824000000,3,1,72,48,yes,no,no,no,no
+68,Bekasi Barat,Bekasi,1750000000,3,3,120,160,no,no,no,no,no
+69,Bekasi Barat,Bekasi,1190000000,2,2,144,53,yes,no,no,no,no
+70,Bekasi Barat,Bekasi,950000000,3,2,105,85,no,no,no,no,no
+71,Bekasi Barat,Bekasi,1390000000,4,3,135,150,no,no,no,no,no
+72,Bekasi Barat,Bekasi,1250000000,3,3,114,69,yes,no,no,no,no
+73,Bekasi Barat,Bekasi,1750000000,2,2,149,101,no,no,yes,no,no
+74,Bekasi Barat,Bekasi,1050000000,3,2,144,75,no,no,no,no,no
+75,Bekasi Barat,Bekasi,1000000000,2,2,55,54,yes,no,no,no,no
+76,Bekasi Barat,Bekasi,3400000000,3,4,278,183,no,no,yes,no,no
+77,Bekasi Barat,Bekasi,3500000000,3,3,200,275,no,no,yes,no,no
+78,Bekasi Barat,Bekasi,910000000,4,2,105,78,no,no,no,no,no
+79,Bekasi Barat,Bekasi,1130000000,3,1,112,112,no,no,no,no,no
+80,Bekasi Barat,Bekasi,1670000000,3,3,90,75,yes,no,no,no,yes
+81,Bekasi Barat,Bekasi,1950000000,3,2,220,180,yes,no,no,no,no
+82,Bekasi Selatan,Bekasi,860000000,3,2,128,95,no,no,no,no,no
+83,Bekasi Selatan,Bekasi,720000000,2,1,60,65,no,no,no,no,no
+84,Bekasi Selatan,Bekasi,940000000,3,2,72,90,no,no,no,no,no
+85,Bekasi Selatan,Bekasi,860000000,2,1,101,70,no,no,no,no,no
+86,Bekasi Selatan,Bekasi,590000000,2,1,60,51,no,no,no,no,no
+87,Bekasi Selatan,Bekasi,1710000000,2,2,116,90,yes,no,no,no,no
+88,Bekasi Selatan,Bekasi,680000000,2,2,90,42,yes,no,no,no,no
+89,Bekasi Selatan,Bekasi,1290000000,4,3,201,175,yes,no,no,no,no
+90,Bekasi Selatan,Bekasi,810000000,2,1,120,90,yes,no,no,no,no
+91,Bekasi Selatan,Bekasi,2360000000,3,3,213,200,yes,no,no,no,no
+92,Bekasi Selatan,Bekasi,1930000000,4,3,144,135,yes,no,no,no,no
+93,Bekasi Selatan,Bekasi,1070000000,5,1,89,89,no,no,no,no,no
+94,Bekasi Selatan,Bekasi,870000000,3,2,96,83,no,no,yes,no,no
+95,Bekasi Selatan,Bekasi,870000000,3,2,96,83,yes,no,no,no,no
+96,Bekasi Selatan,Bekasi,5100000000,3,2,600,300,no,no,yes,no,no
+97,Bekasi Selatan,Bekasi,970000000,3,2,90,175,yes,no,no,no,no
+98,Bekasi Selatan,Bekasi,1180000000,2,1,90,60,yes,no,no,no,no
+99,Bekasi Selatan,Bekasi,2360000000,3,3,213,200,yes,no,no,no,no
+100,Bekasi Selatan,Bekasi,650000000,3,2,77,154,no,no,no,no,no
+101,Bekasi Selatan,Bekasi,1720000000,3,2,150,100,yes,no,no,no,no
+102,Bekasi Selatan,Bekasi,1180000000,2,1,108,121,yes,no,no,no,no
+103,Bekasi Selatan,Bekasi,2680000000,4,2,150,250,yes,no,no,no,no
+104,Bekasi Selatan,Bekasi,1200000000,3,2,95,88,yes,no,no,no,no
+105,Bekasi Selatan,Bekasi,650000000,2,1,112,65,yes,no,no,no,no
+106,Bekasi Selatan,Bekasi,810000000,2,1,120,90,yes,no,no,no,no
+107,Bekasi Selatan,Bekasi,1500000000,4,2,150,192,yes,no,no,no,no
+108,Bekasi Selatan,Bekasi,1130000000,2,1,90,80,yes,no,no,no,no
+109,Bekasi Selatan,Bekasi,1070000000,4,3,100,200,yes,no,no,no,no
+110,Bekasi Selatan,Bekasi,1930000000,4,3,144,135,no,no,no,no,no
+111,Bekasi Selatan,Bekasi,2460000000,5,2,305,200,no,no,no,no,no
+112,Bekasi Selatan,Bekasi,1750000000,5,2,187,224,yes,no,yes,no,no
+113,Bekasi Selatan,Bekasi,15000000000,5,4,630,450,yes,no,no,no,no
+114,Bekasi Selatan,Bekasi,1600000000,4,1,162,180,no,no,yes,no,no
+115,Bekasi Selatan,Bekasi,550000000,3,1,154,100,no,no,no,no,no
+116,Bekasi Selatan,Bekasi,1400000000,3,3,84,120,yes,no,no,no,no
+117,Bekasi Selatan,Bekasi,1400000000,3,3,84,120,yes,no,no,no,no
+118,Bekasi Timur,Bekasi,1100000000,2,2,60,50,yes,no,no,no,no
+119,Bekasi Timur,Bekasi,870000000,2,2,60,47,yes,no,no,no,no
+120,Bekasi Timur,Bekasi,1820000000,4,3,270,100,no,no,yes,no,no
+121,Bekasi Timur,Bekasi,560000000,2,1,45,90,no,no,no,no,no
+122,Bekasi Timur,Bekasi,1610000000,3,2,144,130,no,no,no,no,no
+123,Bekasi Timur,Bekasi,750000000,2,1,54,84,no,no,no,no,no
+124,Bekasi Timur,Bekasi,700000000,2,1,92,37,no,no,no,no,no
+125,Bekasi Timur,Bekasi,1470000000,3,3,90,75,yes,no,no,no,no
+126,Bekasi Timur,Bekasi,650000000,3,2,77,154,yes,no,no,no,no
+127,Bekasi Timur,Bekasi,1610000000,4,3,216,200,no,no,no,no,no
+128,Bekasi Timur,Bekasi,1070000000,2,1,124,60,yes,no,no,no,no
+129,Bekasi Timur,Bekasi,910000000,3,1,74,70,yes,no,no,no,no
+130,Bekasi Timur,Bekasi,716000000,3,2,80,110,no,no,yes,no,no
+131,Bekasi Timur,Bekasi,540000000,2,1,72,40,yes,no,no,no,no
+132,Bekasi Timur,Bekasi,650000000,3,2,60,120,yes,no,no,no,no
+133,Bekasi Timur,Bekasi,1610000000,4,3,138,59,no,no,no,no,no
+134,Bekasi Timur,Bekasi,540000000,2,2,77,77,yes,no,no,no,no
+135,Bekasi Timur,Bekasi,810000000,2,1,38,86,no,no,no,no,no
+136,Bekasi Timur,Bekasi,590000000,2,1,90,55,no,no,no,no,no
+137,Bekasi Timur,Bekasi,600000000,2,1,66,50,yes,no,no,no,yes
+138,Bekasi Timur,Bekasi,2550000000,3,3,145,120,yes,no,no,no,no
+139,Bekasi Timur,Bekasi,700000000,2,1,65,65,yes,no,no,no,no
+140,Bekasi Timur,Bekasi,560000000,4,2,300,250,no,no,no,no,no
+141,Bekasi Timur,Bekasi,767000000,3,2,96,83,yes,no,no,no,no
+142,Bekasi Timur,Bekasi,700000000,3,2,72,144,yes,no,no,no,no
+143,Bekasi Timur,Bekasi,2040000000,3,3,99,103,yes,no,no,no,no
+144,Bekasi Timur,Bekasi,1020000000,4,3,72,150,yes,no,no,no,no
+145,Bekasi Timur,Bekasi,970000000,3,2,90,175,yes,no,no,no,no
+146,Bekasi Timur,Bekasi,855000000,3,2,235,150,no,no,no,no,no
+147,Bekasi Timur,Bekasi,1180000000,3,3,84,90,yes,no,no,no,no
+148,Bekasi Timur,Bekasi,860000000,3,1,108,144,yes,no,no,no,no
+149,Bekasi Timur,Bekasi,470000000,2,1,65,38,no,no,no,no,no
+150,Bekasi Timur,Bekasi,525000000,2,1,78,36,no,no,yes,no,no
+151,Bekasi Timur,Bekasi,2900000000,4,4,526,110,yes,no,yes,no,no
+152,Bekasi Timur,Bekasi,575000000,3,1,96,90,yes,no,no,no,no
+153,Bekasi Utara,Bekasi,560000000,2,1,90,45,yes,no,no,no,no
+154,Bekasi Utara,Bekasi,810000000,3,1,60,100,yes,no,no,no,no
+155,Bekasi Utara,Bekasi,540000000,2,1,72,54,no,no,no,no,no
+156,Bekasi Utara,Bekasi,1290000000,5,4,100,230,no,no,no,no,no
+157,Bekasi Utara,Bekasi,910000000,3,1,74,70,no,no,no,no,no
+158,Bekasi Utara,Bekasi,490000000,2,1,60,55,no,no,no,no,no
+159,Bekasi Utara,Bekasi,1490000000,3,3,79,105,yes,no,no,no,no
+160,Bekasi Utara,Bekasi,1200000000,3,2,90,100,yes,no,yes,no,no
+161,Bekasi Utara,Bekasi,685000000,2,1,105,60,yes,no,yes,no,no
+162,Bekasi Utara,Bekasi,540000000,2,1,72,40,yes,no,no,no,no
+163,Bekasi Utara,Bekasi,2890000000,4,3,238,180,yes,no,no,no,no
+164,Bekasi Utara,Bekasi,1600000000,3,3,105,130,yes,no,no,no,no
+165,Bekasi Utara,Bekasi,1490000000,3,3,90,122,yes,no,no,no,no
+166,Bekasi Utara,Bekasi,910000000,2,1,124,60,no,no,no,no,no
+167,Bekasi Utara,Bekasi,540000000,2,1,60,40,no,no,no,no,no
+168,Bekasi Utara,Bekasi,800000000,2,2,130,70,no,no,no,no,no
+169,Bekasi Utara,Bekasi,1930000000,4,2,120,200,yes,no,no,no,no
+170,Bekasi Utara,Bekasi,1560000000,3,3,90,150,yes,no,no,no,no
+171,Bekasi Utara,Bekasi,650000000,2,1,101,57,no,no,no,no,no
+172,Bekasi Utara,Bekasi,540000000,2,1,70,45,no,no,no,no,no
+173,Bekasi Utara,Bekasi,1160000000,2,2,97,75,no,no,no,no,no
+174,Bekasi Utara,Bekasi,215000000,2,2,72,60,no,no,yes,no,no
+175,Bekasi Utara,Bekasi,1010000000,3,2,60,110,yes,no,no,no,no
+176,Bekasi Utara,Bekasi,710000000,2,1,60,51,yes,no,no,no,no
+177,Bekasi Utara,Bekasi,910000000,4,2,105,78,yes,no,no,no,no
+178,Bekasi Utara,Bekasi,560000000,2,2,60,100,yes,no,no,no,no
+179,Bekasi Utara,Bekasi,860000000,3,1,108,144,yes,no,no,no,no
+180,Bekasi Utara,Bekasi,630000000,2,1,66,58,no,no,no,no,no
+181,Bekasi Utara,Bekasi,1700000000,3,3,90,122,no,no,no,no,no
+182,Bekasi Utara,Bekasi,1050000000,3,1,78,78,no,no,no,no,no
+183,Bekasi Utara,Bekasi,750000000,2,1,84,54,no,no,no,no,no
+184,Bekasi Utara,Bekasi,1390000000,2,2,224,75,no,no,no,no,no
+185,Bekasi Utara,Bekasi,680000000,2,1,60,50,no,no,no,no,no
+186,Bekasi Utara,Bekasi,680000000,3,2,60,80,no,no,no,no,no
+187,Bekasi Utara,Bekasi,1990000000,4,3,144,258,yes,no,no,no,no
+188,Bekasi Utara,Bekasi,12000000000,6,6,1782,600,no,no,yes,no,yes
+189,Bekasi Utara,Bekasi,5500000000,5,5,180,297,yes,no,no,no,no
+190,Bekasi Utara,Bekasi,2450000000,3,3,136,170,yes,no,no,no,no
+191,Bekasi Utara,Bekasi,700000000,2,1,107,55,no,no,no,no,no
+192,Bekasi Utara,Bekasi,650000000,2,1,101,57,yes,no,no,no,no
+193,Bekasi Utara,Bekasi,4950000000,3,3,245,400,no,no,no,no,no
+194,Bekasi Utara,Bekasi,3500000000,2,3,136,260,no,no,yes,no,no
+195,Bekasi Utara,Bekasi,1050000000,3,1,78,78,no,no,no,no,no
+196,Bekasi Utara,Bekasi,2100000000,4,2,119,115,no,no,no,no,no
+197,Bekasi Utara,Bekasi,540000000,2,1,72,40,yes,no,no,no,no
+198,Bekasi Utara,Bekasi,560000000,2,1,90,45,yes,no,no,no,no
+199,Bekasi Utara,Bekasi,860000000,3,1,108,144,yes,no,no,no,no
+200,Bekasi Utara,Bekasi,1060000000,4,2,72,90,no,no,no,no,no
+201,Bekasi Utara,Bekasi,1820000000,4,1,270,100,no,no,no,no,no
+202,Bekasi Utara,Bekasi,2350000000,3,2,119,100,no,no,no,yes,no
+203,Bekasi Utara,Bekasi,4500000000,5,4,180,210,yes,no,no,no,no
+204,Bekasi Utara,Bekasi,4500000000,5,4,180,210,yes,no,no,no,no
+205,Bekasi Utara,Bekasi,540000000,2,1,72,54,no,no,no,no,no
+206,Bekasi Utara,Bekasi,560000000,2,2,60,100,no,no,no,no,no
+207,Bekasi Utara,Bekasi,2000000000,2,3,91,65,yes,no,no,no,no
+208,Bekasi Utara,Bekasi,5500000000,5,5,180,297,yes,no,no,no,no
+209,Bekasi Utara,Bekasi,1300000000,3,2,66,88,no,no,no,no,no
+210,Cibitung,Bekasi,850000000,2,1,72,54,yes,no,no,no,no
+211,Cibitung,Bekasi,250000000,1,1,84,21,no,no,yes,no,no
+212,Cibitung,Bekasi,8000000000,6,5,400,700,no,no,no,yes,no
+213,Cibitung,Bekasi,1100000000,1,1,161,41,no,no,no,no,no
+214,Cikarang Barat,Bekasi,300000000,2,1,60,29,no,no,no,no,no
+215,Cikarang Barat,Bekasi,970000000,4,2,144,76,no,no,no,no,no
+216,Cikarang Barat,Bekasi,540000000,2,1,72,60,no,no,no,no,no
+217,Cikarang Barat,Bekasi,950000000,2,2,54,43,no,no,yes,no,no
+218,Cikarang Barat,Bekasi,800000000,2,2,50,43,no,no,yes,no,no
+219,Cikarang Barat,Bekasi,1400000000,3,3,105,87,yes,no,no,no,no
+220,Cikarang Barat,Bekasi,750000000,2,1,84,84,yes,no,no,no,no
+221,Cikarang Barat,Bekasi,1180000000,2,2,72,36,yes,no,no,no,no
+222,Cikarang Barat,Bekasi,540000000,2,1,60,60,yes,no,no,no,no
+223,Cikarang Pusat,Bekasi,750000000,2,2,78,102,no,no,no,no,no
+224,Cikarang Pusat,Bekasi,700000000,3,2,78,120,no,no,no,no,no
+225,Cikarang Pusat,Bekasi,540000000,2,1,36,72,yes,no,no,no,no
+226,Cikarang Pusat,Bekasi,1360000000,3,2,120,70,yes,no,no,no,no
+227,Cikarang Pusat,Bekasi,2360000000,4,3,240,108,yes,no,no,no,no
+228,Cikarang Pusat,Bekasi,1500000000,15,15,135,250,no,no,no,no,no
+229,Cikarang Pusat,Bekasi,1020000000,4,3,72,150,no,no,no,no,no
+230,Cikarang Timur,Bekasi,420000000,3,1,90,90,no,no,no,no,no
+231,Cikarang Timur,Bekasi,540000000,2,2,77,77,no,no,no,no,no
+232,Cikarang Timur,Bekasi,767000000,3,2,96,83,yes,no,no,no,no
+233,Cikarang Timur,Bekasi,2680000000,4,3,90,126,yes,no,no,no,no
+234,Cikarang Timur,Bekasi,1160000000,2,2,97,75,yes,no,no,no,no
+235,Cikarang Timur,Bekasi,2550000000,3,3,145,120,no,no,no,no,no
+236,Cikarang Timur,Bekasi,650000000,3,2,60,120,no,no,no,no,no
+237,Cikarang Timur,Bekasi,560000000,2,1,60,42,no,no,no,no,no
+238,Cikarang Timur,Bekasi,802000000,3,2,108,160,yes,no,no,no,no
+239,Cikarang Utara,Bekasi,540000000,2,1,72,60,yes,no,no,no,no
+240,Cikarang Utara,Bekasi,1000000000,4,3,77,84,no,no,yes,no,no
+241,Cikarang Utara,Bekasi,900000000,3,2,60,60,no,no,yes,no,no
+242,Cikarang Utara,Bekasi,1000000000,4,3,77,84,yes,no,no,no,no
+243,Cikarang Utara,Bekasi,900000000,3,2,60,60,no,no,yes,no,no
+244,Cikarang Utara,Bekasi,1000000000,4,3,77,84,no,no,yes,no,no
+245,Cikarang Utara,Bekasi,900000000,3,2,60,60,no,no,yes,no,no
+246,Cikarang Utara,Bekasi,1000000000,4,3,77,84,no,no,yes,no,no
+247,Cikarang Utara,Bekasi,900000000,3,2,60,60,no,no,yes,no,no
+248,Cikarang Utara,Bekasi,1000000000,4,3,77,84,no,no,yes,no,no
+249,Cikarang Utara,Bekasi,900000000,3,2,60,60,no,no,yes,no,no
+250,Cikarang Utara,Bekasi,500000000,2,1,60,60,no,no,yes,no,no
+251,Jatiasih,Bekasi,1970000000,4,2,108,132,no,no,yes,no,no
+252,Jatiasih,Bekasi,1610000000,2,1,72,45,yes,no,no,no,no
+253,Jatiasih,Bekasi,1180000000,3,2,120,90,yes,no,no,no,no
+254,Jatiasih,Bekasi,2460000000,5,2,305,200,no,no,no,no,no
+255,Jatiasih,Bekasi,1100000000,2,2,60,50,yes,no,no,no,no
+256,Jatiasih,Bekasi,800000000,3,2,75,77,yes,no,no,no,no
+257,Jatiasih,Bekasi,500000000,2,1,65,45,yes,no,no,no,yes
+258,Jatiasih,Bekasi,800000000,3,2,84,85,no,no,no,no,no
+259,Jatiasih,Bekasi,1150000000,4,3,96,150,no,no,yes,no,no
+260,Jatiasih,Bekasi,1070000000,4,3,100,200,yes,no,no,no,no
+261,Jatiasih,Bekasi,910000000,4,2,89,160,yes,no,no,no,no
+262,Jatiasih,Bekasi,615000000,2,1,81,55,no,yes,yes,no,no
+263,Jatiasih,Bekasi,550000000,2,1,70,45,yes,no,no,no,no
+264,Jatiasih,Bekasi,775000000,2,1,89,60,yes,no,no,no,no
+265,Jatiasih,Bekasi,540000000,2,1,63,68,yes,no,no,no,no
+266,Jatiasih,Bekasi,940000000,4,2,120,84,yes,no,no,no,no
+267,Jatiasih,Bekasi,646000000,3,2,61,66,no,yes,no,no,no
+268,Jatiasih,Bekasi,25000000000,6,4,2500,1000,no,no,yes,no,no
+269,Jatiasih,Bekasi,1180000000,2,1,90,60,yes,no,no,no,no
+270,Jatiasih,Bekasi,1720000000,3,2,150,100,yes,no,no,no,no
+271,Jatiasih,Bekasi,900000000,3,2,77,83,yes,no,no,no,no
+272,Jatiasih,Bekasi,1170000000,3,2,90,130,no,no,no,no,no
+273,Jatiasih,Bekasi,980000000,2,1,90,48,no,no,no,no,no
+274,Jatiasih,Bekasi,810000000,4,2,72,96,yes,no,no,no,no
+275,Jatiasih,Bekasi,508000000,2,1,55,45,yes,no,no,no,no
+276,Jatiasih,Bekasi,860000000,3,2,82,156,no,no,no,no,no
+277,Jatiasih,Bekasi,1930000000,3,2,170,170,yes,no,no,no,no
+278,Jatiasih,Bekasi,910000000,3,2,120,72,yes,no,no,no,no
+279,Jatiasih,Bekasi,860000000,2,1,91,45,yes,no,no,no,no
+280,Jatiasih,Bekasi,1150000000,2,2,100,100,yes,no,no,no,no
+281,Jatiasih,Bekasi,790000000,2,1,88,55,no,no,yes,no,no
+282,Jatiasih,Bekasi,2680000000,4,2,150,250,yes,no,no,no,no
+283,Jatiasih,Bekasi,860000000,3,2,82,156,yes,no,no,no,no
+284,Jatiasih,Bekasi,508000000,2,1,65,45,no,no,no,no,no
+285,Jatiasih,Bekasi,1970000000,4,2,108,132,no,no,yes,no,no
+286,Jatiasih,Bekasi,1610000000,2,1,72,45,yes,no,no,no,no
+287,Jatiasih,Bekasi,1180000000,3,2,120,90,yes,no,no,no,no
+288,Jatiasih,Bekasi,1300000000,3,3,110,110,yes,no,no,no,no
+289,Jatisampurna,Bekasi,1670000000,3,3,90,140,yes,no,no,no,no
+290,Jatisampurna,Bekasi,1600000000,4,3,98,100,yes,no,no,no,no
+291,Jatisampurna,Bekasi,2700000000,3,2,504,398,yes,no,no,no,no
+292,Jatisampurna,Bekasi,2240000000,2,2,114,90,yes,no,no,no,no
+293,Jatisampurna,Bekasi,1230000000,3,2,90,140,yes,no,no,no,no
+294,Jatisampurna,Bekasi,2500000000,4,3,170,90,yes,no,no,no,no
+295,Jatisampurna,Bekasi,730000000,2,2,107,107,yes,no,no,no,no
+296,Jatisampurna,Bekasi,2040000000,2,2,103,54,yes,no,no,no,no
+297,Medan Satria,Bekasi,680000000,2,1,90,52,no,yes,no,no,no
+298,Medan Satria,Bekasi,920000000,4,2,93,140,yes,no,no,no,no
+299,Mustika Jaya,Bekasi,1100000000,2,2,60,50,yes,no,no,no,no
+300,Mustika Jaya,Bekasi,616000000,2,1,72,72,no,no,yes,no,no
+301,Mustika Jaya,Bekasi,985000000,3,2,90,100,yes,no,yes,no,no
+302,Mustika Jaya,Bekasi,860000000,3,2,128,95,no,no,yes,no,no
+303,Mustika Jaya,Bekasi,545000000,2,1,72,38,yes,no,no,no,no
+304,Mustika Jaya,Bekasi,870000000,2,1,60,47,yes,no,no,no,no
+305,Mustika Jaya,Bekasi,940000000,3,2,72,90,yes,no,no,no,no
+306,Mustika Jaya,Bekasi,757000000,3,2,128,95,yes,no,no,no,no
+307,Mustika Jaya,Bekasi,757000000,3,2,128,95,yes,no,no,no,no
+308,Mustika Jaya,Bekasi,700000000,2,1,97,55,no,no,yes,no,no
+309,Mustika Jaya,Bekasi,370000000,4,3,180,240,no,no,yes,no,no
+310,Mustika Jaya,Bekasi,940000000,3,2,72,90,no,no,yes,no,no
+311,Mustika Jaya,Bekasi,1740000000,6,3,240,345,no,no,no,no,no
+312,Mustika Jaya,Bekasi,810000000,3,2,72,55,no,no,no,no,no
+313,Mustika Jaya,Bekasi,870000000,3,2,96,83,no,no,no,no,no
+314,Mustika Jaya,Bekasi,870000000,2,2,60,47,no,no,no,no,no
+315,Mustika Jaya,Bekasi,940000000,3,2,72,90,yes,no,no,no,no
+316,Mustika Jaya,Bekasi,1800000000,4,2,144,100,yes,no,no,no,no
+317,Mustika Jaya,Bekasi,616000000,2,1,72,72,no,no,yes,no,no
+318,Mustika Jaya,Bekasi,775000000,2,1,72,55,yes,no,yes,no,no
+319,Pondok Gede,Bekasi,1720000000,3,2,150,100,no,no,no,no,no
+320,Pondok Gede,Bekasi,810000000,2,1,120,90,no,no,no,no,no
+321,Pondok Gede,Bekasi,5500000000,5,5,720,609,no,no,no,no,yes
+322,Pondok Gede,Bekasi,2680000000,5,3,128,240,no,no,no,no,no
+323,Pondok Gede,Bekasi,12200000000,5,4,2448,800,no,no,no,yes,no
+324,Pondok Gede,Bekasi,790000000,2,2,85,60,no,no,no,no,no
+325,Pondok Gede,Bekasi,650000000,2,1,112,65,no,no,no,no,no
+326,Pondok Gede,Bekasi,1490000000,3,2,62,120,yes,no,no,no,no
+327,Pondok Gede,Bekasi,1450000000,3,3,100,130,yes,no,no,no,no
+328,Pondok Gede,Bekasi,2140000000,4,2,90,88,yes,no,no,no,no
+329,Pondok Gede,Bekasi,1930000000,4,2,117,96,yes,no,no,no,no
+330,Pondok Gede,Bekasi,860000000,2,1,91,45,yes,no,no,no,no
+331,Pondok Gede,Bekasi,1930000000,3,2,170,170,no,no,no,no,no
+332,Pondok Gede,Bekasi,1610000000,4,3,84,120,no,no,no,no,no
+333,Pondok Gede,Bekasi,1070000000,4,3,100,200,no,no,no,no,no
+334,Pondok Gede,Bekasi,1180000000,2,1,90,60,no,no,no,no,no
+335,Pondok Gede,Bekasi,899000000,3,2,66,78,yes,no,no,no,no
+336,Pondok Gede,Bekasi,2680000000,4,2,150,250,yes,no,no,no,no
+337,Pondok Gede,Bekasi,860000000,3,2,82,156,yes,no,no,no,no
+338,Pondok Gede,Bekasi,850000000,3,2,88,150,yes,no,no,no,no
+339,Pondok Gede,Bekasi,2460000000,5,2,305,200,no,no,no,no,no
+340,Pondok Gede,Bekasi,1720000000,5,3,154,180,no,no,no,no,no
+341,Pondok Gede,Bekasi,1180000000,3,2,120,90,no,no,no,no,no
+342,Pondok Gede,Bekasi,1500000000,3,2,197,150,yes,no,no,no,no
+343,Pondok Gede,Bekasi,810000000,2,1,80,75,yes,no,no,no,no
+344,Pondok Gede,Bekasi,14000000000,6,6,1800,300,no,yes,no,no,no
+345,Pondok Gede,Bekasi,1250000000,3,2,74,70,yes,no,no,no,no
+346,Pondok Gede,Bekasi,2360000000,3,2,144,183,no,no,no,no,no
+347,Pondok Gede,Bekasi,1610000000,2,1,70,45,no,no,no,no,no
+348,Pondok Gede,Bekasi,1610000000,3,2,72,65,no,no,no,no,no
+349,Pondok Gede,Bekasi,1610000000,3,3,115,115,no,no,no,no,no
+350,Pondok Gede,Bekasi,1500000000,3,3,206,150,no,no,no,no,no
+351,Pondok Gede,Bekasi,910000000,2,1,144,60,no,no,no,no,no
+352,Pondok Gede,Bekasi,1070000000,5,1,89,89,yes,no,no,no,no
+353,Pondok Gede,Bekasi,1720000000,3,2,150,100,no,no,no,no,no
+354,Pondok Gede,Bekasi,810000000,2,1,120,90,no,no,no,no,no
+355,Pondok Gede,Bekasi,1700000000,4,5,135,124,yes,no,yes,no,no
+356,Pondok Gede,Bekasi,1100000000,3,3,85,97,no,no,no,no,no
+357,Pondok Gede,Bekasi,757000000,2,1,103,80,no,no,no,no,no
+358,Pondok Gede,Bekasi,1200000000,3,2,72,142,no,no,yes,no,no
+359,Pondok Gede,Bekasi,3700000000,4,3,314,400,no,no,yes,no,no
+360,Pondok Melati,Bekasi,1300000000,3,2,72,65,yes,no,no,no,no
+361,Pondok Melati,Bekasi,8500000000,4,4,956,250,no,no,yes,no,no
+362,Pondok Melati,Bekasi,1290000000,2,2,144,140,no,no,no,no,no
+363,Pondok Melati,Bekasi,700000000,5,5,292,130,no,no,yes,no,no
+364,Pondok Melati,Bekasi,1580000000,3,4,90,155,yes,no,no,no,no
+365,Pondok Melati,Bekasi,4340000000,4,2,475,626,no,no,no,no,no
+366,Pondok Melati,Bekasi,1470000000,4,2,182,193,no,no,yes,no,no
+367,Pondok Melati,Bekasi,1820000000,3,2,105,160,yes,no,no,no,no
+368,Pondok Melati,Bekasi,1400000000,4,2,162,100,yes,no,no,no,no
+369,Rawalumbu,Bekasi,3900000000,3,3,201,300,no,no,no,no,no
+370,Rawalumbu,Bekasi,11000000000,4,3,599,500,no,no,yes,no,no
+371,Rawalumbu,Bekasi,11000000000,4,3,599,500,no,no,yes,no,no
+372,Rawalumbu,Bekasi,1500000000,4,2,162,170,yes,no,no,no,no
+373,Setu,Bekasi,535000000,2,2,78,50,yes,no,no,no,no
+374,Tambun Selatan,Bekasi,940000000,2,1,84,39,no,no,no,no,no
+375,Tambun Selatan,Bekasi,1610000000,2,2,144,130,no,no,no,no,no
+376,Tambun Selatan,Bekasi,1610000000,2,2,126,110,yes,no,no,no,no
+377,Tambun Selatan,Bekasi,650000000,2,1,72,42,yes,no,no,no,no
+378,Tambun Selatan,Bekasi,702000000,3,2,80,60,yes,no,no,no,no
+379,Tambun Selatan,Bekasi,590000000,2,1,66,66,no,no,no,no,no
+380,Tambun Selatan,Bekasi,700000000,2,1,90,38,yes,no,no,no,no
+381,Tambun Selatan,Bekasi,540000000,2,2,77,77,yes,no,no,no,no
+382,Tambun Selatan,Bekasi,910000000,3,1,120,120,yes,no,no,no,no
+383,Tambun Selatan,Bekasi,970000000,3,2,78,96,yes,no,no,no,no
+384,Tambun Selatan,Bekasi,1400000000,2,1,60,55,no,no,yes,no,no
+385,Tambun Selatan,Bekasi,810000000,2,1,38,86,no,no,no,no,no
+386,Tambun Selatan,Bekasi,970000000,3,1,114,90,no,no,no,no,no
+387,Tambun Selatan,Bekasi,860000000,3,2,72,120,no,no,no,no,no
+388,Tambun Selatan,Bekasi,4700000000,4,4,240,295,yes,no,no,no,no
+389,Tambun Selatan,Bekasi,535000000,2,1,78,36,yes,no,no,no,no
+390,Tambun Selatan,Bekasi,540000000,2,1,72,25,yes,no,no,no,no
+391,Tambun Selatan,Bekasi,600000000,3,2,100,60,no,no,yes,no,no
+392,Tambun Selatan,Bekasi,630000000,3,2,60,120,no,no,yes,no,no
+393,Tambun Selatan,Bekasi,1360000000,2,2,60,90,no,no,yes,no,no
+394,Tambun Selatan,Bekasi,2700000000,5,4,245,200,no,no,yes,no,no
+395,Tambun Selatan,Bekasi,350000000,1,1,50,40,no,no,yes,no,no
+396,Tambun Selatan,Bekasi,1400000000,4,3,91,102,no,no,yes,no,no
+397,Tambun Selatan,Bekasi,525000000,4,3,120,250,no,no,no,no,no
+398,Tambun Selatan,Bekasi,900000000,3,1,375,105,yes,no,no,no,no
+399,Tambun Selatan,Bekasi,350000000,2,1,78,75,no,no,yes,no,no
+400,Tambun Utara,Bekasi,1200000000,3,3,100,90,no,no,no,no,no
+401,Tambun Utara,Bekasi,395000000,2,1,60,36,no,no,yes,no,no
+402,Tambun Utara,Bekasi,172000000,2,1,84,36,no,no,no,no,no
+403,Tambun Utara,Bekasi,172000000,2,1,84,36,no,no,no,no,no
+404,Tambun Utara,Bekasi,571000000,2,1,70,45,yes,no,no,no,no
+405,Tarumajaya,Bekasi,1000000000,2,2,55,54,yes,no,no,no,no
+406,Tarumajaya,Bekasi,1400000000,3,2,71,54,no,no,yes,no,no
+407,Tarumajaya,Bekasi,1330000000,3,3,55,93,yes,no,no,no,no
+408,Tarumajaya,Bekasi,1100000000,2,2,90,42,yes,no,no,no,no
+409,Tarumajaya,Bekasi,3400000000,4,4,276,183,no,no,yes,no,no
+410,Tarumajaya,Bekasi,500000000,2,1,148,42,no,no,yes,no,no
+411,Babakan Madang,Bogor,3210000000,3,4,333,172,yes,no,no,no,no
+412,Bogor Barat,Bogor,820000000,3,2,105,66,yes,no,no,no,no
+413,Bogor Barat,Bogor,820000000,3,2,105,66,yes,no,no,no,no
+414,Bogor Barat,Bogor,1450000000,3,3,70,85,yes,no,no,no,no
+415,Bogor Barat,Bogor,1290000000,3,2,90,105,yes,no,no,no,no
+416,Bogor Barat,Bogor,1290000000,2,1,168,148,no,yes,yes,no,no
+417,Bogor Barat,Bogor,1020000000,2,1,105,66,yes,no,no,no,no
+418,Bogor Barat,Bogor,1500000000,2,1,156,144,yes,no,no,no,no
+419,Bogor Barat,Bogor,2570000000,3,3,162,140,yes,no,no,no,no
+420,Bogor Barat,Bogor,800000000,2,1,105,37,yes,no,no,no,no
+421,Bogor Barat,Bogor,1100000000,2,1,138,105,yes,no,no,no,no
+422,Bogor Barat,Bogor,820000000,2,1,78,54,yes,no,no,no,no
+423,Bogor Barat,Bogor,1180000000,3,2,141,100,no,no,no,no,no
+424,Bogor Barat,Bogor,1020000000,2,2,147,100,yes,no,no,no,no
+425,Bogor Barat,Bogor,1500000000,2,1,156,144,no,yes,yes,no,no
+426,Bogor Barat,Bogor,2470000000,2,1,225,61,no,yes,yes,no,no
+427,Bogor Barat,Bogor,1850000000,3,3,144,190,yes,no,yes,no,no
+428,Bogor Barat,Bogor,890000000,2,1,84,51,yes,no,no,no,no
+429,Bogor Barat,Bogor,1450000000,3,3,70,85,yes,no,no,no,no
+430,Bogor Selatan,Bogor,1450000000,3,3,70,85,yes,no,no,no,no
+431,Bogor Selatan,Bogor,7000000000,4,4,544,349,no,no,no,yes,no
+432,Bogor Selatan,Bogor,1450000000,3,3,70,85,yes,no,no,no,no
+433,Bogor Selatan,Bogor,287000000,2,1,111,45,yes,no,no,no,no
+434,Bogor Selatan,Bogor,1000000000,3,2,120,60,yes,no,no,no,no
+435,Bogor Selatan,Bogor,900000000,3,2,119,90,yes,no,no,no,no
+436,Bogor Selatan,Bogor,900000000,3,2,119,90,yes,no,no,no,no
+437,Bogor Selatan,Bogor,5000000000,4,4,216,307,yes,no,no,no,no
+438,Bogor Selatan,Bogor,1450000000,3,3,70,85,yes,no,no,no,no
+439,Bojonggede,Bogor,970000000,4,2,60,120,yes,no,no,no,no
+440,Bojonggede,Bogor,407000000,2,1,63,39,no,yes,yes,no,no
+441,Bojonggede,Bogor,590000000,3,2,84,70,no,yes,yes,no,no
+442,Bojonggede,Bogor,1040000000,3,1,66,75,no,yes,yes,no,no
+443,Bojonggede,Bogor,810000000,2,1,136,36,yes,no,no,no,no
+444,Bojonggede,Bogor,910000000,2,2,90,130,yes,no,no,no,no
+445,Bojonggede,Bogor,810000000,2,1,136,36,yes,no,no,no,no
+446,Bojonggede,Bogor,650000000,3,2,136,36,no,no,no,no,no
+447,Bojonggede,Bogor,1500000000,4,2,140,200,no,no,no,no,no
+448,Bojonggede,Bogor,1100000000,3,1,119,90,no,no,yes,no,no
+449,Bojonggede,Bogor,970000000,4,2,60,120,yes,no,no,no,no
+450,Bojonggede,Bogor,571000000,2,1,60,36,yes,no,yes,no,no
+451,Bogor Selatan,Bogor,2000000000,2,1,100,80,no,no,yes,no,no
+452,Bogor Selatan,Bogor,2000000000,2,1,100,80,no,no,yes,no,no
+453,Cibinong,Bogor,490000000,2,1,60,60,yes,no,no,no,no
+454,Cibinong,Bogor,610000000,2,1,72,41,no,yes,yes,no,no
+455,Cibinong,Bogor,710000000,2,1,65,55,no,yes,yes,no,no
+456,Cibinong,Bogor,750000000,2,1,84,60,no,no,no,no,no
+457,Cibinong,Bogor,810000000,2,1,105,45,yes,no,no,no,no
+458,Cibinong,Bogor,1830000000,3,2,91,84,yes,no,no,no,no
+459,Cibinong,Bogor,810000000,2,1,172,65,yes,no,no,no,no
+460,Cibinong,Bogor,510000000,2,1,60,60,no,no,no,no,no
+461,Cibinong,Bogor,1400000000,3,3,160,200,no,yes,yes,no,no
+462,Cibinong,Bogor,910000000,3,2,100,100,no,no,no,no,no
+463,Cibinong,Bogor,650000000,3,2,72,90,yes,no,no,no,no
+464,Cibinong,Bogor,1180000000,3,2,144,144,yes,no,no,no,no
+465,Cibinong,Bogor,610000000,2,1,72,41,no,yes,yes,no,no
+466,Cibinong,Bogor,500000000,2,1,60,21,no,no,no,no,no
+467,Cibinong,Bogor,780000000,3,2,90,200,no,yes,yes,no,no
+468,Cibinong,Bogor,490000000,2,1,60,60,yes,no,no,no,no
+469,Cibinong,Bogor,1560000000,8,4,185,120,yes,no,no,no,no
+470,Cibinong,Bogor,1340000000,3,2,131,76,yes,no,no,no,no
+471,Cibinong,Bogor,1340000000,3,2,131,76,yes,no,no,no,no
+472,Cibinong,Bogor,590000000,2,1,64,64,yes,no,no,no,no
+473,Cibinong,Bogor,650000000,2,1,90,90,yes,no,no,no,no
+474,Cibinong,Bogor,1400000000,2,3,109,130,yes,no,no,no,no
+475,Cibinong,Bogor,470000000,2,2,60,60,yes,no,no,no,no
+476,Cibinong,Bogor,1350000000,3,3,147,126,yes,no,no,no,no
+477,Cibinong,Bogor,710000000,2,1,65,55,yes,no,no,no,no
+478,Cibinong,Bogor,624000000,2,1,115,45,no,no,no,no,no
+479,Cibinong,Bogor,450000000,3,1,60,120,no,no,no,no,no
+480,Cibinong,Bogor,750000000,3,1,84,84,no,no,no,no,no
+481,Cibinong,Bogor,650000000,3,2,80,160,no,no,no,no,no
+482,Cibinong,Bogor,640000000,3,2,60,120,yes,no,no,no,no
+483,Cibinong,Bogor,1560000000,3,2,91,84,yes,no,no,no,no
+484,Cibinong,Bogor,700000000,2,1,78,48,yes,no,no,no,no
+485,Cibinong,Bogor,590000000,2,1,72,38,yes,no,no,no,no
+486,Cibinong,Bogor,910000000,2,1,90,66,yes,no,no,no,no
+487,Cibinong,Bogor,1290000000,2,1,90,45,yes,no,no,no,no
+488,Cibinong,Bogor,1190000000,3,2,98,144,yes,no,no,no,no
+489,Cibinong,Bogor,1080000000,3,2,84,84,no,no,yes,no,no
+490,Cibinong,Bogor,430000000,2,2,72,60,yes,no,no,no,no
+491,Cibinong,Bogor,1400000000,3,3,160,200,no,yes,yes,no,no
+492,Cibinong,Bogor,515000000,2,1,72,63,yes,no,no,no,no
+493,Cibinong,Bogor,954000000,2,3,78,60,yes,no,no,no,no
+494,Cibinong,Bogor,1060000000,4,2,90,120,yes,no,no,no,no
+495,Cibinong,Bogor,948000000,2,1,79,45,no,no,yes,no,no
+496,Cibinong,Bogor,1450000000,3,3,70,85,yes,no,no,no,no
+497,Cibinong,Bogor,610000000,2,1,72,41,yes,yes,no,no,no
+498,Cibinong,Bogor,810000000,2,1,172,65,yes,no,no,no,no
+499,Cibinong,Bogor,1340000000,2,1,217,48,yes,no,no,no,no
+500,Cibinong,Bogor,1830000000,3,2,91,84,yes,no,no,no,no
+501,Cibinong,Bogor,810000000,2,1,105,45,yes,no,no,no,no
+502,Cibinong,Bogor,750000000,2,1,84,60,no,no,no,no,no
+503,Cibinong,Bogor,710000000,2,1,65,55,no,yes,yes,no,no
+504,Cibinong,Bogor,610000000,2,1,72,41,no,yes,yes,no,no
+505,Cibinong,Bogor,1400000000,2,1,210,90,yes,no,no,no,no
+506,Cibinong,Bogor,1180000000,3,2,144,144,yes,no,no,no,no
+507,Cibinong,Bogor,650000000,3,2,72,90,yes,no,no,no,no
+508,Cibinong,Bogor,910000000,3,2,100,100,no,no,no,no,no
+509,Cibinong,Bogor,1400000000,3,3,160,200,no,yes,yes,no,no
+510,Cibinong,Bogor,510000000,2,1,60,60,no,no,no,no,no
+511,Cibinong,Bogor,780000000,3,2,90,200,no,yes,yes,no,no
+512,Cibinong,Bogor,500000000,2,1,60,21,no,no,no,no,no
+513,Cibinong,Bogor,2500000000,20,20,600,600,no,no,yes,no,no
+514,Cigombong,Bogor,425000000,2,1,72,60,no,no,yes,no,no
+515,Sukaraja,Bogor,550000000,3,2,72,66,yes,no,no,no,no
+516,Bogor Barat,Bogor,1000000000,4,3,187,200,yes,no,no,no,no
+517,Ciawi,Bogor,175000000,2,1,60,36,no,no,no,no,no
+518,Ciawi,Bogor,1250000000,2,1,90,54,no,no,yes,no,no
+519,Ciawi,Bogor,580000000,2,1,84,32,no,no,no,yes,no
+520,Ciawi,Bogor,590000000,2,1,72,43,no,no,yes,no,no
+521,Ciawi,Bogor,375000000,2,1,72,68,no,no,no,no,no
+522,Ciawi,Bogor,960000000,2,1,88,88,yes,no,no,no,no
+523,Ciawi,Bogor,610000000,2,1,70,45,yes,no,no,no,no
+524,Ciawi,Bogor,1020000000,2,2,105,90,no,no,no,no,no
+525,Ciawi,Bogor,720000000,2,1,72,50,no,no,no,no,no
+526,Ciawi,Bogor,1900000000,3,4,128,105,no,no,yes,no,no
+527,Ciawi,Bogor,175000000,2,1,60,36,no,no,no,no,no
+528,Ciawi,Bogor,620000000,3,2,84,70,yes,no,no,no,no
+529,Ciawi,Bogor,590000000,2,1,77,52,yes,no,no,no,no
+530,Ciawi,Bogor,909000000,4,3,157,140,yes,no,no,no,no
+531,Ciawi,Bogor,2040000000,5,2,150,150,no,no,no,no,no
+532,Ciawi,Bogor,1880000000,5,2,120,200,no,no,no,no,no
+533,Ciawi,Bogor,680000000,2,2,90,42,no,no,yes,no,no
+534,Ciawi,Bogor,870000000,4,2,90,130,yes,no,no,no,no
+535,Ciawi,Bogor,1180000000,3,2,160,150,yes,no,no,no,no
+536,Ciawi,Bogor,750000000,5,2,115,115,yes,no,no,no,no
+537,Ciawi,Bogor,540000000,2,1,72,72,yes,no,no,no,no
+538,Ciawi,Bogor,810000000,3,1,77,105,yes,no,no,no,no
+539,Ciawi,Bogor,1340000000,3,2,105,69,no,no,no,no,no
+540,Ciawi,Bogor,1070000000,2,1,105,70,yes,no,no,no,no
+541,Ciawi,Bogor,540000000,2,1,72,50,yes,no,no,no,no
+542,Ciawi,Bogor,1340000000,3,2,105,69,no,no,yes,no,no
+543,Ciawi,Bogor,2470000000,3,1,128,160,yes,no,no,no,no
+544,Ciawi,Bogor,650000000,2,2,96,50,yes,no,no,no,no
+545,Ciawi,Bogor,610000000,2,1,70,45,yes,no,no,no,no
+546,Ciawi,Bogor,960000000,2,1,88,88,yes,no,no,no,no
+547,Ciawi,Bogor,375000000,2,1,72,68,no,no,no,no,no
+548,Ciawi,Bogor,590000000,2,1,72,43,no,no,yes,no,no
+549,Ciawi,Bogor,580000000,2,1,84,32,no,no,no,yes,no
+550,Ciawi,Bogor,1250000000,2,1,90,54,no,no,yes,no,no
+551,Ciawi,Bogor,1900000000,3,4,128,105,no,no,yes,no,no
+552,Ciawi,Bogor,720000000,2,1,72,50,no,no,no,no,no
+553,Ciawi,Bogor,3120000000,3,2,261,150,yes,no,no,no,no
+554,Ciawi,Bogor,1020000000,2,2,105,90,no,no,no,no,no
+555,Bogor Utara,Bogor,725000000,2,1,120,54,yes,no,no,no,no
+556,Bogor Utara,Bogor,600000000,2,1,120,54,yes,no,yes,no,no
+557,Bogor Utara,Bogor,600000000,2,1,120,54,yes,no,yes,no,no
+558,Ciomas,Bogor,300000000,2,1,84,38,yes,no,no,no,no
+559,Ciomas,Bogor,540000000,2,1,72,42,no,no,yes,no,no
+560,Ciseeng,Bogor,500000000,2,1,84,50,yes,no,yes,no,no
+561,Citeureup,Bogor,550000000,2,1,77,45,yes,no,yes,no,no
+562,Bogor Barat,Bogor,1720000000,5,3,165,100,no,no,yes,no,no
+563,Bogor Barat,Bogor,1440000000,4,3,126,180,no,no,no,no,no
+564,Bogor Barat,Bogor,1720000000,5,3,165,100,no,no,yes,no,no
+565,Dramaga,Bogor,930000000,3,3,61,60,yes,no,no,no,no
+566,Dramaga,Bogor,1800000000,9,9,61,136,no,no,yes,no,no
+567,Dramaga,Bogor,1800000000,9,9,61,136,no,no,yes,no,no
+568,Dramaga,Bogor,930000000,3,3,61,60,yes,no,no,no,no
+569,Megamendung,Bogor,10000000000,8,6,2616,900,yes,no,no,no,no
+570,Gunung Putri,Bogor,695000000,3,1,112,75,no,no,no,no,no
+571,Gunung Putri,Bogor,1880000000,5,2,120,200,no,no,yes,no,no
+572,Gunung Putri,Bogor,1500000000,4,3,105,122,no,no,yes,no,no
+573,Gunung Putri,Bogor,2040000000,5,3,150,150,no,no,yes,no,no
+574,Gunung Putri,Bogor,2680000000,3,4,200,198,no,no,no,no,no
+575,Gunung Putri,Bogor,540000000,2,1,66,66,no,no,no,no,no
+576,Gunung Putri,Bogor,1680000000,3,2,136,75,yes,no,no,no,no
+577,Gunung Putri,Bogor,1050000000,4,3,90,140,no,no,yes,no,no
+578,Gunung Putri,Bogor,1930000000,3,3,160,108,yes,no,no,no,no
+579,Gunung Putri,Bogor,400000000,2,1,78,55,no,no,yes,no,no
+580,Gunung Putri,Bogor,695000000,3,1,112,75,no,no,no,no,no
+581,Gunung Putri,Bogor,970000000,3,1,96,70,yes,no,no,no,no
+582,Gunung Putri,Bogor,1400000000,3,2,72,144,yes,no,no,no,no
+583,Gunung Putri,Bogor,1200000000,2,2,104,60,no,no,no,no,no
+584,Gunung Putri,Bogor,1400000000,3,2,72,144,no,no,yes,no,no
+585,Gunung Putri,Bogor,810000000,2,1,105,45,no,no,yes,no,no
+586,Gunung Putri,Bogor,1240000000,3,1,150,91,yes,no,no,no,no
+587,Gunung Putri,Bogor,1400000000,2,2,119,100,yes,no,no,no,no
+588,Gunung Putri,Bogor,1680000000,3,2,186,110,no,no,yes,no,no
+589,Gunung Putri,Bogor,710000000,2,1,84,40,no,no,yes,no,no
+590,Gunung Putri,Bogor,850000000,2,1,166,45,no,no,no,no,no
+591,Gunung Putri,Bogor,1500000000,5,3,105,136,yes,no,no,no,no
+592,Gunung Putri,Bogor,1270000000,2,1,170,70,no,no,no,no,no
+593,Gunung Putri,Bogor,299000000,2,1,30,30,no,no,yes,no,no
+594,Gunung Putri,Bogor,910000000,3,1,150,100,no,yes,yes,no,no
+595,Gunung Putri,Bogor,1980000000,4,3,136,105,yes,no,no,no,no
+596,Gunung Putri,Bogor,720000000,2,1,72,50,no,no,yes,no,no
+597,Gunung Putri,Bogor,3120000000,3,2,261,150,yes,no,no,no,no
+598,Gunung Putri,Bogor,1700000000,3,3,120,120,yes,no,no,no,no
+599,Gunung Putri,Bogor,940000000,3,4,108,140,yes,no,no,no,no
+600,Gunung Putri,Bogor,1940000000,5,5,143,250,no,no,no,no,no
+601,Gunung Putri,Bogor,1350000000,3,2,90,110,no,no,no,no,no
+602,Gunung Putri,Bogor,450000000,3,3,80,80,no,no,no,no,no
+603,Gunung Putri,Bogor,540000000,2,1,66,66,no,no,no,no,no
+604,Gunung Putri,Bogor,2680000000,3,4,200,198,no,no,no,no,no
+605,Gunung Putri,Bogor,2040000000,5,3,150,150,no,no,yes,no,no
+606,Gunung Putri,Bogor,1680000000,3,2,136,75,yes,no,no,no,no
+607,Gunung Putri,Bogor,1930000000,3,3,160,108,yes,no,no,no,no
+608,Gunung Sindur,Bogor,1400000000,3,2,105,55,no,no,no,no,no
+609,Gunung Sindur,Bogor,940000000,2,2,65,85,yes,no,no,no,no
+610,Gunung Sindur,Bogor,590000000,2,1,66,36,yes,no,no,no,no
+611,Gunung Sindur,Bogor,1070000000,3,2,81,51,no,no,no,no,no
+612,Gunung Sindur,Bogor,735000000,3,2,100,54,no,no,yes,no,no
+613,Gunung Sindur,Bogor,1400000000,3,2,105,55,no,no,no,no,no
+614,Gunung Sindur,Bogor,1290000000,3,4,120,144,yes,no,no,no,no
+615,Gunung Sindur,Bogor,1290000000,3,4,120,144,yes,no,no,no,no
+616,Gunung Sindur,Bogor,1290000000,3,4,120,144,yes,no,no,no,no
+617,Gunung Sindur,Bogor,1180000000,3,3,120,98,yes,no,no,no,no
+618,Gunung Sindur,Bogor,746000000,3,1,78,100,no,no,no,no,no
+619,Gunung Sindur,Bogor,300000000,2,1,80,45,no,no,no,no,no
+620,Gunung Sindur,Bogor,980000000,3,2,95,70,no,no,no,no,no
+621,Gunung Sindur,Bogor,970000000,2,3,98,60,yes,no,no,no,no
+622,Gunung Sindur,Bogor,970000000,2,3,98,60,yes,no,no,no,no
+623,Gunung Sindur,Bogor,1610000000,2,2,200,160,yes,no,no,no,no
+624,Gunung Sindur,Bogor,1020000000,4,2,144,64,yes,no,no,no,no
+625,Gunung Sindur,Bogor,2250000000,3,2,126,115,yes,no,no,no,no
+626,Gunung Sindur,Bogor,700000000,2,1,78,50,no,yes,yes,no,no
+627,Gunung Sindur,Bogor,680000000,2,2,86,56,yes,no,no,no,no
+628,Gunung Sindur,Bogor,700000000,2,1,78,50,yes,no,no,no,no
+629,Gunung Sindur,Bogor,550000000,2,1,72,45,yes,no,no,no,no
+630,Gunung Sindur,Bogor,1720000000,2,1,60,56,no,no,no,no,no
+631,Gunung Sindur,Bogor,550000000,2,1,72,45,no,no,no,no,no
+632,Gunung Sindur,Bogor,1130000000,3,2,120,55,yes,no,no,no,no
+633,Gunung Sindur,Bogor,1650000000,2,2,60,65,no,yes,yes,no,no
+634,Gunung Sindur,Bogor,1650000000,2,2,60,65,no,yes,yes,no,no
+635,Gunung Sindur,Bogor,910000000,2,1,60,36,no,no,no,no,no
+636,Gunung Sindur,Bogor,1400000000,2,2,50,60,no,no,no,no,no
+637,Gunung Sindur,Bogor,1070000000,3,2,81,51,no,no,no,no,no
+638,Gunung Sindur,Bogor,590000000,2,1,66,36,yes,no,no,no,no
+639,Gunung Sindur,Bogor,940000000,2,2,65,85,yes,no,no,no,no
+640,Jonggol,Bogor,325000000,1,1,114,37,no,no,yes,no,no
+641,Jonggol,Bogor,400000000,2,1,120,42,no,no,no,no,no
+642,Jonggol,Bogor,700000000,2,1,114,50,yes,no,no,no,no
+643,Jonggol,Bogor,325000000,1,1,114,37,no,no,yes,no,no
+644,Bogor Timur,Bogor,970000000,2,1,75,42,yes,no,no,no,no
+645,Bogor Utara,Bogor,820000000,2,1,78,54,yes,no,no,no,no
+646,Bojonggede,Bogor,1500000000,5,2,104,180,yes,no,yes,no,no
+647,Bojonggede,Bogor,1500000000,5,2,104,180,yes,no,yes,no,no
+648,Kemang,Bogor,1950000000,3,3,374,75,no,no,yes,no,no
+649,Gunung Putri,Bogor,1180000000,4,2,121,158,no,no,no,no,no
+650,Gunung Putri,Bogor,2040000000,5,2,150,150,yes,no,no,no,no
+651,Gunung Putri,Bogor,1880000000,5,2,120,200,no,no,no,no,no
+652,Gunung Putri,Bogor,2090000000,3,2,128,107,no,no,yes,no,no
+653,Gunung Putri,Bogor,2090000000,2,2,128,107,no,no,no,no,no
+654,Gunung Putri,Bogor,1250000000,2,1,90,54,no,no,no,no,no
+655,Gunung Putri,Bogor,1880000000,4,3,120,200,no,no,yes,no,no
+656,Gunung Putri,Bogor,1880000000,5,2,120,200,no,no,no,no,no
+657,Gunung Putri,Bogor,2040000000,5,2,150,150,yes,no,no,no,no
+658,Gunung Putri,Bogor,1180000000,4,2,121,158,no,no,no,no,no
+659,Gunung Putri,Bogor,1400000000,3,2,72,144,no,no,no,no,no
+660,Gunung Putri,Bogor,650000000,2,1,90,72,no,no,no,no,no
+661,Gunung Putri,Bogor,2500000000,4,1,170,90,no,no,yes,no,no
+662,Gunung Putri,Bogor,1820000000,3,3,120,200,no,no,yes,no,no
+663,Gunung Putri,Bogor,1020000000,2,2,105,90,no,no,no,no,no
+664,Gunung Putri,Bogor,1730000000,3,3,105,102,no,no,yes,no,no
+665,Gunung Putri,Bogor,1930000000,3,3,160,108,no,no,no,no,no
+666,Gunung Putri,Bogor,670000000,2,2,84,50,no,no,no,no,no
+667,Gunung Putri,Bogor,810000000,2,1,105,45,no,no,no,no,no
+668,Gunung Putri,Bogor,1670000000,3,3,90,140,no,no,yes,no,no
+669,Gunung Putri,Bogor,830000000,2,1,105,90,no,no,no,no,no
+670,Gunung Putri,Bogor,2680000000,3,4,200,198,yes,no,no,no,no
+671,Gunung Putri,Bogor,1900000000,3,4,128,105,yes,no,no,no,no
+672,Gunung Putri,Bogor,1140000000,2,2,114,71,no,no,yes,no,no
+673,Gunung Putri,Bogor,1820000000,3,2,128,110,yes,no,no,no,no
+674,Gunung Putri,Bogor,1070000000,2,1,105,70,yes,no,no,no,no
+675,Gunung Putri,Bogor,590000000,2,1,72,43,no,no,no,no,no
+676,Gunung Putri,Bogor,1340000000,3,2,105,69,no,no,no,no,no
+677,Gunung Putri,Bogor,2090000000,3,2,128,107,no,no,yes,no,no
+678,Gunung Putri,Bogor,1880000000,4,3,120,200,no,no,yes,no,no
+679,Gunung Putri,Bogor,1250000000,2,1,90,54,no,no,no,no,no
+680,Gunung Putri,Bogor,2090000000,2,2,128,107,no,no,no,no,no
+681,Gunung Putri,Bogor,1980000000,4,3,136,105,yes,no,no,no,no
+682,Bogor Timur,Bogor,8000000000,3,2,813,211,yes,no,yes,no,no
+683,Bogor Selatan,Bogor,1450000000,3,3,70,85,yes,no,no,no,no
+684,Parung,Bogor,650000000,2,1,90,90,yes,no,no,no,no
+685,Parung Panjang,Bogor,1200000000,4,4,70,101,yes,no,no,no,no
+686,Parung Panjang,Bogor,540000000,2,1,72,36,yes,no,no,no,no
+687,Parung Panjang,Bogor,1200000000,4,4,70,101,yes,no,no,no,no
+688,Parung Panjang,Bogor,425000000,2,1,72,39,no,no,no,no,no
+689,Parung Panjang,Bogor,649000000,2,1,72,39,yes,no,no,no,no
+690,Parung Panjang,Bogor,540000000,2,1,72,39,yes,no,no,no,no
+691,Parung Panjang,Bogor,540000000,2,1,72,39,yes,no,no,no,no
+692,Parung Panjang,Bogor,540000000,2,1,70,39,yes,no,no,no,no
+693,Parung Panjang,Bogor,540000000,2,1,70,39,yes,no,no,no,no
+694,Parung Panjang,Bogor,540000000,2,1,72,36,yes,no,no,no,no
+695,Cisarua,Bogor,1450000000,3,3,70,85,yes,no,no,no,no
+696,Bogor Selatan,Bogor,730000000,2,1,72,50,yes,no,no,no,no
+697,Bogor Selatan,Bogor,730000000,2,1,72,50,yes,no,no,no,no
+698,Bogor Selatan,Bogor,1450000000,2,2,141,110,no,no,no,no,no
+699,Bogor Selatan,Bogor,1140000000,2,1,105,52,no,yes,yes,no,no
+700,Bogor Selatan,Bogor,1450000000,2,2,141,110,no,no,no,no,no
+701,Bogor Selatan,Bogor,730000000,2,1,72,50,yes,no,no,no,no
+702,Bogor Selatan,Bogor,1020000000,2,1,85,80,no,no,no,no,no
+703,Bogor Selatan,Bogor,1450000000,3,2,108,69,no,no,yes,no,no
+704,Bogor Selatan,Bogor,650000000,2,2,90,60,no,no,no,no,no
+705,Bogor Selatan,Bogor,1610000000,3,2,126,85,no,no,no,no,no
+706,Bogor Selatan,Bogor,540000000,3,1,72,45,no,no,no,no,no
+707,Bogor Selatan,Bogor,4900000000,4,4,542,179,yes,no,no,no,no
+708,Bogor Selatan,Bogor,1290000000,2,2,76,53,no,no,no,no,no
+709,Bogor Selatan,Bogor,1140000000,5,3,108,135,no,no,yes,no,no
+710,Bogor Selatan,Bogor,1290000000,4,3,100,97,no,no,no,no,no
+711,Bogor Selatan,Bogor,1140000000,2,1,105,52,no,yes,yes,no,no
+712,Babakan Madang,Bogor,1050000000,3,2,84,89,yes,no,yes,no,no
+713,Babakan Madang,Bogor,790000000,3,2,81,75,yes,no,yes,no,no
+714,Babakan Madang,Bogor,1400000000,3,2,96,102,yes,no,no,no,no
+715,Babakan Madang,Bogor,890000000,3,3,84,120,yes,no,no,no,no
+716,Babakan Madang,Bogor,860000000,2,1,72,54,yes,no,no,no,no
+717,Babakan Madang,Bogor,730000000,2,1,72,50,no,no,no,no,no
+718,Babakan Madang,Bogor,1020000000,4,2,90,45,no,no,no,no,no
+719,Babakan Madang,Bogor,650000000,3,2,72,90,no,no,no,no,no
+720,Babakan Madang,Bogor,1560000000,3,2,91,84,no,no,no,no,no
+721,Babakan Madang,Bogor,2200000000,3,3,140,200,no,no,no,no,no
+722,Babakan Madang,Bogor,950000000,2,1,90,100,no,no,yes,no,no
+723,Babakan Madang,Bogor,1450000000,3,3,70,85,yes,no,no,no,no
+724,Babakan Madang,Bogor,1220000000,3,2,90,110,yes,no,no,no,no
+725,Babakan Madang,Bogor,1450000000,3,3,70,85,yes,no,no,no,no
+726,Babakan Madang,Bogor,950000000,3,2,90,150,yes,no,no,no,no
+727,Babakan Madang,Bogor,2950000000,3,3,400,125,no,no,yes,no,no
+728,Babakan Madang,Bogor,4500000000,4,5,303,350,yes,no,no,yes,no
+729,Babakan Madang,Bogor,12500000000,5,7,1610,500,no,no,yes,yes,no
+730,Babakan Madang,Bogor,730000000,2,1,72,50,yes,no,no,no,no
+731,Babakan Madang,Bogor,1160000000,3,2,151,81,yes,no,no,no,no
+732,Babakan Madang,Bogor,4800000000,4,4,478,400,no,no,no,yes,no
+733,Babakan Madang,Bogor,1050000000,3,2,84,89,yes,no,yes,no,no
+734,Babakan Madang,Bogor,1400000000,3,2,96,102,yes,no,no,no,no
+735,Babakan Madang,Bogor,1400000000,3,3,168,214,yes,no,no,no,no
+736,Bogor Barat,Bogor,1120000000,2,1,135,50,yes,no,no,no,no
+737,Sukaraja,Bogor,1350000000,3,3,147,126,yes,no,no,no,no
+738,Sukaraja,Bogor,2100000000,2,1,112,98,no,no,no,no,no
+739,Sukaraja,Bogor,400000000,2,1,91,40,no,no,yes,no,no
+740,Sukaraja,Bogor,1350000000,3,3,147,126,yes,no,no,no,no
+741,Sukaraja,Bogor,620000000,2,1,82,40,yes,no,no,no,no
+742,Sukaraja,Bogor,1350000000,3,3,147,126,yes,no,no,no,no
+743,Sukaraja,Bogor,890000000,2,1,84,51,yes,no,no,no,no
+744,Sukaraja,Bogor,750000000,2,1,91,47,yes,no,no,no,no
+745,Sukaraja,Bogor,810000000,3,2,101,45,yes,no,no,no,no
+746,Sukaraja,Bogor,810000000,3,2,101,45,yes,no,no,no,no
+747,Sukaraja,Bogor,790000000,2,2,78,60,yes,no,no,no,no
+748,Sukaraja,Bogor,1500000000,2,2,103,55,no,no,yes,no,no
+749,Sukaraja,Bogor,1500000000,2,2,103,55,no,no,yes,no,no
+750,Sukaraja,Bogor,2100000000,2,1,112,98,no,no,no,no,no
+751,Bogor Timur,Bogor,1590000000,2,2,72,73,no,no,no,no,no
+752,Cijeruk,Bogor,750000000,2,1,75,45,yes,no,no,no,no
+753,Cijeruk,Bogor,590000000,2,1,84,36,yes,no,no,no,no
+754,Bogor Utara,Bogor,1700000000,5,3,114,100,no,no,yes,no,no
+755,Bogor Utara,Bogor,1700000000,5,3,114,100,no,no,yes,no,no
+756,Tanah Sareal,Bogor,590000000,2,1,72,46,no,no,yes,no,no
+757,Tanah Sareal,Bogor,500000000,2,1,72,39,no,yes,yes,no,no
+758,Tanah Sareal,Bogor,890000000,2,1,90,45,yes,yes,no,no,no
+759,Tanah Sareal,Bogor,730000000,2,2,65,115,yes,no,no,no,no
+760,Tanah Sareal,Bogor,730000000,2,2,65,115,yes,no,no,no,no
+761,Tanah Sareal,Bogor,535000000,2,1,87,45,yes,no,no,no,no
+762,Tanah Sareal,Bogor,1710000000,4,2,166,104,yes,no,no,no,no
+763,Tanah Sareal,Bogor,535000000,2,1,84,38,yes,no,no,no,no
+764,Tanah Sareal,Bogor,750000000,2,1,104,36,no,no,yes,no,no
+765,Tanah Sareal,Bogor,1350000000,3,2,180,140,no,no,yes,no,no
+766,Tanah Sareal,Bogor,650000000,2,1,72,46,yes,no,no,no,no
+767,Tanah Sareal,Bogor,590000000,2,1,72,46,no,no,yes,no,no
+768,Tanah Sareal,Bogor,1500000000,4,3,150,167,yes,no,no,no,no
+769,Tanah Sareal,Bogor,730000000,2,2,65,115,yes,no,no,no,no
+770,Tanah Sareal,Bogor,2140000000,3,2,193,170,yes,no,no,no,no
+771,Tanah Sareal,Bogor,990000000,4,2,73,88,yes,no,no,no,no
+772,Tanah Sareal,Bogor,860000000,2,1,72,54,no,no,no,no,no
+773,Tanah Sareal,Bogor,950000000,2,2,84,48,yes,no,no,no,no
+774,Tanah Sareal,Bogor,850000000,2,1,88,52,yes,no,no,no,no
+775,Tanah Sareal,Bogor,1020000000,3,1,78,94,yes,no,no,no,no
+776,Tanah Sareal,Bogor,780000000,2,2,108,90,yes,no,no,no,no
+777,Tanah Sareal,Bogor,750000000,1,1,105,80,yes,no,no,no,no
+778,Tanah Sareal,Bogor,2140000000,3,2,193,170,yes,no,no,no,no
+779,Tanah Sareal,Bogor,860000000,4,3,93,143,yes,no,no,no,no
+780,Tanah Sareal,Bogor,1980000000,4,3,180,200,yes,no,no,no,no
+781,Tanah Sareal,Bogor,275000000,2,1,72,50,no,no,yes,no,no
+782,Tanah Sareal,Bogor,810000000,2,1,90,60,yes,no,no,no,no
+783,Tanah Sareal,Bogor,750000000,2,1,98,48,yes,no,no,no,no
+784,Tanah Sareal,Bogor,820000000,2,1,78,54,no,yes,yes,no,no
+785,Tanah Sareal,Bogor,620000000,2,1,82,40,no,no,no,no,no
+786,Tanah Sareal,Bogor,909000000,3,2,72,100,yes,no,no,no,no
+787,Tanah Sareal,Bogor,730000000,2,1,100,63,yes,no,no,no,no
+788,Tanah Sareal,Bogor,1980000000,6,3,120,155,no,yes,yes,no,no
+789,Tanah Sareal,Bogor,1500000000,4,3,150,167,yes,no,no,no,no
+790,Tanah Sareal,Bogor,1020000000,3,1,78,94,yes,no,no,no,no
+791,Tanah Sareal,Bogor,1320000000,3,2,119,64,no,yes,yes,no,no
+792,Tanah Sareal,Bogor,1450000000,3,3,70,85,yes,no,no,no,no
+793,Tanah Sareal,Bogor,780000000,2,1,127,65,yes,no,no,no,no
+794,Tanah Sareal,Bogor,535000000,2,1,84,38,yes,no,no,no,no
+795,Tanah Sareal,Bogor,1710000000,4,2,166,104,yes,no,no,no,no
+796,Tanah Sareal,Bogor,535000000,2,1,87,45,yes,no,no,no,no
+797,Tanah Sareal,Bogor,730000000,2,2,65,115,yes,no,no,no,no
+798,Tanah Sareal,Bogor,890000000,2,1,90,45,yes,yes,no,no,no
+799,Tanah Sareal,Bogor,500000000,2,1,72,39,no,yes,yes,no,no
+800,Tanah Sareal,Bogor,750000000,2,1,104,36,no,no,yes,no,no
+801,Tenjo,Bogor,700000000,2,2,108,105,yes,no,no,no,no
+802,Beji,Depok,1820000000,3,2,72,144,yes,no,no,no,no
+803,Beji,Depok,730000000,2,1,93,45,yes,no,no,no,no
+804,Beji,Depok,1050000000,2,1,90,50,no,no,yes,no,no
+805,Beji,Depok,830000000,2,1,78,45,yes,no,no,no,no
+806,Beji,Depok,1040000000,2,1,95,100,yes,no,no,no,no
+807,Beji,Depok,1180000000,3,3,76,70,yes,no,no,no,no
+808,Beji,Depok,1040000000,2,1,95,100,no,no,no,no,no
+809,Beji,Depok,1780000000,5,4,101,140,no,no,yes,no,no
+810,Beji,Depok,1500000000,3,2,108,189,yes,no,no,no,no
+811,Beji,Depok,4020000000,3,2,123,180,yes,no,no,no,no
+812,Beji,Depok,2950000000,5,4,135,200,yes,no,no,no,no
+813,Beji,Depok,540000000,2,1,75,36,yes,no,no,no,no
+814,Beji,Depok,1720000000,3,2,128,70,no,no,no,no,no
+815,Beji,Depok,1400000000,3,3,160,190,yes,no,no,no,no
+816,Beji,Depok,970000000,2,2,100,95,no,no,no,no,no
+817,Beji,Depok,650000000,2,1,77,36,no,no,no,no,no
+818,Beji,Depok,1630000000,3,2,90,62,no,no,yes,no,no
+819,Beji,Depok,819000000,2,1,72,36,no,no,no,no,no
+820,Beji,Depok,1400000000,4,3,105,115,no,no,no,no,no
+821,Beji,Depok,900000000,2,1,60,75,no,no,yes,no,no
+822,Beji,Depok,1790000000,3,2,98,130,no,no,no,no,no
+823,Beji,Depok,400000000,2,1,60,40,yes,no,no,no,no
+824,Beji,Depok,1820000000,3,2,124,114,yes,no,no,no,no
+825,Beji,Depok,860000000,3,1,125,100,yes,no,no,no,no
+826,Beji,Depok,1500000000,5,3,135,150,yes,no,no,no,no
+827,Beji,Depok,2240000000,3,4,105,100,yes,no,no,no,no
+828,Beji,Depok,810000000,4,2,60,90,yes,no,no,no,no
+829,Beji,Depok,1100000000,3,2,60,90,yes,no,yes,no,no
+830,Beji,Depok,3550000000,18,18,126,313,yes,no,no,no,no
+831,Beji,Depok,2290000000,10,10,82,210,yes,no,yes,no,no
+832,Beji,Depok,1820000000,3,2,72,144,yes,no,no,no,no
+833,Beji,Depok,730000000,2,1,93,45,yes,no,no,no,no
+834,Beji,Depok,1050000000,2,1,90,50,no,no,yes,no,no
+835,Beji,Depok,2290000000,10,10,82,210,yes,no,no,no,no
+836,Beji,Depok,830000000,2,1,78,45,yes,no,no,no,no
+837,Beji,Depok,1040000000,2,1,95,100,yes,no,no,no,no
+838,Beji,Depok,1180000000,3,3,76,70,yes,no,no,no,no
+839,Beji,Depok,4020000000,3,2,123,180,yes,no,no,no,no
+840,Beji,Depok,2600000000,12,4,312,420,no,no,no,no,no
+841,Beji,Depok,2950000000,5,4,135,200,yes,no,no,no,no
+842,Beji,Depok,540000000,2,1,75,36,yes,no,no,no,no
+843,Beji,Depok,1720000000,3,2,128,70,no,no,no,no,no
+844,Beji,Depok,1400000000,3,3,160,190,yes,no,no,no,no
+845,Beji,Depok,970000000,2,2,100,95,no,no,no,no,no
+846,Bojong Sari,Depok,1220000000,3,2,72,90,yes,no,no,no,no
+847,Bojong Sari,Depok,600000000,2,1,82,39,yes,no,no,no,no
+848,Bojong Sari,Depok,1290000000,3,2,105,120,no,no,no,no,no
+849,Bojong Sari,Depok,772000000,2,2,109,200,no,no,no,yes,no
+850,Bojong Sari,Depok,1220000000,3,2,72,90,yes,no,no,no,no
+851,Bojong Sari,Depok,600000000,2,1,82,39,yes,no,no,no,no
+852,Bojong Sari,Depok,1290000000,3,2,105,120,no,no,no,no,no
+853,Cilodong,Depok,655000000,3,2,48,50,yes,no,no,no,no
+854,Cilodong,Depok,581000000,2,2,43,42,yes,no,no,no,no
+855,Cilodong,Depok,765000000,3,2,72,66,yes,no,yes,no,no
+856,Cilodong,Depok,700000000,2,1,78,36,no,no,no,no,no
+857,Cilodong,Depok,1820000000,4,2,124,39,no,no,no,no,no
+858,Cilodong,Depok,780000000,3,2,60,60,no,no,no,no,no
+859,Cilodong,Depok,780000000,2,1,91,60,no,no,no,no,no
+860,Cilodong,Depok,990000000,3,2,72,90,yes,no,no,no,no
+861,Cilodong,Depok,1490000000,4,3,90,100,no,no,no,no,no
+862,Cilodong,Depok,1340000000,4,3,90,100,yes,no,no,no,no
+863,Cilodong,Depok,920000000,2,2,84,70,yes,no,no,no,no
+864,Cilodong,Depok,1080000000,3,2,72,90,no,no,yes,no,no
+865,Cilodong,Depok,610000000,2,1,72,41,yes,no,no,no,no
+866,Cilodong,Depok,810000000,2,1,172,65,yes,no,no,no,no
+867,Cilodong,Depok,740000000,2,1,84,70,yes,no,no,no,no
+868,Cilodong,Depok,950000000,3,3,75,80,no,no,yes,no,no
+869,Cilodong,Depok,700000000,2,1,72,36,no,no,no,no,no
+870,Cilodong,Depok,1400000000,3,3,160,190,no,no,no,no,no
+871,Cilodong,Depok,627000000,2,1,61,40,no,no,yes,no,no
+872,Cilodong,Depok,1880000000,3,3,160,150,yes,no,no,no,no
+873,Cilodong,Depok,643000000,2,2,45,48,no,yes,yes,no,no
+874,Cilodong,Depok,600000000,2,1,83,54,no,no,yes,no,no
+875,Cilodong,Depok,1160000000,2,1,98,45,yes,no,no,no,no
+876,Cilodong,Depok,800000000,3,2,65,78,yes,no,no,no,no
+877,Cilodong,Depok,600000000,2,1,60,38,yes,no,no,no,no
+878,Cilodong,Depok,895000000,3,2,70,70,yes,no,yes,no,no
+879,Cilodong,Depok,2560000000,3,3,135,91,yes,no,no,no,no
+880,Cilodong,Depok,1490000000,4,3,90,100,no,no,no,no,no
+881,Cilodong,Depok,1490000000,4,3,90,100,no,no,no,no,no
+882,Cilodong,Depok,880000000,2,2,138,84,yes,no,no,no,no
+883,Cilodong,Depok,870000000,2,1,120,38,yes,no,no,no,no
+884,Cilodong,Depok,1070000000,3,2,140,100,yes,no,no,no,no
+885,Cilodong,Depok,1040000000,2,1,98,45,no,no,yes,no,no
+886,Cilodong,Depok,1180000000,4,2,72,144,yes,no,no,no,no
+887,Cilodong,Depok,1580000000,3,2,105,150,yes,no,no,no,no
+888,Cilodong,Depok,750000000,2,1,84,60,yes,no,no,no,no
+889,Cilodong,Depok,581000000,2,2,43,42,yes,no,no,no,no
+890,Cilodong,Depok,765000000,3,2,72,66,yes,no,yes,no,no
+891,Cilodong,Depok,700000000,2,1,78,36,no,no,no,no,no
+892,Cilodong,Depok,1820000000,4,2,124,39,no,no,no,no,no
+893,Cilodong,Depok,780000000,3,2,60,60,no,no,no,no,no
+894,Cilodong,Depok,780000000,2,1,91,60,no,no,no,no,no
+895,Cilodong,Depok,990000000,3,2,72,90,yes,no,no,no,no
+896,Cilodong,Depok,1490000000,4,3,90,100,no,no,no,no,no
+897,Cilodong,Depok,1340000000,4,3,90,100,yes,no,no,no,no
+898,Cilodong,Depok,920000000,2,2,84,70,yes,no,no,no,no
+899,Cilodong,Depok,610000000,2,1,72,41,yes,no,no,no,no
+900,Cilodong,Depok,810000000,2,1,172,65,yes,no,no,no,no
+901,Cilodong,Depok,740000000,2,1,84,70,yes,no,no,no,no
+902,Cimanggis,Depok,1610000000,3,2,131,160,yes,no,no,no,no
+903,Cimanggis,Depok,1340000000,2,1,103,60,yes,no,no,no,no
+904,Cimanggis,Depok,1290000000,3,2,185,100,no,no,no,no,no
+905,Cimanggis,Depok,1130000000,3,3,93,123,yes,no,yes,no,no
+906,Cimanggis,Depok,1500000000,3,3,102,107,no,no,no,no,no
+907,Cimanggis,Depok,1300000000,3,3,150,150,no,no,no,no,no
+908,Cimanggis,Depok,1850000000,3,2,130,121,yes,no,no,no,no
+909,Cimanggis,Depok,1580000000,3,2,105,150,no,no,yes,no,no
+910,Cimanggis,Depok,1070000000,3,2,74,55,yes,no,no,no,no
+911,Cimanggis,Depok,1610000000,3,4,170,120,yes,no,no,no,no
+912,Cimanggis,Depok,810000000,2,2,70,80,yes,no,no,no,no
+913,Cimanggis,Depok,729000000,3,2,67,60,no,yes,yes,no,no
+914,Cimanggis,Depok,1550000000,3,3,199,130,no,no,no,no,no
+915,Cimanggis,Depok,3110000000,4,3,160,156,no,no,yes,no,no
+916,Cimanggis,Depok,1720000000,5,2,104,126,yes,no,no,no,no
+917,Cimanggis,Depok,1930000000,4,1,128,165,yes,no,no,no,no
+918,Cimanggis,Depok,1930000000,3,2,96,180,yes,no,no,no,no
+919,Cimanggis,Depok,1300000000,4,2,137,130,no,no,yes,no,no
+920,Cimanggis,Depok,680000000,4,2,63,63,yes,no,no,no,no
+921,Cimanggis,Depok,1930000000,4,3,106,165,no,no,no,no,no
+922,Cimanggis,Depok,550000000,2,1,61,36,yes,no,yes,no,no
+923,Cimanggis,Depok,2360000000,3,3,128,160,yes,no,no,no,no
+924,Cimanggis,Depok,1070000000,3,3,93,123,yes,no,no,no,no
+925,Cimanggis,Depok,1160000000,2,1,98,45,yes,no,no,no,no
+926,Cimanggis,Depok,750000000,3,1,93,60,yes,no,no,no,no
+927,Cimanggis,Depok,910000000,2,1,90,54,yes,no,no,no,no
+928,Cimanggis,Depok,1200000000,3,3,129,120,no,no,yes,no,no
+929,Cimanggis,Depok,2680000000,4,4,132,120,yes,no,no,no,no
+930,Cimanggis,Depok,730000000,2,1,40,60,yes,no,yes,no,no
+931,Cimanggis,Depok,1620000000,4,2,105,130,yes,no,no,no,no
+932,Cimanggis,Depok,1260000000,3,3,93,123,yes,no,no,no,no
+933,Cimanggis,Depok,1610000000,3,2,131,160,yes,no,no,no,no
+934,Cimanggis,Depok,1340000000,2,1,103,60,yes,no,no,no,no
+935,Cimanggis,Depok,2140000000,2,1,337,70,yes,no,no,no,no
+936,Cimanggis,Depok,1290000000,3,2,185,100,no,no,no,no,no
+937,Cimanggis,Depok,1130000000,3,3,93,123,yes,no,yes,no,no
+938,Cimanggis,Depok,1500000000,3,3,102,107,no,no,no,no,no
+939,Cimanggis,Depok,1610000000,3,4,170,120,yes,no,no,no,no
+940,Cimanggis,Depok,810000000,2,2,70,80,yes,no,no,no,no
+941,Cimanggis,Depok,729000000,3,2,67,60,no,yes,yes,no,no
+942,Cimanggis,Depok,1550000000,3,3,199,130,no,no,no,no,no
+943,Sawangan,Depok,850000000,3,2,96,70,no,no,no,no,no
+944,Cinere,Depok,1700000000,3,3,72,128,no,no,yes,no,no
+945,Cinere,Depok,1610000000,3,2,112,70,no,no,no,no,no
+946,Cinere,Depok,750000000,4,2,91,70,no,no,no,no,no
+947,Cinere,Depok,1360000000,4,2,105,156,yes,no,no,no,no
+948,Cinere,Depok,1850000000,4,3,96,138,no,no,yes,no,no
+949,Cinere,Depok,2400000000,3,4,90,130,no,no,no,no,no
+950,Cinere,Depok,1930000000,3,3,90,170,no,yes,yes,no,no
+951,Cinere,Depok,2300000000,4,3,100,110,yes,no,no,no,no
+952,Cinere,Depok,700000000,3,2,96,80,no,no,no,no,no
+953,Cinere,Depok,1720000000,2,3,90,140,yes,no,no,no,no
+954,Cinere,Depok,1920000000,3,3,117,120,yes,no,no,no,no
+955,Cinere,Depok,2000000000,3,3,72,96,yes,no,no,no,no
+956,Cinere,Depok,1070000000,2,2,40,90,no,no,yes,no,no
+957,Cinere,Depok,1020000000,2,1,84,40,no,no,no,no,no
+958,Cinere,Depok,650000000,2,1,77,36,no,no,no,no,no
+959,Cinere,Depok,4020000000,3,2,123,180,no,no,no,no,no
+960,Cinere,Depok,1950000000,3,2,90,105,no,no,yes,no,no
+961,Cinere,Depok,5000000000,1,1,175,171,no,no,no,no,no
+962,Cinere,Depok,4400000000,3,2,175,180,no,no,no,no,no
+963,Cinere,Depok,5100000000,4,3,175,171,yes,no,no,no,no
+964,Cinere,Depok,1450000000,3,2,104,150,no,no,no,no,no
+965,Cinere,Depok,810000000,4,2,86,86,no,no,no,no,no
+966,Cinere,Depok,1040000000,2,1,95,100,no,no,no,no,no
+967,Cinere,Depok,1720000000,3,2,128,70,no,no,no,no,no
+968,Cinere,Depok,5200000000,4,4,300,400,no,no,no,no,no
+969,Cinere,Depok,3200000000,4,4,180,230,no,no,no,no,no
+970,Cinere,Depok,1830000000,2,2,113,150,no,no,no,no,no
+971,Cinere,Depok,2090000000,2,2,120,83,yes,no,no,no,no
+972,Cinere,Depok,1660000000,3,2,105,89,yes,no,no,no,no
+973,Cinere,Depok,2630000000,4,3,160,170,no,no,no,no,no
+974,Cinere,Depok,1640000000,3,2,60,73,yes,no,no,no,no
+975,Cinere,Depok,950000000,3,3,78,120,yes,no,no,no,no
+976,Cinere,Depok,2500000000,4,2,237,190,no,yes,yes,no,no
+977,Cinere,Depok,3390000000,6,5,480,360,no,no,yes,no,no
+978,Cinere,Depok,1700000000,3,3,72,128,no,no,yes,no,no
+979,Cinere,Depok,1610000000,3,2,112,70,no,no,no,no,no
+980,Cinere,Depok,2350000000,5,4,240,170,no,no,yes,no,no
+981,Cinere,Depok,4000000000,6,6,700,252,no,no,yes,no,no
+982,Cinere,Depok,700000000,3,2,96,80,no,no,no,no,no
+983,Cinere,Depok,1720000000,2,3,90,140,yes,no,no,no,no
+984,Cinere,Depok,1920000000,3,3,117,120,yes,no,no,no,no
+985,Cipayung,Depok,910000000,3,3,78,69,yes,no,no,no,no
+986,Cipayung,Depok,910000000,2,2,108,85,yes,no,no,no,no
+987,Cipayung,Depok,650000000,2,1,72,48,yes,no,no,no,no
+988,Cipayung,Depok,830000000,2,1,45,78,no,no,no,no,no
+989,Cipayung,Depok,1180000000,3,3,76,70,no,no,no,no,no
+990,Pancoran Mas,Depok,490000000,2,1,62,40,yes,no,no,no,no
+991,Pancoran Mas,Depok,730000000,2,1,93,45,no,no,no,no,no
+992,Pancoran Mas,Depok,1400000000,3,3,160,190,no,no,no,no,no
+993,Pancoran Mas,Depok,649000000,3,2,60,120,no,no,yes,no,no
+994,Pancoran Mas,Depok,1880000000,3,3,160,150,no,no,no,no,no
+995,Pancoran Mas,Depok,910000000,3,3,78,69,no,no,no,no,no
+996,Pancoran Mas,Depok,910000000,3,3,78,69,no,no,no,no,no
+997,Pancoran Mas,Depok,195000000,2,1,50,40,yes,yes,no,no,no
+998,Pancoran Mas,Depok,200000000,2,1,50,30,yes,no,yes,no,no
+999,Pancoran Mas,Depok,1500000000,3,2,108,189,yes,no,no,no,no
+1000,Pancoran Mas,Depok,590000000,2,1,84,36,yes,no,no,no,no
+1001,Pancoran Mas,Depok,1400000000,3,2,105,55,yes,no,no,no,no
+1002,Pancoran Mas,Depok,650000000,2,2,72,51,yes,no,no,no,no
+1003,Pancoran Mas,Depok,535000000,2,1,68,36,yes,no,no,no,no
+1004,Pancoran Mas,Depok,1820000000,3,2,72,144,no,no,no,no,no
+1005,Pancoran Mas,Depok,2140000000,4,2,130,196,no,no,no,no,no
+1006,Pancoran Mas,Depok,397000000,2,1,84,36,no,no,yes,no,no
+1007,Pancoran Mas,Depok,750000000,2,1,75,45,yes,no,no,no,no
+1008,Pancoran Mas,Depok,195000000,2,1,50,36,yes,no,no,no,yes
+1009,Pancoran Mas,Depok,195000000,2,1,50,36,yes,no,no,no,yes
+1010,Pancoran Mas,Depok,145000000,2,1,30,30,no,no,no,no,no
+1011,Pancoran Mas,Depok,1230000000,3,2,150,75,yes,no,no,no,no
+1012,Pancoran Mas,Depok,200000000,2,1,50,40,no,no,yes,no,no
+1013,Pancoran Mas,Depok,490000000,2,1,62,40,yes,no,no,no,no
+1014,Pancoran Mas,Depok,730000000,2,1,93,45,no,no,no,no,no
+1015,Pancoran Mas,Depok,1400000000,3,3,160,190,no,no,no,no,no
+1016,Pancoran Mas,Depok,649000000,3,2,60,120,no,no,yes,no,no
+1017,Pancoran Mas,Depok,590000000,2,1,84,36,yes,no,no,no,no
+1018,Pancoran Mas,Depok,1400000000,3,2,105,55,yes,no,no,no,no
+1019,Pancoran Mas,Depok,650000000,2,2,72,51,yes,no,no,no,no
+1020,Pancoran Mas,Depok,535000000,2,1,68,36,yes,no,no,no,no
+1021,Pancoran Mas,Depok,1400000000,2,2,234,60,yes,no,no,no,no
+1022,Cimanggis,Depok,994000000,2,1,78,42,no,no,yes,no,no
+1023,Cimanggis,Depok,1770000000,3,3,87,90,no,no,yes,no,no
+1024,Cimanggis,Depok,756000000,3,2,50,53,yes,no,no,no,no
+1025,Cimanggis,Depok,756000000,3,2,50,53,yes,yes,no,no,no
+1026,Cimanggis,Depok,1100000000,3,2,70,74,yes,no,no,no,no
+1027,Cimanggis,Depok,1300000000,3,3,52,103,yes,no,yes,no,no
+1028,Cimanggis,Depok,1430000000,3,2,52,103,yes,yes,no,no,no
+1029,Cimanggis,Depok,1430000000,3,2,87,107,yes,no,no,no,no
+1030,Cimanggis,Depok,1430000000,3,2,87,107,yes,no,no,no,no
+1031,Cimanggis,Depok,756000000,3,2,50,53,yes,yes,no,no,no
+1032,Beji,Depok,1150000000,4,2,80,138,no,no,yes,no,no
+1033,Limo,Depok,700000000,3,2,96,80,no,no,no,no,no
+1034,Limo,Depok,1820000000,6,5,150,180,no,no,no,no,no
+1035,Limo,Depok,995000000,3,3,100,66,yes,no,no,no,no
+1036,Limo,Depok,590000000,2,1,75,50,yes,no,no,no,no
+1037,Limo,Depok,650000000,2,10,75,45,yes,no,no,no,no
+1038,Limo,Depok,1050000000,3,2,72,110,yes,no,no,no,no
+1039,Limo,Depok,590000000,2,1,72,40,yes,no,no,no,no
+1040,Limo,Depok,613000000,3,2,46,47,yes,no,yes,no,no
+1041,Limo,Depok,780000000,4,1,90,160,no,no,no,no,no
+1042,Limo,Depok,1930000000,2,2,180,100,yes,no,no,no,no
+1043,Limo,Depok,1040000000,2,1,95,100,yes,no,no,no,no
+1044,Limo,Depok,107000000000,2,2,40,90,no,no,no,no,no
+1045,Limo,Depok,750000000,2,1,77,36,yes,no,no,no,no
+1046,Limo,Depok,1640000000,3,2,84,95,yes,no,no,no,no
+1047,Limo,Depok,970000000,2,1,83,83,yes,no,no,no,no
+1048,Limo,Depok,1720000000,3,2,76,130,yes,no,no,no,no
+1049,Limo,Depok,1660000000,3,2,105,89,no,yes,yes,no,no
+1050,Limo,Depok,700000000,3,2,96,80,no,no,no,no,no
+1051,Limo,Depok,1820000000,6,5,150,180,no,no,no,no,no
+1052,Limo,Depok,590000000,2,1,75,50,yes,no,no,no,no
+1053,Limo,Depok,650000000,2,10,75,45,yes,no,no,no,no
+1054,Pancoran Mas,Depok,2610000000,3,4,194,120,yes,no,yes,no,no
+1055,Pancoran Mas,Depok,590000000,2,1,86,60,yes,no,no,no,no
+1056,Pancoran Mas,Depok,2040000000,3,3,150,115,yes,no,no,no,no
+1057,Pancoran Mas,Depok,1140000000,4,2,90,168,yes,no,no,no,no
+1058,Pancoran Mas,Depok,750000000,2,2,91,70,yes,no,no,no,no
+1059,Pancoran Mas,Depok,1050000000,2,1,90,38,no,no,yes,no,no
+1060,Pancoran Mas,Depok,1360000000,3,3,84,88,no,no,no,no,no
+1061,Pancoran Mas,Depok,1340000000,3,2,105,150,yes,no,no,no,no
+1062,Pancoran Mas,Depok,700000000,3,2,83,80,yes,no,no,no,no
+1063,Pancoran Mas,Depok,2610000000,3,4,194,120,yes,no,yes,no,no
+1064,Pancoran Mas,Depok,590000000,2,1,86,60,yes,no,no,no,no
+1065,Pancoran Mas,Depok,2040000000,3,3,150,115,yes,no,no,no,no
+1066,Pancoran Mas,Depok,1140000000,4,2,90,168,yes,no,no,no,no
+1067,Cimanggis,Depok,1300000000,3,3,95,90,no,no,yes,no,no
+1068,Pancoran Mas,Depok,583000000,3,2,40,60,no,no,no,no,no
+1069,Pancoran Mas,Depok,1500000000,5,3,135,150,yes,no,no,no,no
+1070,Pancoran Mas,Depok,2890000000,5,3,123,170,yes,no,no,no,no
+1071,Pancoran Mas,Depok,590000000,2,1,45,72,yes,no,no,no,no
+1072,Pancoran Mas,Depok,1070000000,2,3,133,100,yes,no,no,no,no
+1073,Pancoran Mas,Depok,850000000,2,2,125,100,no,no,yes,no,no
+1074,Pancoran Mas,Depok,1290000000,3,2,105,120,yes,no,no,no,no
+1075,Pancoran Mas,Depok,660000000,2,1,82,50,no,no,no,no,no
+1076,Pancoran Mas,Depok,1250000000,3,3,85,135,no,no,no,no,no
+1077,Pancoran Mas,Depok,2790000000,5,4,171,200,no,no,yes,no,no
+1078,Pancoran Mas,Depok,810000000,4,2,86,86,yes,no,no,no,no
+1079,Pancoran Mas,Depok,860000000,3,1,125,100,yes,no,no,no,no
+1080,Pancoran Mas,Depok,750000000,4,2,91,70,no,no,no,no,no
+1081,Pancoran Mas,Depok,860000000,3,2,78,120,yes,no,no,no,no
+1082,Pancoran Mas,Depok,910000000,2,1,80,72,yes,no,no,no,no
+1083,Pancoran Mas,Depok,1320000000,3,2,72,90,no,no,no,no,no
+1084,Pancoran Mas,Depok,1590000000,3,3,106,150,no,no,no,no,no
+1085,Pancoran Mas,Depok,1190000000,4,3,85,120,no,no,no,no,no
+1086,Pancoran Mas,Depok,960000000,3,3,76,120,no,no,no,no,no
+1087,Pancoran Mas,Depok,1500000000,5,3,135,150,yes,no,no,no,no
+1088,Pancoran Mas,Depok,2890000000,5,3,123,170,yes,no,no,no,no
+1089,Pancoran Mas,Depok,590000000,2,1,45,72,yes,no,no,no,no
+1090,Pancoran Mas,Depok,2790000000,5,4,171,200,no,no,yes,no,no
+1091,Pancoran Mas,Depok,1290000000,3,2,105,120,yes,no,no,no,no
+1092,Pancoran Mas,Depok,660000000,2,1,82,50,no,no,no,no,no
+1093,Pancoran Mas,Depok,810000000,4,2,86,86,yes,no,no,no,no
+1094,Pancoran Mas,Depok,895000000,3,3,50,90,no,no,no,no,no
+1095,Pancoran Mas,Depok,1300000000,3,2,83,154,yes,no,no,no,no
+1096,Sawangan,Depok,1190000000,3,3,72,140,no,no,no,no,no
+1097,Sawangan,Depok,210000000,3,1,60,30,no,no,yes,no,no
+1098,Sawangan,Depok,1640000000,3,2,84,95,yes,no,no,no,no
+1099,Sawangan,Depok,1610000000,3,2,105,80,yes,no,no,no,no
+1100,Sawangan,Depok,414000000,2,1,82,40,no,no,yes,no,no
+1101,Sawangan,Depok,500000000,2,1,81,45,yes,no,no,no,no
+1102,Sawangan,Depok,1070000000,2,3,133,100,yes,no,no,no,no
+1103,Sawangan,Depok,1290000000,2,2,78,60,yes,no,no,no,no
+1104,Sawangan,Depok,650000000,2,1,84,69,no,no,no,no,no
+1105,Sawangan,Depok,590000000,2,1,45,72,no,no,no,no,no
+1106,Sawangan,Depok,505000000,2,1,45,70,no,no,yes,no,no
+1107,Sawangan,Depok,850000000,3,2,76,65,yes,no,no,no,no
+1108,Sawangan,Depok,1070000000,2,3,133,100,yes,no,no,no,no
+1109,Sawangan,Depok,700000000,2,1,67,36,no,no,no,no,no
+1110,Sawangan,Depok,1610000000,3,3,200,150,no,no,no,no,no
+1111,Sawangan,Depok,550000000,2,1,66,45,yes,no,no,no,no
+1112,Sawangan,Depok,860000000,3,2,72,70,yes,no,no,no,no
+1113,Sawangan,Depok,2470000000,3,1,128,144,yes,no,no,no,no
+1114,Sawangan,Depok,860000000,2,1,84,69,no,no,no,no,no
+1115,Sawangan,Depok,650000000,3,1,115,81,no,no,yes,no,no
+1116,Sawangan,Depok,485000000,2,1,60,45,yes,yes,no,no,yes
+1117,Sawangan,Depok,1400000000,3,2,105,55,yes,no,no,no,no
+1118,Sawangan,Depok,870000000,2,1,96,70,no,yes,no,no,no
+1119,Sawangan,Depok,2250000000,4,3,150,150,yes,no,no,no,no
+1120,Sawangan,Depok,1020000000,2,2,60,72,yes,no,no,no,no
+1121,Sawangan,Depok,650000000,2,1,86,41,no,no,no,no,no
+1122,Sawangan,Depok,640000000,2,2,87,50,yes,no,no,no,no
+1123,Sawangan,Depok,950000000,2,1,105,84,yes,no,no,no,no
+1124,Sawangan,Depok,500000000,3,2,90,150,no,no,no,no,no
+1125,Sawangan,Depok,210000000,2,1,50,36,yes,no,yes,no,no
+1126,Sawangan,Depok,1530000000,3,3,90,70,yes,no,no,no,no
+1127,Sawangan,Depok,880000000,2,2,172,150,no,no,yes,no,no
+1128,Sawangan,Depok,860000000,2,2,85,50,no,no,no,no,no
+1129,Sawangan,Depok,1290000000,3,2,96,85,no,no,no,no,no
+1130,Sawangan,Depok,1290000000,3,2,80,96,no,no,no,no,no
+1131,Sawangan,Depok,1880000000,3,2,128,81,yes,no,no,no,no
+1132,Sawangan,Depok,1290000000,3,3,160,150,yes,no,no,no,no
+1133,Sawangan,Depok,1180000000,4,3,105,140,yes,yes,no,no,no
+1134,Sawangan,Depok,560000000,2,1,85,50,no,no,yes,no,no
+1135,Sawangan,Depok,1200000000,3,2,480,64,no,no,yes,no,no
+1136,Sawangan,Depok,2000000000,3,3,112,136,yes,no,no,no,no
+1137,Sawangan,Depok,1340000000,3,3,164,104,no,no,yes,no,no
+1138,Sawangan,Depok,1190000000,3,3,72,140,no,no,no,no,no
+1139,Sawangan,Depok,210000000,3,1,60,30,no,no,yes,no,no
+1140,Sawangan,Depok,1640000000,3,2,84,95,yes,no,no,no,no
+1141,Sawangan,Depok,1610000000,3,2,105,80,yes,no,no,no,no
+1142,Sawangan,Depok,414000000,2,1,82,40,no,no,yes,no,no
+1143,Sawangan,Depok,500000000,2,1,81,45,yes,no,no,no,no
+1144,Sawangan,Depok,1070000000,2,3,133,100,yes,no,no,no,no
+1145,Sawangan,Depok,1290000000,2,2,78,60,yes,no,no,no,no
+1146,Sawangan,Depok,650000000,2,1,84,69,no,no,no,no,no
+1147,Sawangan,Depok,2680000000,4,3,340,200,yes,no,no,no,no
+1148,Sawangan,Depok,2470000000,3,1,128,144,yes,no,no,no,no
+1149,Sawangan,Depok,860000000,2,1,84,69,no,no,no,no,no
+1150,Sawangan,Depok,650000000,3,1,115,81,no,no,yes,no,no
+1151,Sawangan,Depok,1400000000,3,2,105,55,yes,no,no,no,no
+1152,Sukmajaya,Depok,1340000000,2,1,120,100,yes,no,no,no,no
+1153,Sukmajaya,Depok,1780000000,3,3,106,150,no,no,yes,no,no
+1154,Sukmajaya,Depok,3110000000,4,3,160,156,no,no,no,no,no
+1155,Sukmajaya,Depok,2360000000,3,3,128,160,no,no,no,no,no
+1156,Sukmajaya,Depok,1400000000,3,2,180,90,no,no,no,no,no
+1157,Sukmajaya,Depok,1290000000,2,1,107,45,no,no,no,no,no
+1158,Sukmajaya,Depok,2560000000,3,3,135,91,no,no,no,no,no
+1159,Sukmajaya,Depok,1290000000,3,2,100,185,no,no,no,no,no
+1160,Sukmajaya,Depok,1250000000,4,3,75,90,yes,no,no,no,no
+1161,Sukmajaya,Depok,1400000000,2,1,123,53,yes,no,no,no,no
+1162,Sukmajaya,Depok,990000000,3,2,85,66,yes,no,no,no,no
+1163,Sukmajaya,Depok,1740000000,3,2,172,170,yes,yes,no,no,no
+1164,Sukmajaya,Depok,1930000000,4,3,106,165,no,no,no,no,no
+1165,Sukmajaya,Depok,1070000000,4,3,75,90,no,no,no,no,no
+1166,Sukmajaya,Depok,1560000000,4,3,135,115,yes,no,no,no,no
+1167,Sukmajaya,Depok,1340000000,2,1,120,100,yes,no,no,no,no
+1168,Sukmajaya,Depok,1780000000,3,3,106,150,no,no,yes,no,no
+1169,Sukmajaya,Depok,3110000000,4,3,160,156,no,no,no,no,no
+1170,Sukmajaya,Depok,2360000000,3,3,128,160,no,no,no,no,no
+1171,Sukmajaya,Depok,1400000000,3,2,180,90,no,no,no,no,no
+1172,Sukmajaya,Depok,1290000000,2,1,107,45,no,no,no,no,no
+1173,Sukmajaya,Depok,2560000000,3,3,135,91,no,no,no,no,no
+1174,Sukmajaya,Depok,1290000000,3,2,100,185,no,no,no,no,no
+1175,Beji,Depok,1280000000,3,2,90,125,yes,no,yes,no,no
+1176,Tapos,Depok,1290000000,3,2,105,80,no,no,yes,no,no
+1177,Tapos,Depok,700000000,2,1,78,36,yes,no,no,no,no
+1178,Tapos,Depok,1110000000,3,2,135,90,no,no,yes,no,no
+1179,Tapos,Depok,898000000,3,2,66,74,yes,yes,no,no,no
+1180,Tapos,Depok,830000000,2,1,90,30,yes,no,no,no,no
+1181,Tapos,Depok,575000000,4,1,119,150,no,no,no,no,no
+1182,Tapos,Depok,1020000000,3,2,120,140,yes,no,no,no,no
+1183,Tapos,Depok,880000000,2,1,90,42,no,no,no,no,no
+1184,Tapos,Depok,1290000000,3,2,105,80,no,no,yes,no,no
+1185,Taman Sari,Jakarta Barat,475000000,2,1,22,36,no,no,no,no,no
+1186,Cengkareng,Jakarta Barat,2300000000,3,3,119,120,no,no,no,no,no
+1187,Cengkareng,Jakarta Barat,2300000000,3,3,119,120,no,no,no,no,no
+1188,Cengkareng,Jakarta Barat,3550000000,3,2,108,195,yes,no,no,no,no
+1189,Cengkareng,Jakarta Barat,2200000000,4,4,157,168,no,no,no,no,no
+1190,Cengkareng,Jakarta Barat,3550000000,3,2,108,190,no,no,no,no,no
+1191,Cengkareng,Jakarta Barat,2600000000,3,3,90,180,yes,no,no,yes,no
+1192,Cengkareng,Jakarta Barat,1180000000,3,2,75,85,yes,no,yes,no,no
+1193,Cengkareng,Jakarta Barat,2600000000,3,3,90,180,yes,no,no,yes,no
+1194,Kalideres,Jakarta Barat,6400000000,3,3,190,192,yes,no,yes,no,no
+1195,Kalideres,Jakarta Barat,1750000000,2,2,180,180,no,no,no,no,no
+1196,Kalideres,Jakarta Barat,2700000000,5,2,220,150,no,no,no,no,no
+1197,Kalideres,Jakarta Barat,3000000000,2,2,100,128,no,no,no,no,no
+1198,Grogol Petamburan,Jakarta Barat,3950000000,4,2,120,135,no,no,yes,no,no
+1199,Grogol Petamburan,Jakarta Barat,1700000000,3,3,200,180,yes,no,no,no,no
+1200,Grogol Petamburan,Jakarta Barat,2650000000,3,3,105,140,no,no,no,yes,no
+1201,Grogol Petamburan,Jakarta Barat,2650000000,3,3,105,140,no,no,no,yes,no
+1202,Kebon Jeruk,Jakarta Barat,1890000000,3,3,63,180,no,no,yes,no,no
+1203,Kebon Jeruk,Jakarta Barat,1190000000,3,2,45,100,no,no,yes,no,no
+1204,Kebon Jeruk,Jakarta Barat,1190000000,3,2,45,100,no,no,yes,no,no
+1205,Kebon Jeruk,Jakarta Barat,2550000000,4,3,91,135,no,no,no,no,yes
+1206,Kebon Jeruk,Jakarta Barat,4500000000,3,4,176,436,yes,no,no,no,no
+1207,Cengkareng,Jakarta Barat,1540000000,3,2,90,100,no,no,yes,no,no
+1208,Cengkareng,Jakarta Barat,4300000000,3,4,248,247,no,no,no,no,no
+1209,Cengkareng,Jakarta Barat,2950000000,3,3,144,147,no,no,yes,no,no
+1210,Cengkareng,Jakarta Barat,1450000000,2,2,60,90,no,no,yes,no,no
+1211,Cengkareng,Jakarta Barat,2100000000,3,3,90,100,no,yes,yes,no,no
+1212,Cengkareng,Jakarta Barat,3000000000,3,3,144,150,yes,no,no,no,no
+1213,Cengkareng,Jakarta Barat,2300000000,4,3,90,150,no,no,no,no,yes
+1214,Cengkareng,Jakarta Barat,2450000000,3,2,108,135,yes,no,yes,no,no
+1215,Cengkareng,Jakarta Barat,2090000000,3,2,90,100,yes,no,no,no,no
+1216,Cengkareng,Jakarta Barat,2070000000,3,3,90,120,yes,no,no,no,no
+1217,Cengkareng,Jakarta Barat,3250000000,3,3,120,150,yes,no,no,no,no
+1218,Cengkareng,Jakarta Barat,2550000000,4,3,96,130,yes,no,no,no,no
+1219,Cengkareng,Jakarta Barat,2330000000,2,3,90,127,no,no,no,yes,no
+1220,Cengkareng,Jakarta Barat,3180000000,3,3,120,150,no,no,no,yes,no
+1221,Cengkareng,Jakarta Barat,2500000000,3,2,108,156,yes,no,no,no,no
+1222,Cengkareng,Jakarta Barat,2590000000,3,2,90,130,yes,no,no,no,no
+1223,Cengkareng,Jakarta Barat,2120000000,3,2,90,100,yes,no,yes,no,no
+1224,Cengkareng,Jakarta Barat,3180000000,3,3,120,150,no,no,no,yes,no
+1225,Cengkareng,Jakarta Barat,3200000000,3,3,108,180,no,no,no,no,no
+1226,Cengkareng,Jakarta Barat,2500000000,3,3,90,120,no,yes,yes,no,no
+1227,Cengkareng,Jakarta Barat,2490000000,4,3,108,126,no,no,yes,no,no
+1228,Cengkareng,Jakarta Barat,2550000000,4,3,96,130,yes,no,no,no,no
+1229,Cengkareng,Jakarta Barat,4600000000,4,3,180,300,yes,no,no,no,no
+1230,Cengkareng,Jakarta Barat,2150000000,3,2,90,100,yes,no,no,no,no
+1231,Cengkareng,Jakarta Barat,3180000000,3,3,108,250,yes,no,no,no,no
+1232,Cengkareng,Jakarta Barat,5000000000,3,4,266,160,yes,no,no,no,no
+1233,Cengkareng,Jakarta Barat,2500000000,3,2,90,108,yes,no,no,no,no
+1234,Cengkareng,Jakarta Barat,4600000000,4,3,180,211,no,no,yes,no,no
+1235,Cengkareng,Jakarta Barat,4600000000,4,3,180,211,no,no,yes,no,no
+1236,Cengkareng,Jakarta Barat,2120000000,3,2,90,100,yes,no,yes,no,no
+1237,Grogol Petamburan,Jakarta Barat,3100000000,3,3,180,180,no,no,no,no,no
+1238,Grogol Petamburan,Jakarta Barat,1890000000,3,3,48,110,no,no,no,no,no
+1239,Kembangan,Jakarta Barat,7500000000,5,2,240,275,yes,no,no,no,no
+1240,Kembangan,Jakarta Barat,27000000000,4,4,800,1500,yes,no,no,no,no
+1241,Kembangan,Jakarta Barat,7350000000,5,4,300,400,no,no,yes,no,no
+1242,Kembangan,Jakarta Barat,8000000000,4,3,360,360,no,no,yes,no,no
+1243,Grogol Petamburan,Jakarta Barat,3600000000,3,3,140,208,no,no,no,no,no
+1244,Grogol Petamburan,Jakarta Barat,5900000000,6,6,114,338,no,no,no,no,no
+1245,Grogol Petamburan,Jakarta Barat,5700000000,3,4,168,538,no,no,no,no,no
+1246,Grogol Petamburan,Jakarta Barat,2100000000,2,4,97,268,no,no,no,no,no
+1247,Grogol Petamburan,Jakarta Barat,3600000000,3,3,140,203,no,no,yes,no,no
+1248,Grogol Petamburan,Jakarta Barat,5700000000,3,4,168,532,no,no,yes,no,no
+1249,Grogol Petamburan,Jakarta Barat,2100000000,2,3,56,126,no,no,yes,no,no
+1250,Grogol Petamburan,Jakarta Barat,5900000000,6,6,114,338,no,no,no,no,no
+1251,Kembangan,Jakarta Barat,2000000000,3,2,72,90,yes,no,yes,no,no
+1252,Kalideres,Jakarta Barat,5850000000,5,4,232,310,no,no,yes,no,no
+1253,Kalideres,Jakarta Barat,1700000000,19,19,200,400,no,no,yes,no,no
+1254,Kalideres,Jakarta Barat,5850000000,5,4,232,310,no,no,yes,no,no
+1255,Kebon Jeruk,Jakarta Barat,4500000000,2,4,176,450,no,no,yes,no,no
+1256,Kebon Jeruk,Jakarta Barat,4500000000,2,4,176,450,no,no,yes,no,no
+1257,Kembangan,Jakarta Barat,3540000000,6,3,135,250,yes,no,no,no,no
+1258,Kembangan,Jakarta Barat,2400000000,4,3,115,91,no,no,no,no,no
+1259,Kembangan,Jakarta Barat,13500000000,5,3,450,415,yes,no,yes,no,no
+1260,Taman Sari,Jakarta Barat,1200000000,8,5,66,253,no,no,yes,no,no
+1261,Taman Sari,Jakarta Barat,2000000000,11,2,156,120,no,no,no,no,no
+1262,Taman Sari,Jakarta Barat,1200000000,8,5,66,253,no,no,yes,no,no
+1263,Kembangan,Jakarta Barat,2250000000,3,2,125,150,yes,no,no,no,yes
+1264,Kembangan,Jakarta Barat,1550000000,3,3,78,110,yes,no,yes,no,no
+1265,Kembangan,Jakarta Barat,1700000000,3,3,75,105,yes,no,yes,no,no
+1266,Kembangan,Jakarta Barat,1950000000,3,3,87,85,no,no,yes,no,no
+1267,Kembangan,Jakarta Barat,1600000000,3,3,60,70,yes,no,yes,no,no
+1268,Kembangan,Jakarta Barat,2650000000,3,3,125,150,yes,no,no,no,yes
+1269,Kembangan,Jakarta Barat,2250000000,3,3,120,137,yes,no,no,no,no
+1270,Kembangan,Jakarta Barat,2650000000,3,3,125,150,yes,no,no,no,yes
+1271,Cengkareng,Jakarta Barat,3200000000,3,2,160,200,no,no,yes,no,no
+1272,Kalideres,Jakarta Barat,1800000000,3,2,225,150,no,no,no,no,no
+1273,Kembangan,Jakarta Barat,5000000000,3,3,144,136,yes,no,no,no,no
+1274,Kembangan,Jakarta Barat,4790000000,4,2,200,180,no,no,no,no,no
+1275,Kembangan,Jakarta Barat,5500000000,3,3,144,200,yes,no,yes,no,no
+1276,Kembangan,Jakarta Barat,8500000000,4,4,250,400,no,no,no,no,no
+1277,Kembangan,Jakarta Barat,4500000000,3,2,144,200,no,no,yes,no,no
+1278,Kembangan,Jakarta Barat,4500000000,4,3,144,200,yes,no,yes,no,no
+1279,Cengkareng,Jakarta Barat,3750000000,3,3,120,180,no,no,yes,no,no
+1280,Cengkareng,Jakarta Barat,2700000000,3,3,90,110,no,no,yes,no,no
+1281,Cengkareng,Jakarta Barat,2700000000,3,3,90,150,yes,no,yes,no,no
+1282,Cengkareng,Jakarta Barat,2700000000,3,3,90,110,no,no,yes,no,no
+1283,Cengkareng,Jakarta Barat,2700000000,3,3,90,110,no,no,yes,no,no
+1284,Cengkareng,Jakarta Barat,2700000000,4,3,120,180,no,no,yes,no,no
+1285,Cengkareng,Jakarta Barat,3000000000,3,3,120,180,no,no,no,no,no
+1286,Taman Sari,Jakarta Barat,489000000,2,1,22,36,no,no,no,no,yes
+1287,Taman Sari,Jakarta Barat,629000000,2,2,18,33,yes,no,no,no,no
+1288,Grogol Petamburan,Jakarta Barat,2550000000,3,3,60,185,no,no,no,no,no
+1289,Grogol Petamburan,Jakarta Barat,2250000000,3,3,56,110,yes,no,yes,no,no
+1290,Grogol Petamburan,Jakarta Barat,2490000000,4,4,48,120,no,no,no,no,yes
+1291,Grogol Petamburan,Jakarta Barat,2490000000,4,4,48,120,no,no,no,no,yes
+1292,Grogol Petamburan,Jakarta Barat,8700000000,7,4,231,400,no,no,yes,no,no
+1293,Grogol Petamburan,Jakarta Barat,8700000000,6,3,231,400,no,no,yes,no,no
+1294,Grogol Petamburan,Jakarta Barat,8500000000,3,2,287,287,no,no,no,no,no
+1295,Cempaka Putih,Jakarta Pusat,1130000000,2,2,30,58,no,no,yes,no,no
+1296,Cempaka Putih,Jakarta Pusat,2370000000,3,3,53,94,no,no,yes,no,yes
+1297,Cempaka Putih,Jakarta Pusat,1740000000,3,3,86,86,no,no,no,no,yes
+1298,Cempaka Putih,Jakarta Pusat,1360000000,2,2,39,58,no,no,no,no,yes
+1299,Cempaka Putih,Jakarta Pusat,1300000000,3,3,39,58,yes,no,no,no,yes
+1300,Cempaka Putih,Jakarta Pusat,2400000000,4,3,53,94,yes,no,no,no,no
+1301,Cempaka Putih,Jakarta Pusat,2960000000,3,3,92,92,no,no,yes,no,no
+1302,Cempaka Putih,Jakarta Pusat,3550000000,3,2,80,111,yes,no,no,no,yes
+1303,Cempaka Putih,Jakarta Pusat,2210000000,4,4,54,120,no,no,no,no,yes
+1304,Cempaka Putih,Jakarta Pusat,2400000000,3,3,53,94,no,no,no,no,no
+1305,Cempaka Putih,Jakarta Pusat,2400000000,3,3,53,94,no,no,no,no,no
+1306,Cempaka Putih,Jakarta Pusat,1800000000,4,3,80,111,no,no,yes,no,no
+1307,Cempaka Putih,Jakarta Pusat,1130000000,2,2,32,62,yes,no,no,no,no
+1308,Gambir,Jakarta Pusat,6500000000,3,2,250,260,no,no,no,no,no
+1309,Gambir,Jakarta Pusat,7500000000,3,2,289,320,no,no,no,no,no
+1310,Sawah Besar,Jakarta Pusat,430000000,2,2,19,36,no,no,no,no,no
+1311,Johar Baru,Jakarta Pusat,4000000000,3,2,220,400,no,no,yes,no,no
+1312,Kemayoran,Jakarta Pusat,490000000,2,2,22,42,no,no,no,no,yes
+1313,Kemayoran,Jakarta Pusat,490000000,2,2,19,36,no,no,yes,no,no
+1314,Kemayoran,Jakarta Pusat,990000000,4,3,133,150,no,no,no,no,no
+1315,Menteng,Jakarta Pusat,42000000000,5,4,518,600,no,no,no,no,no
+1316,Menteng,Jakarta Pusat,75000000000,5,5,980,550,no,no,no,no,no
+1317,Menteng,Jakarta Pusat,41000000000,4,4,586,300,yes,no,no,no,no
+1318,Menteng,Jakarta Pusat,29000000000,3,2,599,350,no,no,yes,no,no
+1319,Gambir,Jakarta Pusat,3800000000,3,1,144,110,yes,no,no,no,no
+1320,Sawah Besar,Jakarta Pusat,640000000,2,1,29,37,no,no,no,no,no
+1321,Senen,Jakarta Pusat,1170000000,2,3,49,72,no,no,yes,no,no
+1322,Senen,Jakarta Pusat,7000000000,8,6,295,150,no,no,yes,no,no
+1323,Cilandak,Jakarta Selatan,4700000000,3,3,144,165,yes,no,no,no,no
+1324,Cilandak,Jakarta Selatan,2650000000,3,3,62,140,no,no,no,no,yes
+1325,Cilandak,Jakarta Selatan,1040000000,3,3,41,79,yes,no,no,no,no
+1326,Cilandak,Jakarta Selatan,6350000000,3,3,289,289,no,no,no,no,no
+1327,Cilandak,Jakarta Selatan,5900000000,4,4,262,520,no,no,no,no,no
+1328,Cilandak,Jakarta Selatan,2490000000,7,2,315,350,no,no,no,no,no
+1329,Cilandak,Jakarta Selatan,8750000000,3,2,540,225,no,no,no,no,no
+1330,Cilandak,Jakarta Selatan,9000000000,3,2,405,600,no,no,no,no,no
+1331,Cilandak,Jakarta Selatan,16000000000,7,7,1050,1000,no,no,no,no,no
+1332,Cilandak,Jakarta Selatan,5100000000,4,4,303,350,no,no,yes,no,no
+1333,Cilandak,Jakarta Selatan,12500000000,4,6,800,650,no,no,yes,no,no
+1334,Cilandak,Jakarta Selatan,6300000000,4,5,260,520,yes,no,no,no,no
+1335,Cilandak,Jakarta Selatan,16000000000,5,3,526,400,no,no,yes,no,no
+1336,Cilandak,Jakarta Selatan,16000000000,5,5,505,825,yes,no,no,no,no
+1337,Cilandak,Jakarta Selatan,8250000000,3,3,159,378,no,no,no,no,no
+1338,Cilandak,Jakarta Selatan,862000000,2,2,36,62,no,no,no,no,yes
+1339,Pesanggrahan,Jakarta Selatan,1500000000,3,1,105,75,yes,no,no,no,no
+1340,Jagakarsa,Jakarta Selatan,2500000000,5,6,83,200,yes,no,no,no,no
+1341,Jagakarsa,Jakarta Selatan,1700000000,3,3,114,130,yes,no,no,no,no
+1342,Jagakarsa,Jakarta Selatan,1850000000,4,4,126,150,yes,no,no,no,no
+1343,Jagakarsa,Jakarta Selatan,2100000000,3,2,179,160,yes,no,no,no,no
+1344,Jagakarsa,Jakarta Selatan,2100000000,3,2,179,160,yes,no,no,no,no
+1345,Jagakarsa,Jakarta Selatan,2300000000,3,4,125,176,no,no,no,no,yes
+1346,Jagakarsa,Jakarta Selatan,1350000000,3,3,61,100,yes,no,yes,no,no
+1347,Jagakarsa,Jakarta Selatan,2500000000,4,3,125,137,no,no,no,no,no
+1348,Jagakarsa,Jakarta Selatan,1800000000,3,3,120,168,yes,no,yes,no,no
+1349,Jagakarsa,Jakarta Selatan,1300000000,4,3,108,160,yes,no,no,no,no
+1350,Jagakarsa,Jakarta Selatan,850000000,3,3,50,100,no,no,yes,no,no
+1351,Jagakarsa,Jakarta Selatan,2500000000,3,3,80,150,yes,no,no,no,yes
+1352,Jagakarsa,Jakarta Selatan,1970000000,5,5,125,160,no,no,yes,no,no
+1353,Jagakarsa,Jakarta Selatan,2650000000,3,3,200,375,no,no,no,no,no
+1354,Jagakarsa,Jakarta Selatan,3700000000,4,3,210,200,no,no,yes,no,no
+1355,Jagakarsa,Jakarta Selatan,1300000000,4,3,108,160,yes,no,no,no,no
+1356,Jagakarsa,Jakarta Selatan,1300000000,4,3,108,160,yes,no,no,no,no
+1357,Jagakarsa,Jakarta Selatan,2120000000,3,3,94,135,no,no,yes,no,no
+1358,Jagakarsa,Jakarta Selatan,5100000000,5,4,156,400,no,no,yes,no,no
+1359,Jagakarsa,Jakarta Selatan,1900000000,5,4,100,300,no,no,yes,no,no
+1360,Kebayoran Baru,Jakarta Selatan,14900000000,4,3,242,312,yes,no,no,no,no
+1361,Kebayoran Baru,Jakarta Selatan,40000000000,4,2,599,360,yes,no,no,no,no
+1362,Kebayoran Baru,Jakarta Selatan,149000000000,6,5,1280,2000,no,no,yes,yes,no
+1363,Kebayoran Baru,Jakarta Selatan,25000000000,3,4,318,350,no,yes,no,yes,no
+1364,Kebayoran Baru,Jakarta Selatan,7900000000,4,2,197,300,no,no,no,no,no
+1365,Kebayoran Baru,Jakarta Selatan,16500000000,3,3,292,305,yes,yes,no,no,no
+1366,Kebayoran Baru,Jakarta Selatan,45000000000,4,2,458,500,yes,no,no,no,no
+1367,Kebayoran Baru,Jakarta Selatan,17800000000,4,4,259,450,yes,no,no,no,no
+1368,Kebayoran Baru,Jakarta Selatan,81200000000,4,5,830,900,no,no,no,yes,no
+1369,Kebayoran Baru,Jakarta Selatan,28000000000,5,2,468,245,yes,no,no,no,no
+1370,Kebayoran Baru,Jakarta Selatan,14900000000,4,4,242,312,yes,no,no,no,no
+1371,Kebayoran Baru,Jakarta Selatan,14500000000,3,3,210,300,yes,no,no,no,no
+1372,Kebayoran Baru,Jakarta Selatan,22000000000,4,4,525,450,no,no,no,no,no
+1373,Kebayoran Baru,Jakarta Selatan,14900000000,4,3,242,312,yes,no,no,no,no
+1374,Kebayoran Baru,Jakarta Selatan,37000000000,4,4,429,700,yes,no,yes,no,no
+1375,Kebayoran Baru,Jakarta Selatan,18500000000,3,2,260,650,no,no,no,no,no
+1376,Kebayoran Lama,Jakarta Selatan,1800000000,3,1,117,100,no,yes,yes,no,no
+1377,Kebayoran Lama,Jakarta Selatan,4240000000,3,2,225,394,no,no,no,no,no
+1378,Kebayoran Lama,Jakarta Selatan,8000000000,2,2,700,560,no,no,no,no,no
+1379,Kebayoran Lama,Jakarta Selatan,4900000000,4,4,257,300,no,no,yes,no,no
+1380,Mampang Prapatan,Jakarta Selatan,6900000000,4,5,300,262,no,no,no,no,no
+1381,Mampang Prapatan,Jakarta Selatan,8200000000,4,3,200,330,no,no,no,no,no
+1382,Mampang Prapatan,Jakarta Selatan,8200000000,4,3,200,330,no,no,no,no,no
+1383,Mampang Prapatan,Jakarta Selatan,20000000000,4,4,887,900,yes,no,no,yes,no
+1384,Mampang Prapatan,Jakarta Selatan,29000000000,4,4,600,596,no,no,yes,no,no
+1385,Mampang Prapatan,Jakarta Selatan,4700000000,3,3,368,160,no,no,no,no,no
+1386,Mampang Prapatan,Jakarta Selatan,60000000000,4,4,4040,1130,yes,no,no,yes,no
+1387,Mampang Prapatan,Jakarta Selatan,39500000000,6,6,823,800,yes,yes,no,yes,no
+1388,Cilandak,Jakarta Selatan,7000000000,3,3,275,225,no,no,no,no,no
+1389,Cilandak,Jakarta Selatan,5800000000,3,2,400,500,yes,no,no,no,no
+1390,Setiabudi,Jakarta Selatan,53000000000,10,7,1039,1500,no,no,no,no,no
+1391,Pancoran,Jakarta Selatan,10000000000,5,4,825,600,no,no,no,no,no
+1392,Kebayoran Baru,Jakarta Selatan,32000000000,5,4,467,385,yes,no,no,no,no
+1393,Pasar Minggu,Jakarta Selatan,4400000000,5,4,262,208,no,no,no,no,no
+1394,Pasar Minggu,Jakarta Selatan,4680000000,4,3,330,300,no,no,yes,no,no
+1395,Pasar Minggu,Jakarta Selatan,6000000000,20,21,438,438,yes,no,yes,no,no
+1396,Pasar Minggu,Jakarta Selatan,2500000000,2,2,185,185,no,no,no,no,no
+1397,Pasar Minggu,Jakarta Selatan,2800000000,3,2,103,150,yes,yes,no,no,no
+1398,Pasar Minggu,Jakarta Selatan,3700000000,5,3,72,120,yes,no,no,no,no
+1399,Kebayoran Lama,Jakarta Selatan,20000000000,8,5,438,264,no,no,yes,no,no
+1400,Kebayoran Lama,Jakarta Selatan,27500000000,4,4,716,450,yes,no,no,yes,no
+1401,Kebayoran Lama,Jakarta Selatan,49000000000,3,2,1102,708,no,no,no,no,no
+1402,Pesanggrahan,Jakarta Selatan,2500000000,4,3,169,300,no,yes,yes,no,no
+1403,Pesanggrahan,Jakarta Selatan,3400000000,4,2,155,310,no,no,yes,no,no
+1404,Pesanggrahan,Jakarta Selatan,685000000,3,2,32,40,no,no,no,no,no
+1405,Pesanggrahan,Jakarta Selatan,685000000,3,2,32,40,no,no,no,no,no
+1406,Pesanggrahan,Jakarta Selatan,685000000,2,2,32,40,yes,no,no,no,no
+1407,Pesanggrahan,Jakarta Selatan,20000000000,4,5,1669,600,no,no,no,no,no
+1408,Kebayoran Lama,Jakarta Selatan,4600000000,3,2,121,100,no,no,no,yes,no
+1409,Kebayoran Lama,Jakarta Selatan,19000000000,4,4,400,500,no,no,yes,no,no
+1410,Kebayoran Lama,Jakarta Selatan,65000000000,8,5,825,1500,yes,no,no,yes,no
+1411,Kebayoran Lama,Jakarta Selatan,4600000000,3,2,121,100,no,no,no,yes,no
+1412,Kebayoran Lama,Jakarta Selatan,22000000000,5,4,410,500,yes,no,no,no,no
+1413,Kebayoran Lama,Jakarta Selatan,55000000000,5,6,1075,1000,yes,no,no,yes,no
+1414,Kebayoran Lama,Jakarta Selatan,22000000000,4,3,410,550,no,no,yes,no,no
+1415,Kebayoran Lama,Jakarta Selatan,45000000000,4,4,768,850,yes,no,no,yes,no
+1416,Kebayoran Lama,Jakarta Selatan,55000000000,6,6,759,1115,no,no,yes,no,no
+1417,Kebayoran Lama,Jakarta Selatan,55000000000,6,6,759,1115,no,no,yes,no,no
+1418,Kebayoran Lama,Jakarta Selatan,46000000000,8,6,1531,1250,no,no,yes,yes,no
+1419,Kebayoran Lama,Jakarta Selatan,34000000000,6,5,1285,800,no,no,no,no,no
+1420,Kebayoran Lama,Jakarta Selatan,22000000000,4,4,410,550,yes,no,yes,no,no
+1421,Kebayoran Lama,Jakarta Selatan,19000000000,4,4,400,500,no,no,yes,no,no
+1422,Cilandak,Jakarta Selatan,958000000,2,2,39,72,yes,no,no,no,no
+1423,Cilandak,Jakarta Selatan,870000000,2,2,35,68,no,no,no,no,no
+1424,Cilandak,Jakarta Selatan,854000000,2,2,37,65,yes,no,no,no,yes
+1425,Cilandak,Jakarta Selatan,854000000,3,3,41,69,no,no,yes,no,yes
+1426,Cilandak,Jakarta Selatan,960000000,3,2,49,90,yes,no,no,no,no
+1427,Cilandak,Jakarta Selatan,960000000,3,2,49,90,yes,no,no,no,no
+1428,Cilandak,Jakarta Selatan,991000000,2,2,43,79,no,no,yes,no,no
+1429,Cilandak,Jakarta Selatan,10000000000,3,3,600,387,no,no,no,no,no
+1430,Cilandak,Jakarta Selatan,39000000000,8,9,2475,900,no,no,yes,no,no
+1431,Pasar Minggu,Jakarta Selatan,22000000000,5,5,1050,750,no,no,no,no,yes
+1432,Kebayoran Baru,Jakarta Selatan,24000000000,4,3,403,300,no,yes,yes,no,no
+1433,Jagakarsa,Jakarta Selatan,2000000000,2,2,157,250,no,no,no,no,no
+1434,Cilandak,Jakarta Selatan,70000000000,9,8,4600,2600,yes,no,yes,no,no
+1435,Tebet,Jakarta Selatan,3750000000,3,3,65,211,yes,no,no,no,yes
+1436,Tebet,Jakarta Selatan,3600000000,4,4,120,200,yes,no,no,no,no
+1437,Tebet,Jakarta Selatan,9000000000,6,5,391,500,yes,no,yes,no,no
+1438,Tebet,Jakarta Selatan,25000000000,4,3,620,450,no,no,no,no,no
+1439,Tebet,Jakarta Selatan,7900000000,3,2,589,1000,no,no,no,no,no
+1440,Tebet,Jakarta Selatan,10300000000,6,5,457,600,no,no,no,no,no
+1441,Ciracas,Jakarta Timur,2160000000,5,2,150,150,no,no,no,no,no
+1442,Ciracas,Jakarta Timur,650000000,2,1,60,34,no,no,yes,no,no
+1443,Ciracas,Jakarta Timur,2160000000,5,2,150,150,no,no,no,no,no
+1444,Ciracas,Jakarta Timur,1250000000,3,2,105,150,no,no,yes,no,no
+1445,Ciracas,Jakarta Timur,1980000000,4,3,136,105,yes,no,no,no,no
+1446,Ciracas,Jakarta Timur,650000000,2,1,60,34,no,no,yes,no,no
+1447,Ciracas,Jakarta Timur,1700000000,3,3,83,105,no,no,yes,no,no
+1448,Cipayung,Jakarta Timur,925000000,3,2,65,100,yes,no,no,no,no
+1449,Cipayung,Jakarta Timur,925000000,3,2,65,100,yes,no,no,no,no
+1450,Cakung,Jakarta Timur,1000000000,3,3,73,73,yes,no,no,no,yes
+1451,Cakung,Jakarta Timur,1000000000,2,3,44,68,no,no,yes,no,no
+1452,Cakung,Jakarta Timur,1750000000,3,2,102,75,no,no,yes,no,no
+1453,Cakung,Jakarta Timur,1800000000,2,2,90,63,yes,no,yes,no,no
+1454,Cakung,Jakarta Timur,2700000000,3,2,105,108,no,no,no,yes,no
+1455,Cakung,Jakarta Timur,1740000000,3,3,52,75,no,no,yes,no,no
+1456,Cakung,Jakarta Timur,3800000000,4,3,198,198,yes,no,no,no,no
+1457,Cakung,Jakarta Timur,1000000000,3,2,110,170,no,no,no,no,no
+1458,Cakung,Jakarta Timur,1450000000,3,2,200,286,no,no,no,no,no
+1459,Cakung,Jakarta Timur,2450000000,4,2,336,288,no,yes,yes,no,no
+1460,Cakung,Jakarta Timur,3200000000,5,3,511,359,no,no,yes,no,no
+1461,Cakung,Jakarta Timur,4500000000,4,3,450,340,no,no,yes,no,no
+1462,Cakung,Jakarta Timur,4290000000,4,3,144,195,no,no,yes,no,no
+1463,Kramat Jati,Jakarta Timur,1500000000,3,2,55,98,no,no,yes,no,no
+1464,Ciracas,Jakarta Timur,950000000,3,2,105,78,no,no,no,no,no
+1465,Ciracas,Jakarta Timur,1400000000,3,3,75,78,yes,no,no,no,no
+1466,Ciracas,Jakarta Timur,695000000,3,2,54,60,no,no,no,no,no
+1467,Ciracas,Jakarta Timur,800000000,3,2,53,74,yes,no,no,no,no
+1468,Ciracas,Jakarta Timur,3500000000,4,3,160,181,no,no,yes,no,no
+1469,Pasar Rebo,Jakarta Timur,15000000000,3,2,950,850,no,no,no,no,no
+1470,Cipayung,Jakarta Timur,765000000,3,2,53,65,no,no,yes,no,yes
+1471,Cipayung,Jakarta Timur,4100000000,4,4,445,400,no,no,no,no,no
+1472,Cipayung,Jakarta Timur,1200000000,3,2,124,150,no,no,no,no,no
+1473,Cipayung,Jakarta Timur,1200000000,3,2,91,136,no,no,yes,no,no
+1474,Cipayung,Jakarta Timur,900000000,3,2,60,75,yes,no,no,no,yes
+1475,Pulo Gadung,Jakarta Timur,2350000000,2,2,76,90,no,no,no,no,yes
+1476,Pulo Gadung,Jakarta Timur,710000000,2,2,35,68,yes,no,no,no,no
+1477,Pulo Gadung,Jakarta Timur,720000000,2,3,31,61,yes,no,no,no,yes
+1478,Pulo Gadung,Jakarta Timur,1390000000,3,3,40,78,yes,no,no,no,no
+1479,Pulo Gadung,Jakarta Timur,1390000000,3,3,40,78,yes,no,no,no,yes
+1480,Ciracas,Jakarta Timur,2500000000,3,3,105,114,yes,no,no,no,no
+1481,Ciracas,Jakarta Timur,1270000000,2,1,129,70,yes,no,no,no,no
+1482,Ciracas,Jakarta Timur,10500000000,5,4,609,551,yes,no,no,no,no
+1483,Kramat Jati,Jakarta Timur,2500000000,9,4,262,450,no,no,no,no,no
+1484,Duren Sawit,Jakarta Timur,718000000,2,2,31,61,no,no,no,no,yes
+1485,Duren Sawit,Jakarta Timur,3200000000,3,2,201,190,no,no,no,no,no
+1486,Duren Sawit,Jakarta Timur,1630000000,2,2,222,123,no,no,yes,no,no
+1487,Duren Sawit,Jakarta Timur,3080000000,4,2,217,186,no,no,yes,no,no
+1488,Duren Sawit,Jakarta Timur,1800000000,3,2,171,91,no,yes,no,no,no
+1489,Jatinegara,Jakarta Timur,735000000,2,2,32,62,no,no,no,no,yes
+1490,Jatinegara,Jakarta Timur,1600000000,2,2,124,86,yes,no,yes,no,no
+1491,Jatinegara,Jakarta Timur,694000000,2,2,31,60,no,no,no,no,yes
+1492,Jatinegara,Jakarta Timur,1000000000,3,3,44,68,no,no,yes,no,yes
+1493,Jatinegara,Jakarta Timur,3000000000,4,2,273,200,no,no,no,no,no
+1494,Pulo Gadung,Jakarta Timur,2400000000,3,3,53,94,yes,no,no,no,yes
+1495,Ciracas,Jakarta Timur,1230000000,3,2,120,88,yes,no,no,no,no
+1496,Ciracas,Jakarta Timur,1560000000,2,2,119,100,no,no,no,no,no
+1497,Kramat Jati,Jakarta Timur,4000000000,3,3,140,304,yes,no,no,no,no
+1498,Kramat Jati,Jakarta Timur,4500000000,4,2,500,400,no,no,yes,no,no
+1499,Kramat Jati,Jakarta Timur,2000000000,3,2,281,156,no,no,yes,no,no
+1500,Matraman,Jakarta Timur,828000000,3,3,30,58,no,no,no,no,yes
+1501,Matraman,Jakarta Timur,818000000,2,2,30,59,no,no,no,no,yes
+1502,Matraman,Jakarta Timur,3500000000,4,2,209,194,no,no,yes,no,no
+1503,Matraman,Jakarta Timur,1030000000,3,3,30,88,no,no,no,no,yes
+1504,Pasar Rebo,Jakarta Timur,3000000000,4,3,266,450,no,no,no,no,no
+1505,Pasar Rebo,Jakarta Timur,3580000000,4,2,266,360,no,no,no,no,no
+1506,Pasar Rebo,Jakarta Timur,3580000000,4,2,266,360,no,no,no,no,no
+1507,Duren Sawit,Jakarta Timur,7000000000,7,4,300,692,no,no,yes,no,no
+1508,Duren Sawit,Jakarta Timur,7000000000,7,4,300,692,no,no,yes,no,no
+1509,Duren Sawit,Jakarta Timur,3200000000,4,4,200,199,no,no,yes,no,no
+1510,Duren Sawit,Jakarta Timur,6500000000,4,5,480,350,no,no,no,no,no
+1511,Pulo Gadung,Jakarta Timur,1000000000,3,3,44,68,no,no,no,no,yes
+1512,Pulo Gadung,Jakarta Timur,1000000000,2,3,44,68,no,no,no,no,yes
+1513,Pulo Gadung,Jakarta Timur,1020000000,2,3,46,73,no,no,no,no,yes
+1514,Pulo Gadung,Jakarta Timur,780000000,3,3,37,68,no,no,no,no,no
+1515,Pulo Gadung,Jakarta Timur,780000000,3,3,37,68,no,no,no,no,no
+1516,Pulo Gadung,Jakarta Timur,1320000000,3,3,48,67,no,no,yes,no,yes
+1517,Pulo Gadung,Jakarta Timur,2600000000,3,3,90,135,no,no,yes,no,yes
+1518,Pulo Gadung,Jakarta Timur,910000000,2,2,30,54,no,no,no,no,yes
+1519,Pulo Gadung,Jakarta Timur,9000000000,6,4,500,400,no,no,no,no,no
+1520,Matraman,Jakarta Timur,585000000,3,2,30,58,no,no,yes,no,no
+1521,Pademangan,Jakarta Utara,30000000000,8,8,600,1200,no,no,no,no,no
+1522,Cilincing,Jakarta Utara,800000000,3,3,195,190,no,no,no,no,no
+1523,Penjaringan,Jakarta Utara,500000000,2,2,36,36,no,no,no,no,no
+1524,Penjaringan,Jakarta Utara,500000000,2,2,42,42,no,no,no,no,no
+1525,Kelapa Gading,Jakarta Utara,1040000000,2,2,55,54,no,no,yes,no,no
+1526,Kelapa Gading,Jakarta Utara,3300000000,3,3,108,180,no,no,no,no,no
+1527,Kelapa Gading,Jakarta Utara,3900000000,3,3,160,160,no,no,yes,no,no
+1528,Kelapa Gading,Jakarta Utara,4780000000,4,3,162,215,yes,no,no,no,no
+1529,Kelapa Gading,Jakarta Utara,2700000000,7,4,128,260,no,no,yes,no,no
+1530,Kelapa Gading,Jakarta Utara,2350000000,6,2,105,110,no,yes,no,no,no
+1531,Kelapa Gading,Jakarta Utara,3300000000,3,3,108,180,no,no,no,no,no
+1532,Kelapa Gading,Jakarta Utara,12000000000,7,6,300,725,no,no,no,no,no
+1533,Kelapa Gading,Jakarta Utara,6900000000,4,3,200,450,no,no,yes,no,no
+1534,Kelapa Gading,Jakarta Utara,2500000000,4,4,105,250,yes,no,no,no,no
+1535,Penjaringan,Jakarta Utara,4600000000,3,4,120,200,yes,no,yes,no,no
+1536,Penjaringan,Jakarta Utara,6000000000,4,3,200,250,no,no,no,no,no
+1537,Penjaringan,Jakarta Utara,4300000000,4,3,120,275,yes,no,no,no,no
+1538,Penjaringan,Jakarta Utara,3950000000,5,5,105,200,no,no,no,no,no
+1539,Penjaringan,Jakarta Utara,4500000000,3,4,120,200,no,no,no,no,no
+1540,Penjaringan,Jakarta Utara,5200000000,4,3,120,240,no,no,no,no,no
+1541,Penjaringan,Jakarta Utara,5500000000,3,3,140,250,no,no,yes,no,no
+1542,Penjaringan,Jakarta Utara,5500000000,3,3,140,250,no,no,yes,no,no
+1543,Penjaringan,Jakarta Utara,4200000000,3,3,120,144,no,no,no,yes,no
+1544,Penjaringan,Jakarta Utara,4150000000,3,3,120,125,yes,no,yes,no,no
+1545,Penjaringan,Jakarta Utara,1600000000,2,1,60,79,yes,no,no,no,yes
+1546,Penjaringan,Jakarta Utara,5200000000,4,3,120,163,yes,no,no,no,no
+1547,Penjaringan,Jakarta Utara,4000000000,3,3,120,130,no,no,no,no,yes
+1548,Penjaringan,Jakarta Utara,3100000000,3,3,90,120,no,no,no,yes,no
+1549,Penjaringan,Jakarta Utara,2350000000,3,3,75,100,no,no,no,no,yes
+1550,Penjaringan,Jakarta Utara,4100000000,3,3,120,142,no,no,yes,no,no
+1551,Penjaringan,Jakarta Utara,2270000000,3,2,80,100,no,no,no,no,no
+1552,Penjaringan,Jakarta Utara,2700000000,3,3,90,150,no,no,yes,no,no
+1553,Penjaringan,Jakarta Utara,4600000000,2,2,90,145,no,no,no,no,no
+1554,Penjaringan,Jakarta Utara,4600000000,2,2,90,145,no,no,no,no,no
+1555,Penjaringan,Jakarta Utara,1650000000,3,3,45,80,no,no,yes,no,yes
+1556,Penjaringan,Jakarta Utara,4200000000,3,3,120,150,no,no,yes,no,yes
+1557,Penjaringan,Jakarta Utara,4500000000,2,3,137,160,yes,no,no,no,no
+1558,Penjaringan,Jakarta Utara,7500000000,3,3,195,200,no,no,yes,no,no
+1559,Penjaringan,Jakarta Utara,3100000000,3,3,90,120,yes,no,no,yes,no
+1560,Penjaringan,Jakarta Utara,5000000000,4,4,150,175,no,no,yes,no,no
+1561,Penjaringan,Jakarta Utara,15800000000,4,4,300,450,yes,no,no,no,no
+1562,Penjaringan,Jakarta Utara,3650000000,4,4,120,240,no,no,yes,no,no
+1563,Penjaringan,Jakarta Utara,2400000000,2,1,60,79,no,no,yes,no,no
+1564,Penjaringan,Jakarta Utara,13400000000,5,4,144,300,yes,no,no,no,no
+1565,Penjaringan,Jakarta Utara,15900000000,4,4,192,350,no,no,yes,no,no
+1566,Penjaringan,Jakarta Utara,7300000000,4,4,243,280,yes,no,no,yes,no
+1567,Penjaringan,Jakarta Utara,9100000000,4,4,200,600,no,no,yes,no,no
+1568,Penjaringan,Jakarta Utara,3100000000,3,2,75,133,no,no,no,no,no
+1569,Penjaringan,Jakarta Utara,60000000000,4,9,600,1300,no,no,no,yes,no
+1570,Penjaringan,Jakarta Utara,48000000000,5,3,1084,1000,no,no,no,no,no
+1571,Penjaringan,Jakarta Utara,5300000000,3,3,150,209,yes,no,no,no,no
+1572,Penjaringan,Jakarta Utara,12800000000,4,5,240,300,yes,no,yes,no,no
+1573,Penjaringan,Jakarta Utara,36500000000,5,5,585,1400,no,no,yes,no,no
+1574,Penjaringan,Jakarta Utara,13500000000,4,4,250,350,no,no,yes,no,no
+1575,Penjaringan,Jakarta Utara,19000000000,5,5,512,700,yes,no,yes,no,no
+1576,Penjaringan,Jakarta Utara,3900000000,3,3,120,170,no,no,yes,no,no
+1577,Penjaringan,Jakarta Utara,33000000000,4,4,525,900,no,no,yes,no,no
+1578,Penjaringan,Jakarta Utara,13000000000,4,4,360,828,yes,no,yes,no,no
+1579,Penjaringan,Jakarta Utara,11000000000,4,3,250,300,no,no,no,yes,no
+1580,Penjaringan,Jakarta Utara,9500000000,4,4,290,510,no,no,no,no,no
+1581,Penjaringan,Jakarta Utara,9500000000,3,2,136,136,no,no,no,no,no
+1582,Penjaringan,Jakarta Utara,7500000000,3,3,195,200,no,no,yes,no,no
+1583,Penjaringan,Jakarta Utara,14500000000,4,3,320,500,no,no,no,no,no
+1584,Penjaringan,Jakarta Utara,5000000000,4,4,150,175,no,no,yes,no,no
+1585,Penjaringan,Jakarta Utara,15500000000,5,5,355,700,yes,no,yes,no,no
+1586,Penjaringan,Jakarta Utara,7000000000,4,4,180,380,no,no,yes,yes,no
+1587,Penjaringan,Jakarta Utara,27500000000,4,2,550,800,no,no,no,no,no
+1588,Penjaringan,Jakarta Utara,1750000000,2,2,60,79,no,no,yes,no,no
+1589,Penjaringan,Jakarta Utara,1500000000,2,2,54,75,no,no,yes,no,no
+1590,Penjaringan,Jakarta Utara,4500000000,3,3,100,150,yes,no,yes,no,no
+1591,Penjaringan,Jakarta Utara,41900000000,4,4,609,1500,yes,no,no,yes,no
+1592,Penjaringan,Jakarta Utara,41900000000,4,4,609,1500,yes,no,no,yes,no
+1593,Penjaringan,Jakarta Utara,30000000000,1,1,600,600,yes,no,no,no,no
+1594,Penjaringan,Jakarta Utara,7500000000,5,5,330,635,yes,no,yes,no,no
+1595,Penjaringan,Jakarta Utara,7790000000,5,4,324,408,yes,no,yes,no,no
+1596,Penjaringan,Jakarta Utara,10500000000,4,4,200,600,no,no,no,no,no
+1597,Penjaringan,Jakarta Utara,6600000000,4,3,200,300,yes,no,no,no,no
+1598,Penjaringan,Jakarta Utara,25000000000,4,5,525,800,no,no,no,no,no
+1599,Tanjung Priok,Jakarta Utara,7500000000,6,5,292,360,no,no,no,no,no
+1600,Tanjung Priok,Jakarta Utara,3500000000,3,2,105,120,no,no,yes,no,no
+1601,Tanjung Priok,Jakarta Utara,9500000000,4,4,392,700,yes,no,no,no,no
+1602,Tanjung Priok,Jakarta Utara,5000000000,2,2,274,324,no,no,yes,no,no
+1603,Tanjung Priok,Jakarta Utara,1000000000,14,14,252,115,no,no,no,no,no
+1604,Tanjung Priok,Jakarta Utara,5000000000,2,2,274,324,no,no,yes,no,no
+1605,Penjaringan,Jakarta Utara,2200000000,5,2,90,150,no,no,yes,no,no
+1606,Serpong Utara,Tangerang,3000000000,3,2,170,120,yes,no,yes,no,no
+1607,Serpong Utara,Tangerang,2800000000,3,3,112,170,no,no,yes,no,no
+1608,Serpong Utara,Tangerang,3800000000,4,4,102,120,no,no,yes,yes,no
+1609,Serpong Utara,Tangerang,2640000000,3,3,102,150,no,no,no,no,no
+1610,Serpong Utara,Tangerang,5120000000,4,4,140,176,no,no,no,no,no
+1611,Serpong Utara,Tangerang,4000000000,5,4,130,127,no,no,no,yes,no
+1612,Serpong Utara,Tangerang,3950000000,4,4,136,150,no,no,no,yes,no
+1613,Serpong Utara,Tangerang,2900000000,3,2,170,120,yes,no,no,no,no
+1614,Serpong Utara,Tangerang,3750000000,4,3,112,126,no,no,yes,no,no
+1615,Serpong Utara,Tangerang,1970000000,3,2,90,120,no,no,yes,no,no
+1616,Serpong Utara,Tangerang,3750000000,4,3,112,126,yes,no,yes,no,no
+1617,Serpong Utara,Tangerang,12500000000,5,5,555,750,yes,no,no,no,no
+1618,Serpong Utara,Tangerang,5800000000,3,3,240,180,yes,no,no,no,no
+1619,Serpong Utara,Tangerang,6300000000,4,4,160,500,yes,yes,no,no,no
+1620,Serpong Utara,Tangerang,5800000000,5,4,240,200,yes,no,no,no,no
+1621,Serpong Utara,Tangerang,3500000000,4,3,112,126,yes,no,no,no,no
+1622,Serpong Utara,Tangerang,6600000000,5,4,240,335,yes,no,no,no,no
+1623,Serpong Utara,Tangerang,6300000000,4,4,160,500,yes,no,no,no,no
+1624,Serpong Utara,Tangerang,14300000000,4,5,312,398,no,no,yes,no,no
+1625,Serpong Utara,Tangerang,5000000000,4,3,140,200,no,no,no,no,no
+1626,Serpong Utara,Tangerang,25000000000,8,8,765,1500,no,yes,yes,no,no
+1627,Serpong Utara,Tangerang,22000000000,6,7,1110,850,no,yes,yes,no,no
+1628,Serpong Utara,Tangerang,7300000000,4,4,160,500,yes,no,no,no,no
+1629,Serpong Utara,Tangerang,13800000000,4,5,480,750,no,no,no,no,no
+1630,Serpong Utara,Tangerang,5800000000,4,3,240,269,yes,no,no,no,no
+1631,Serpong Utara,Tangerang,7500000000,4,3,300,250,yes,no,no,no,no
+1632,Serpong Utara,Tangerang,7000000000,4,4,264,300,yes,no,no,no,no
+1633,Serpong Utara,Tangerang,1700000000,3,3,72,107,no,no,no,no,no
+1634,Serpong Utara,Tangerang,14300000000,5,6,312,398,no,no,no,no,no
+1635,Serpong Utara,Tangerang,3100000000,3,2,160,112,no,no,yes,no,no
+1636,Serpong Utara,Tangerang,6300000000,4,5,160,400,no,no,yes,no,no
+1637,Serpong Utara,Tangerang,23500000000,5,6,416,568,no,no,no,no,yes
+1638,Serpong Utara,Tangerang,2500000000,3,1,160,98,no,no,no,no,no
+1639,Serpong Utara,Tangerang,3100000000,5,5,112,231,no,no,yes,no,no
+1640,Serpong Utara,Tangerang,4400000000,3,3,200,400,no,no,yes,no,no
+1641,Batu Ceper,Tangerang,1670000000,3,2,169,150,no,no,no,no,no
+1642,Serpong,Tangerang,2200000000,3,2,70,78,no,no,no,no,no
+1643,Serpong,Tangerang,1020000000,2,1,98,60,no,no,no,no,no
+1644,Serpong,Tangerang,920000000,2,2,84,58,yes,no,no,no,no
+1645,Serpong,Tangerang,900000000,2,1,75,65,yes,no,no,no,no
+1646,Serpong,Tangerang,162000000,2,1,60,30,no,no,yes,no,no
+1647,Serpong,Tangerang,970000000,3,2,60,54,yes,no,no,no,no
+1648,Serpong,Tangerang,2010000000,2,2,112,66,yes,no,no,no,no
+1649,Serpong,Tangerang,1030000000,2,2,75,99,no,no,no,no,no
+1650,Serpong,Tangerang,710000000,2,1,72,36,no,no,yes,no,no
+1651,Serpong,Tangerang,650000000,2,2,60,73,no,no,no,no,no
+1652,Serpong,Tangerang,2540000000,3,3,135,90,no,no,no,no,no
+1653,Serpong,Tangerang,2800000000,4,3,120,160,no,no,yes,no,no
+1654,Serpong,Tangerang,1790000000,3,2,117,78,yes,no,no,no,no
+1655,Serpong,Tangerang,1420000000,2,1,84,50,yes,no,no,no,no
+1656,Serpong,Tangerang,1750000000,3,2,112,72,yes,no,no,no,no
+1657,Serpong,Tangerang,1450000000,3,3,70,94,no,no,yes,no,no
+1658,Serpong,Tangerang,1870000000,1,3,105,70,no,no,no,no,no
+1659,Serpong,Tangerang,3050000000,4,3,162,175,yes,no,no,no,no
+1660,Serpong,Tangerang,670000000,2,1,60,33,yes,no,no,no,no
+1661,Serpong,Tangerang,4500000000,4,4,200,180,no,no,no,no,no
+1662,Serpong,Tangerang,3500000000,3,3,170,120,no,no,no,no,no
+1663,Serpong,Tangerang,3310000000,3,3,150,200,yes,no,no,no,no
+1664,Serpong,Tangerang,1270000000,2,1,56,45,no,no,no,no,no
+1665,Serpong,Tangerang,540000000,2,1,72,36,no,no,no,no,no
+1666,Serpong,Tangerang,1120000000,2,2,85,45,no,no,no,no,no
+1667,Serpong,Tangerang,960000000,2,1,72,54,yes,no,no,no,no
+1668,Serpong,Tangerang,1340000000,3,2,78,88,yes,no,no,no,no
+1669,Serpong,Tangerang,1170000000,2,1,122,75,yes,yes,no,no,no
+1670,Serpong,Tangerang,2140000000,3,3,105,170,yes,no,no,no,no
+1671,Serpong,Tangerang,1680000000,2,2,105,70,yes,no,no,no,no
+1672,Serpong,Tangerang,2470000000,3,2,116,139,yes,no,no,no,no
+1673,Serpong,Tangerang,5700000000,3,3,190,112,no,no,yes,no,no
+1674,Serpong,Tangerang,3600000000,3,3,220,198,yes,no,yes,no,no
+1675,Serpong,Tangerang,2100000000,5,3,203,170,no,no,no,yes,no
+1676,Serpong,Tangerang,6300000000,5,6,136,235,no,no,yes,no,no
+1677,Serpong,Tangerang,380000000,2,1,60,30,no,no,yes,no,no
+1678,Serpong,Tangerang,1180000000,3,2,108,82,yes,no,no,no,no
+1679,Serpong,Tangerang,810000000,2,1,72,36,no,no,yes,no,no
+1680,Serpong,Tangerang,4900000000,4,4,143,195,yes,no,no,no,yes
+1681,Serpong,Tangerang,4800000000,4,4,135,350,yes,no,no,no,no
+1682,Serpong,Tangerang,2850000000,3,2,135,180,no,no,no,no,no
+1683,Serpong,Tangerang,4250000000,3,3,180,200,yes,no,no,no,no
+1684,Serpong,Tangerang,5000000000,4,3,235,186,no,no,yes,no,no
+1685,Serpong,Tangerang,1220000000,2,3,72,70,yes,no,no,no,no
+1686,Serpong,Tangerang,2040000000,3,3,65,77,yes,no,no,no,no
+1687,Serpong,Tangerang,750000000,2,1,72,36,yes,no,no,no,no
+1688,Serpong,Tangerang,2390000000,3,3,162,222,no,no,no,no,no
+1689,Serpong,Tangerang,2470000000,4,3,120,200,yes,no,no,no,no
+1690,Serpong,Tangerang,2890000000,3,3,150,200,yes,no,no,no,no
+1691,Serpong,Tangerang,910000000,3,2,120,90,yes,no,no,no,no
+1692,Serpong,Tangerang,2600000000,3,2,200,150,yes,no,no,no,no
+1693,Cisauk,Tangerang,3450000000,3,3,180,135,yes,no,no,no,no
+1694,Cisauk,Tangerang,2250000000,3,2,126,115,no,no,yes,no,no
+1695,Setu,Tangerang,1020000000,2,1,98,60,no,no,yes,no,no
+1696,Setu,Tangerang,1440000000,3,2,100,70,no,no,no,no,no
+1697,Setu,Tangerang,1550000000,3,2,84,91,yes,no,no,no,no
+1698,Setu,Tangerang,1600000000,3,3,70,80,yes,no,no,no,no
+1699,Setu,Tangerang,1130000000,2,2,84,45,no,no,yes,no,no
+1700,Setu,Tangerang,1290000000,2,2,105,70,no,no,yes,no,no
+1701,Setu,Tangerang,720000000,2,1,50,32,yes,no,no,no,no
+1702,Setu,Tangerang,910000000,3,2,120,90,yes,no,no,no,no
+1703,Setu,Tangerang,1220000000,2,3,72,70,no,no,yes,no,no
+1704,Setu,Tangerang,1220000000,2,3,72,70,no,no,yes,no,no
+1705,Setu,Tangerang,1120000000,2,2,85,45,no,no,no,no,no
+1706,Setu,Tangerang,1140000000,2,1,84,60,no,no,no,no,no
+1707,Setu,Tangerang,920000000,2,2,84,58,no,no,no,no,no
+1708,Setu,Tangerang,1030000000,2,2,75,99,no,no,no,no,no
+1709,Setu,Tangerang,1120000000,2,2,85,45,no,no,yes,no,no
+1710,Setu,Tangerang,1290000000,2,1,72,50,yes,no,no,no,no
+1711,Setu,Tangerang,1440000000,3,2,100,70,yes,no,no,no,no
+1712,Setu,Tangerang,2550000000,3,2,160,92,no,no,yes,no,no
+1713,Setu,Tangerang,2250000000,3,2,126,115,yes,no,no,no,no
+1714,Setu,Tangerang,1550000000,3,2,84,91,yes,no,no,no,no
+1715,Setu,Tangerang,960000000,2,2,72,41,no,no,no,no,no
+1716,Setu,Tangerang,600000000,3,2,63,48,yes,yes,no,no,no
+1717,Setu,Tangerang,650000000,2,1,81,42,no,no,yes,no,no
+1718,Setu,Tangerang,970000000,3,2,60,54,yes,no,no,no,no
+1719,Setu,Tangerang,1140000000,2,1,72,46,yes,no,no,no,no
+1720,Setu,Tangerang,1790000000,3,2,117,78,yes,no,no,no,no
+1721,Setu,Tangerang,1420000000,2,1,84,50,yes,no,no,no,no
+1722,Setu,Tangerang,1300000000,2,2,48,63,no,no,yes,no,no
+1723,Setu,Tangerang,3640000000,3,3,128,102,yes,no,no,no,no
+1724,Setu,Tangerang,2140000000,3,3,105,170,yes,no,no,no,no
+1725,Setu,Tangerang,1400000000,2,1,112,60,no,no,yes,no,no
+1726,Setu,Tangerang,900000000,2,1,75,65,yes,no,no,no,no
+1727,Setu,Tangerang,2030000000,3,2,77,70,yes,no,no,no,no
+1728,Setu,Tangerang,31000000000,4,3,1485,838,yes,no,no,no,no
+1729,Setu,Tangerang,7490000000,4,4,180,242,yes,no,no,no,yes
+1730,Setu,Tangerang,5000000000,5,5,200,228,no,no,yes,no,no
+1731,Setu,Tangerang,16500000000,7,7,708,968,no,no,yes,no,no
+1732,Cisauk,Tangerang,4150000000,3,3,180,200,no,no,no,no,no
+1733,Cisauk,Tangerang,8500000000,4,4,386,345,no,yes,yes,no,no
+1734,Cisauk,Tangerang,11500000000,4,4,450,310,yes,no,no,no,no
+1735,Serpong,Tangerang,3800000000,4,2,200,265,no,no,no,no,no
+1736,Serpong,Tangerang,5500000000,4,5,280,370,no,no,no,no,no
+1737,Pagedangan,Tangerang,6000000000,4,5,120,195,no,no,no,no,no
+1738,Pagedangan,Tangerang,3400000000,3,3,120,142,no,no,yes,no,no
+1739,Pagedangan,Tangerang,3100000000,3,3,162,125,no,no,no,no,no
+1740,Pagedangan,Tangerang,3300000000,3,3,160,114,no,no,no,no,no
+1741,Pagedangan,Tangerang,2500000000,4,3,144,120,no,no,no,no,no
+1742,Pagedangan,Tangerang,9800000000,4,3,385,425,no,no,no,no,no
+1743,Pagedangan,Tangerang,5900000000,5,4,264,290,yes,no,no,no,no
+1744,Pagedangan,Tangerang,3900000000,3,1,200,225,no,no,no,no,no
+1745,Pagedangan,Tangerang,990000000,2,1,40,45,no,no,yes,no,no
+1746,Pagedangan,Tangerang,3950000000,3,3,160,130,no,no,no,yes,yes
+1747,Serpong,Tangerang,1980000000,4,3,90,130,yes,no,yes,no,no
+1748,Serpong,Tangerang,2150000000,3,2,98,135,no,no,yes,no,no
+1749,Serpong,Tangerang,1350000000,2,1,85,50,yes,yes,no,no,no
+1750,Serpong,Tangerang,1500000000,2,1,98,70,no,no,no,no,no
+1751,Serpong,Tangerang,1750000000,2,1,105,76,yes,yes,no,no,no
+1752,Serpong,Tangerang,1250000000,2,1,78,60,no,no,yes,no,no
+1753,Serpong,Tangerang,2100000000,5,3,203,218,yes,no,no,no,no
+1754,Serpong,Tangerang,2800000000,5,3,120,145,yes,yes,no,no,no
+1755,Serpong,Tangerang,1600000000,3,2,90,96,yes,no,no,no,no
+1756,Serpong,Tangerang,3200000000,5,4,208,300,yes,no,yes,no,no
+1757,Serpong,Tangerang,2900000000,4,1,144,200,no,yes,no,no,no
+1758,Serpong,Tangerang,2250000000,3,2,105,190,no,no,no,no,no
+1759,Serpong,Tangerang,3250000000,3,2,180,180,no,no,no,no,no
+1760,Serpong,Tangerang,2250000000,2,2,105,69,yes,no,no,no,no
+1761,Serpong,Tangerang,3300000000,3,3,180,180,no,no,no,yes,no
+1762,Serpong,Tangerang,3300000000,3,3,180,180,no,no,no,yes,no
+1763,Serpong,Tangerang,8800000000,5,4,450,400,yes,no,no,no,no
+1764,Serpong,Tangerang,5500000000,3,3,200,250,yes,no,no,no,no
+1765,Serpong,Tangerang,4750000000,3,4,240,300,no,no,yes,no,no
+1766,Cisauk,Tangerang,1950000000,3,3,112,100,yes,no,no,no,no
+1767,Cisauk,Tangerang,4600000000,4,4,163,283,yes,no,no,no,no
+1768,Pagedangan,Tangerang,1350000000,2,2,60,80,no,no,no,no,no
+1769,Pagedangan,Tangerang,1890000000,3,2,116,70,no,no,no,no,no
+1770,Pagedangan,Tangerang,1750000000,2,2,60,53,no,no,yes,no,no
+1771,Pagedangan,Tangerang,1550000000,3,2,77,150,no,no,no,no,no
+1772,Serpong,Tangerang,14500000000,5,3,475,330,no,no,yes,no,no
+1773,Serpong,Tangerang,3600000000,3,3,220,198,yes,no,yes,no,no
+1774,Tangerang,Tangerang,1820000000,4,3,82,85,yes,no,no,no,no
+1775,Cikupa,Tangerang,1020000000,3,2,128,110,yes,no,no,no,no
+1776,Cikupa,Tangerang,650000000,2,1,102,46,no,no,yes,no,no
+1777,Cikupa,Tangerang,850000000,2,1,120,66,no,no,yes,no,no
+1778,Cikupa,Tangerang,488000000,3,2,84,82,no,yes,yes,no,no
+1779,Cikupa,Tangerang,865000000,2,1,136,84,yes,no,no,no,no
+1780,Cikupa,Tangerang,1070000000,4,3,100,120,no,no,yes,no,yes
+1781,Cikupa,Tangerang,850000000,2,1,75,40,no,no,yes,no,no
+1782,Cikupa,Tangerang,915000000,4,3,84,101,yes,no,no,no,no
+1783,Cikupa,Tangerang,1040000000,3,3,120,120,no,yes,no,no,no
+1784,Cikupa,Tangerang,1160000000,4,3,120,120,no,no,no,no,no
+1785,Cikupa,Tangerang,700000000,2,1,90,49,yes,no,no,no,no
+1786,Cikupa,Tangerang,550000000,3,2,85,65,no,no,no,no,no
+1787,Ciledug,Tangerang,2520000000,2,1,165,150,no,no,no,no,no
+1788,Ciledug,Tangerang,700000000,2,1,68,45,yes,no,no,no,no
+1789,Cipondoh,Tangerang,1930000000,2,2,179,90,yes,no,no,no,no
+1790,Cipondoh,Tangerang,970000000,2,2,77,77,yes,no,no,no,no
+1791,Cipondoh,Tangerang,3500000000,4,2,84,86,yes,no,yes,no,no
+1792,Cipondoh,Tangerang,780000000,2,1,55,45,yes,no,no,no,no
+1793,Cipondoh,Tangerang,1320000000,5,2,72,130,yes,no,no,no,no
+1794,Cipondoh,Tangerang,910000000,2,1,72,48,yes,no,no,no,no
+1795,Cipondoh,Tangerang,3650000000,3,3,150,190,yes,no,no,no,no
+1796,Cipondoh,Tangerang,800000000,3,2,119,80,no,no,yes,no,no
+1797,Solear,Tangerang,2100000000,4,3,104,134,yes,no,yes,no,no
+1798,Cisauk,Tangerang,950000000,2,1,98,60,yes,no,no,no,no
+1799,Cisauk,Tangerang,950000000,2,1,98,60,yes,no,no,no,no
+1800,Cisauk,Tangerang,1140000000,2,1,72,46,yes,no,no,no,no
+1801,Cisauk,Tangerang,960000000,2,2,72,41,yes,no,yes,no,no
+1802,Cisauk,Tangerang,960000000,2,1,72,54,no,no,yes,no,no
+1803,Cisauk,Tangerang,1120000000,2,2,85,45,no,no,yes,no,no
+1804,Cisauk,Tangerang,898000000,2,2,60,50,yes,no,yes,no,no
+1805,Cisauk,Tangerang,1990000000,3,3,120,104,no,no,yes,no,no
+1806,Cisauk,Tangerang,1140000000,2,1,84,60,yes,no,no,no,no
+1807,Cisauk,Tangerang,410000000,2,1,60,60,no,no,yes,no,no
+1808,Cisauk,Tangerang,1100000000,3,2,162,120,no,no,yes,no,no
+1809,Cisauk,Tangerang,670000000,2,1,60,33,no,no,no,no,no
+1810,Cisauk,Tangerang,181000000,2,1,30,66,yes,no,no,no,no
+1811,Cisauk,Tangerang,1320000000,2,1,122,75,yes,no,no,no,no
+1812,Curug,Tangerang,991000000,4,3,72,70,no,no,no,yes,no
+1813,Curug,Tangerang,991000000,4,3,70,77,yes,no,no,no,no
+1814,Curug,Tangerang,595000000,3,2,66,50,no,no,no,no,no
+1815,Curug,Tangerang,850000000,3,2,105,95,no,no,yes,no,no
+1816,Curug,Tangerang,720000000,2,1,72,36,yes,no,no,no,no
+1817,Curug,Tangerang,2600000000,3,3,168,200,yes,no,no,no,no
+1818,Curug,Tangerang,740000000,2,1,72,39,yes,no,no,no,no
+1819,Curug,Tangerang,955000000,1,1,113,144,no,no,no,no,no
+1820,Curug,Tangerang,1000000000,2,2,90,139,no,no,no,no,no
+1821,Batu Ceper,Tangerang,950000000,3,2,57,114,no,no,no,no,no
+1822,Kelapa Dua,Tangerang,2850000000,3,3,108,120,no,no,no,no,no
+1823,Kelapa Dua,Tangerang,3500000000,3,2,79,91,no,no,no,no,no
+1824,Kelapa Dua,Tangerang,1450000000,4,3,138,120,no,no,no,no,no
+1825,Kelapa Dua,Tangerang,3200000000,4,3,96,161,no,no,no,yes,no
+1826,Kelapa Dua,Tangerang,3000000000,3,3,110,130,yes,no,no,no,no
+1827,Kelapa Dua,Tangerang,2440000000,3,2,84,92,yes,no,no,no,no
+1828,Kelapa Dua,Tangerang,3200000000,4,3,144,176,yes,no,no,no,no
+1829,Kelapa Dua,Tangerang,750000000,2,1,78,50,no,no,no,no,no
+1830,Kelapa Dua,Tangerang,1450000000,5,2,140,200,no,no,no,no,no
+1831,Kelapa Dua,Tangerang,4950000000,4,3,180,178,yes,no,no,no,no
+1832,Kelapa Dua,Tangerang,2650000000,3,3,135,135,yes,no,no,no,no
+1833,Kelapa Dua,Tangerang,1100000000,2,1,96,96,no,no,yes,no,no
+1834,Kelapa Dua,Tangerang,1020000000,2,1,120,80,yes,no,no,no,no
+1835,Kelapa Dua,Tangerang,4200000000,4,3,144,174,no,no,no,no,no
+1836,Kelapa Dua,Tangerang,2030000000,3,2,77,70,no,no,no,no,no
+1837,Kelapa Dua,Tangerang,1470000000,2,2,90,54,no,no,no,no,no
+1838,Kelapa Dua,Tangerang,2150000000,3,4,80,130,yes,no,no,no,no
+1839,Kelapa Dua,Tangerang,2150000000,3,4,80,130,yes,no,no,no,no
+1840,Kelapa Dua,Tangerang,1650000000,4,3,63,121,yes,no,no,no,no
+1841,Kelapa Dua,Tangerang,3100000000,3,3,96,161,no,no,yes,no,no
+1842,Kelapa Dua,Tangerang,3500000000,4,3,144,155,no,no,yes,no,no
+1843,Kelapa Dua,Tangerang,2350000000,3,2,72,100,yes,no,no,no,no
+1844,Kelapa Dua,Tangerang,1870000000,4,2,90,120,no,no,no,yes,no
+1845,Kelapa Dua,Tangerang,1500000000,2,2,66,62,no,no,no,no,no
+1846,Kelapa Dua,Tangerang,4200000000,3,2,153,163,yes,no,no,no,no
+1847,Kelapa Dua,Tangerang,3500000000,4,3,144,155,no,no,yes,no,no
+1848,Kelapa Dua,Tangerang,3500000000,4,3,144,155,no,no,yes,no,no
+1849,Kelapa Dua,Tangerang,1180000000,3,1,96,56,no,no,yes,no,no
+1850,Kelapa Dua,Tangerang,2950000000,4,4,153,163,no,no,no,no,no
+1851,Kelapa Dua,Tangerang,2200000000,3,2,84,144,no,no,yes,no,no
+1852,Kelapa Dua,Tangerang,3100000000,3,3,96,161,no,no,yes,no,no
+1853,Kelapa Dua,Tangerang,3500000000,4,3,144,155,no,no,yes,no,no
+1854,Kelapa Dua,Tangerang,3500000000,4,3,144,155,no,no,yes,no,no
+1855,Kelapa Dua,Tangerang,4800000000,4,3,180,175,no,no,no,no,yes
+1856,Kelapa Dua,Tangerang,4400000000,3,2,153,163,no,no,no,no,no
+1857,Kelapa Dua,Tangerang,2100000000,3,2,77,73,no,no,yes,no,no
+1858,Kelapa Dua,Tangerang,850000000,2,1,72,65,yes,no,yes,no,no
+1859,Kelapa Dua,Tangerang,860000000,4,2,174,165,yes,no,no,no,no
+1860,Kelapa Dua,Tangerang,2140000000,3,3,65,77,yes,no,no,no,no
+1861,Kelapa Dua,Tangerang,1590000000,3,2,56,83,no,no,yes,no,no
+1862,Kelapa Dua,Tangerang,1740000000,3,3,84,105,no,no,yes,no,no
+1863,Kelapa Dua,Tangerang,2950000000,4,4,153,163,no,no,yes,no,no
+1864,Kelapa Dua,Tangerang,5500000000,4,3,180,200,no,no,no,yes,no
+1865,Kelapa Dua,Tangerang,2040000000,3,3,65,77,no,no,yes,no,no
+1866,Kelapa Dua,Tangerang,1700000000,3,2,77,90,no,no,no,yes,no
+1867,Kelapa Dua,Tangerang,1800000000,3,1,120,87,no,no,no,no,no
+1868,Kelapa Dua,Tangerang,1930000000,2,2,120,60,no,no,no,no,no
+1869,Kelapa Dua,Tangerang,4200000000,4,3,144,174,no,no,yes,no,no
+1870,Kelapa Dua,Tangerang,1450000000,2,2,66,62,no,no,yes,yes,no
+1871,Kelapa Dua,Tangerang,3200000000,4,4,198,170,no,no,yes,no,no
+1872,Kelapa Dua,Tangerang,1720000000,3,3,84,105,yes,no,no,no,no
+1873,Kelapa Dua,Tangerang,3650000000,4,4,136,147,no,yes,no,yes,no
+1874,Kelapa Dua,Tangerang,3750000000,3,3,187,158,no,no,yes,no,no
+1875,Kelapa Dua,Tangerang,2090000000,4,2,128,120,no,no,no,no,no
+1876,Kelapa Dua,Tangerang,1020000000,2,1,120,80,yes,no,no,no,no
+1877,Kelapa Dua,Tangerang,2030000000,3,2,77,70,no,no,no,no,no
+1878,Kelapa Dua,Tangerang,2850000000,3,2,136,160,no,no,yes,no,no
+1879,Kelapa Dua,Tangerang,3100000000,3,2,96,161,no,no,yes,no,no
+1880,Kelapa Dua,Tangerang,2300000000,3,3,128,190,yes,no,no,no,no
+1881,Kelapa Dua,Tangerang,2300000000,3,3,128,190,yes,no,no,no,no
+1882,Kelapa Dua,Tangerang,2190000000,3,2,80,130,yes,no,no,yes,no
+1883,Kelapa Dua,Tangerang,1610000000,3,2,69,89,no,no,yes,no,no
+1884,Kelapa Dua,Tangerang,2470000000,6,3,143,185,no,no,yes,no,no
+1885,Kelapa Dua,Tangerang,810000000,2,1,72,50,yes,no,no,no,no
+1886,Kelapa Dua,Tangerang,740000000,2,1,72,39,yes,no,no,no,no
+1887,Kelapa Dua,Tangerang,5600000000,4,3,250,230,yes,no,no,no,no
+1888,Kelapa Dua,Tangerang,2900000000,3,2,136,160,yes,yes,no,no,no
+1889,Kelapa Dua,Tangerang,5690000000,4,3,250,230,no,no,yes,no,no
+1890,Kelapa Dua,Tangerang,4200000000,4,3,144,174,yes,no,no,no,no
+1891,Kelapa Dua,Tangerang,2900000000,3,2,136,180,yes,no,no,no,no
+1892,Kelapa Dua,Tangerang,4200000000,3,2,153,163,yes,no,no,no,no
+1893,Kelapa Dua,Tangerang,1700000000,2,2,72,69,yes,no,yes,no,no
+1894,Kelapa Dua,Tangerang,3500000000,3,3,144,140,no,no,no,no,no
+1895,Kelapa Dua,Tangerang,3050000000,3,3,96,161,yes,no,yes,no,no
+1896,Kelapa Dua,Tangerang,1390000000,3,2,72,72,no,no,yes,no,no
+1897,Kelapa Dua,Tangerang,3100000000,3,3,96,161,no,no,yes,no,no
+1898,Kelapa Dua,Tangerang,2800000000,4,4,195,300,no,no,yes,no,no
+1899,Kelapa Dua,Tangerang,4650000000,3,3,181,300,no,no,yes,no,no
+1900,Kelapa Dua,Tangerang,15000000000,4,6,595,500,no,no,yes,no,no
+1901,Kelapa Dua,Tangerang,3700000000,3,2,216,125,no,no,yes,no,no
+1902,Kelapa Dua,Tangerang,2250000000,3,3,126,140,no,no,yes,no,no
+1903,Kelapa Dua,Tangerang,2400000000,3,3,128,121,no,no,yes,yes,no
+1904,Kelapa Dua,Tangerang,5000000000,4,4,220,440,no,no,no,no,no
+1905,Kelapa Dua,Tangerang,1600000000,2,2,72,114,no,no,no,yes,no
+1906,Kelapa Dua,Tangerang,1450000000,2,2,63,79,no,no,no,yes,no
+1907,Kelapa Dua,Tangerang,9000000000,6,5,304,450,no,no,no,no,no
+1908,Serpong Utara,Tangerang,1180000000,3,2,72,73,no,no,no,no,no
+1909,Serpong Utara,Tangerang,995000000,3,2,90,70,no,no,no,no,no
+1910,Serpong Utara,Tangerang,1470000000,2,1,90,60,yes,yes,no,no,no
+1911,Karang Tengah,Tangerang,1000000000,2,1,112,80,no,no,no,no,no
+1912,Karang Tengah,Tangerang,1450000000,4,2,150,135,yes,no,no,no,no
+1913,Karang Tengah,Tangerang,800000000,3,2,112,90,yes,no,no,no,no
+1914,Karawaci,Tangerang,650000000,2,1,90,60,no,no,no,no,no
+1915,Karawaci,Tangerang,1500000000,2,2,120,80,yes,no,no,no,no
+1916,Karawaci,Tangerang,700000000,2,1,82,50,no,no,yes,no,no
+1917,Karawaci,Tangerang,1020000000,3,2,128,110,no,no,yes,no,no
+1918,Karawaci,Tangerang,910000000,3,1,150,70,no,no,no,no,no
+1919,Karawaci,Tangerang,991000000,4,2,70,77,no,no,no,no,no
+1920,Karawaci,Tangerang,1480000000,2,2,90,60,no,no,yes,no,no
+1921,Karawaci,Tangerang,720000000,2,1,72,36,yes,no,no,no,no
+1922,Karawaci,Tangerang,800000000,2,1,72,36,yes,no,no,no,no
+1923,Karawaci,Tangerang,990000000,2,2,108,90,yes,no,yes,no,no
+1924,Karawaci,Tangerang,1800000000,3,2,60,66,yes,no,no,no,no
+1925,Karawaci,Tangerang,1800000000,3,2,60,66,no,no,no,no,no
+1926,Karawaci,Tangerang,2040000000,5,3,120,180,yes,no,no,no,no
+1927,Karawaci,Tangerang,1020000000,2,2,60,50,no,no,no,no,no
+1928,Karawaci,Tangerang,987000000,4,2,72,83,no,no,no,yes,no
+1929,Kelapa Dua,Tangerang,860000000,4,2,174,165,yes,no,no,no,no
+1930,Kelapa Dua,Tangerang,2950000000,4,4,153,163,yes,no,no,no,no
+1931,Kelapa Dua,Tangerang,468000000,2,1,60,45,yes,no,yes,no,no
+1932,Kelapa Dua,Tangerang,970000000,4,3,105,165,yes,no,no,no,no
+1933,Kelapa Dua,Tangerang,1130000000,2,2,110,100,yes,no,no,no,no
+1934,Pinang,Tangerang,1500000000,6,3,112,140,yes,no,no,no,no
+1935,Larangan,Tangerang,720000000,2,1,60,36,yes,no,no,no,no
+1936,Larangan,Tangerang,900000000,2,2,54,68,yes,no,yes,no,no
+1937,Larangan,Tangerang,720000000,2,1,60,36,yes,no,no,no,no
+1938,Legok,Tangerang,1750000000,3,3,189,100,no,no,yes,no,no
+1939,Legok,Tangerang,700000000,2,1,82,50,yes,no,no,no,no
+1940,Legok,Tangerang,445000000,3,2,90,65,yes,no,no,no,no
+1941,Legok,Tangerang,590000000,2,1,60,49,yes,no,no,no,no
+1942,Kelapa Dua,Tangerang,1800000000,3,2,120,180,no,no,yes,no,no
+1943,Kelapa Dua,Tangerang,2600000000,4,4,168,200,no,no,yes,no,no
+1944,Kelapa Dua,Tangerang,1440000000,4,2,96,110,yes,no,no,no,no
+1945,Kelapa Dua,Tangerang,800000000,2,1,72,36,no,no,yes,no,no
+1946,Kelapa Dua,Tangerang,2950000000,4,4,153,163,yes,no,no,no,no
+1947,Kelapa Dua,Tangerang,740000000,2,1,72,39,yes,no,no,no,no
+1948,Kelapa Dua,Tangerang,1880000000,4,4,108,110,no,no,yes,no,no
+1949,Kelapa Dua,Tangerang,960000000,2,1,90,65,no,no,yes,no,no
+1950,Kelapa Dua,Tangerang,800000000,2,1,72,36,no,no,no,no,no
+1951,Kelapa Dua,Tangerang,2520000000,2,1,195,89,no,no,no,no,no
+1952,Kelapa Dua,Tangerang,1060000000,3,2,119,100,yes,no,no,no,no
+1953,Kelapa Dua,Tangerang,1680000000,3,2,76,67,no,no,no,no,no
+1954,Karang Tengah,Tangerang,1420000000,3,2,116,100,yes,no,no,no,no
+1955,Tangerang,Tangerang,2900000000,3,2,171,154,no,no,no,no,no
+1956,Tangerang,Tangerang,4700000000,4,4,360,400,no,no,no,no,no
+1957,Tangerang,Tangerang,6500000000,6,6,300,580,no,yes,no,no,no
+1958,Tangerang,Tangerang,8000000000,5,6,350,500,no,no,no,no,no
+1959,Tangerang,Tangerang,3250000000,4,3,180,220,no,no,yes,yes,yes
+1960,Pagedangan,Tangerang,2030000000,3,2,77,70,no,no,no,no,no
+1961,Pagedangan,Tangerang,2030000000,3,2,77,70,yes,no,no,no,no
+1962,Pagedangan,Tangerang,1000000000,3,1,91,80,no,no,no,no,no
+1963,Serpong Utara,Tangerang,2520000000,2,1,195,89,yes,no,no,no,no
+1964,Panongan,Tangerang,1880000000,4,4,157,260,yes,no,no,no,no
+1965,Pasar Kemis,Tangerang,890000000,4,2,120,140,yes,no,no,no,no
+1966,Pasar Kemis,Tangerang,300000000,2,2,66,80,no,no,no,no,no
+1967,Pasar Kemis,Tangerang,1240000000,1,1,120,150,no,no,no,no,no
+1968,Pinang,Tangerang,1600000000,3,2,144,180,yes,no,no,no,no
+1969,Pamulang,Tangerang,900000000,3,3,70,78,yes,yes,no,no,yes
+1970,Cipondoh,Tangerang,920000000,3,2,75,67,no,no,no,no,no
+1971,Cipondoh,Tangerang,1350000000,3,3,60,130,no,no,no,no,no
+1972,Cipondoh,Tangerang,920000000,3,2,66,60,no,no,no,no,no
+1973,Cipondoh,Tangerang,1030000000,3,2,90,120,no,no,no,no,no
+1974,Cipondoh,Tangerang,1050000000,3,3,47,75,no,no,no,no,no
+1975,Cipondoh,Tangerang,1050000000,3,2,48,90,no,no,no,no,no
+1976,Cipondoh,Tangerang,1050000000,3,2,55,100,no,no,no,no,no
+1977,Sepatan Timur,Tangerang,375000000,1,1,60,60,no,no,no,no,no
+1978,Sepatan,Tangerang,299000000,2,1,60,36,no,yes,yes,no,no
+1979,Sepatan,Tangerang,500000000,2,1,95,61,no,no,yes,no,no
+1980,Sindang Jaya,Tangerang,1000000000,2,2,66,79,no,no,no,no,no
+1981,Sindang Jaya,Tangerang,1250000000,5,4,108,84,yes,no,yes,no,no
+1982,Sindang Jaya,Tangerang,1250000000,5,4,108,84,yes,no,yes,no,no
+1983,Sindang Jaya,Tangerang,1200000000,3,2,119,120,no,no,yes,no,no
+1984,Sindang Jaya,Tangerang,3040000000,4,3,160,110,yes,no,no,no,no
+1985,Sindang Jaya,Tangerang,1100000000,2,1,160,84,no,no,yes,no,no
+1986,Sindang Jaya,Tangerang,1780000000,3,2,180,135,no,no,yes,no,no
+1987,Cisauk,Tangerang,970000000,3,2,60,54,yes,no,no,no,no
+1988,Tangerang,Tangerang,2600000000,3,3,168,200,no,no,no,no,no
+1989,Tangerang,Tangerang,1950000000,3,3,88,50,no,no,yes,no,no
+1990,Tangerang,Tangerang,2460000000,3,3,108,75,no,no,yes,no,no
+1991,Tangerang,Tangerang,2780000000,4,4,105,110,no,no,yes,no,no
+1992,Tangerang,Tangerang,1950000000,3,3,88,50,no,no,yes,no,no
+1993,Tangerang,Tangerang,2460000000,3,3,108,75,no,no,yes,no,no
+1994,Tangerang,Tangerang,2780000000,4,4,105,110,no,no,yes,no,no
+1995,Tangerang,Tangerang,1950000000,3,3,88,55,no,no,yes,no,no
+1996,Tangerang,Tangerang,2460000000,3,3,108,75,no,no,yes,no,no
+1997,Tangerang,Tangerang,2780000000,4,4,105,110,no,no,yes,no,no
+1998,Tangerang,Tangerang,375000000,2,1,123,36,no,no,yes,no,no
+1999,Tangerang,Tangerang,750000000,2,1,90,60,no,no,no,no,no
+2000,Tangerang,Tangerang,1000000000,2,2,169,200,no,no,no,no,no
